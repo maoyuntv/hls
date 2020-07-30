@@ -1,0 +1,69 @@
+DVDFab - INFORMAZIONI LICENZA PRODOTTO 
+
+AVVISO AGLI UTENTI: LEGGERE ATTENTAMENTE IL SEGUENTE ACCORDO LEGALE. 
+
+L'USO DEL SOFTWARE FORNITO CON IL PRESENTE ACCORDO (IL "SOFTWARE") IMPLICA L'ACCETTAZIONE DELLE PRESENTI CONDIZIONI. 
+SE NON SI ACCETTANO LE CONDIZIONI DEL PRESENTE ACCORDO, NON INSTALLARE E/O USARE QUESTO SOFTWARE. 
+L'USO DI QUESTO SOFTWARE E' CONDIZIONATO AL RISPETTO DA PARTE DELL'UTENTE DELLE CONDIZIONI DI QUESTO ACCORDO. 
+
+1. CONCESSIONE DI LICENZA. 
+Fengtao Software Inc. concede una licenza per utilizzare una copia della versione di questo software su tanti sistemi quante sono le licenze acquistate. 
+Per "Tu/voi" si intende l'azienda, l'entit?o l'individuo i cui fondi sono utilizzati per pagare la licenza. 
+Per "Utilizzo" si intende la memorizzazione, il caricamento, l'installazione, l'esecuzione o la visualizzazione del SOFTWARE. 
+L'utente non pu?modificare il software o disattivare qualsiasi licenza o le funzioni di controllo del SOFTWARE, ad eccezione di quelle all'interno del SOFTWARE. 
+La prima volta che si ottenie una copia del software, ?concesso un periodo di valutazione di non pi?di 30 giorni, dopo di che si deve acquistare la licenza per il SOFWTARE secondo i termini e i prezzi definiti nella documentazione del SOFTWARE, o ?necessario rimuovere il SOFTWARE dal sistema. 
+Questa licenza non ?trasferibile a nessun altro sistema, o ad un'altra organizzazione o persona. 
+Si suppone che il software sia utilizzato sul proprio sistema, quindi si raccomanda di valutare accuratamente la sua utilit?e funzionalit?prima di effettuare un acquisto. 
+Questa "prova prima dell'acquisto" ?la massima garanzia che il SOFTWARE funzioner?in modo per voi soddisfacente; quindi vi permetter?di capire e accettare che non vi ?alcuna politica di rimborso per qualsiasi acquisto del SOFTWARE.
+
+2. PROPRIETA'. 
+Il SOFTWARE ?di propriet?ed ?protetto da copyright di Fengtao Software Inc.. 
+La licenza non conferisce alcun titolo o diritto di propriet?sul SOFTWARE e non deve essere interpretato come una vendita di qualsiasi diritto sul SOFTWARE.
+
+3. DIRITTO D'AUTORE. 
+Il SOFTWARE ?protetto dalla legge degli Stati Uniti relativa al copyright e alle disposizioni dei trattati internazionali. L'utente riconosce che nessun titolo di propriet?intellettuale sul SOFTWARE ?trasferito a voi. 
+L'utente riconosce inoltre che il titolo e la piena titolarit?dei diritti sul SOFTWARE rimarranno di esclusiva propriet?di Fengtao Software Inc. e non si acquisisce alcun diritto sul SOFTWARE, salvo quanto espressamente specificato nella presente licenza. 
+L'utente accetta che tutte le copie del SOFTWARE conterranno le stesse informazioni sulla propriet?che appaiono nel SOFTWARE. 
+
+The SOFTWARE respects copyright and does not condone or endorse video piracy in any way. The SOFTWARE is design to allow users to experience their fair use right to the content they purchased, for example, rip and copy their home made video (if they own the copyright) to blank discs or other media player devices.
+In most counties, the copyright law will allow the original purchaser or user to make a backup/copy for personal use. But it also might be illegal to make a copy or backup to the purchased movie or disc without permission according to the different laws in different countries.
+It should be taken into consideration while using our software in different countries. Since our products are sold world-wide, each user shall be responsible for complying with local laws in their use and ensure the fair use of the software.
+You should understand the above said disclaimer content and ensure the fair use the software. If you misuse or abuse the software in any form, you shall hold full legal responsibility for the caused results and the software provider (Fengtao Software Inc.) will not be held responsible for any actions that shall be taken against your misuse of the software.
+
+4. REVERSE ENGINEERING. 
+L'utente accetta di non tentare di effettuare reverse engineering, modificare, tradurre o disassemblare il SOFTWARE, completamente o in parte. 
+
+5. NESSUN'ALTRA GARANZIA. 
+Fengtao Software Inc. NON GARANTISCE CHE IL SOFTWARE SIA PRIVO DI ERRORI. Fengtao Software Inc. RIFIUTA QUALSIASI GARANZIA PER QUANTO RIGUARDA IL SOFTWARE, ESPRESSA O IMPLICITA, INCLUSE, MA NON LIMITATE A, LE GARANZIE IMPLICITE DI COMMERCIABILIT? IDONEIT?PER UN PARTICOLARE SCOPO E NON VIOLAZIONE DEI DIRITTI DI TERZI. 
+ALCUNE GIURISDIZIONI NON CONSENTONO L'ESCLUSIONE DI GARANZIE IMPLICITE O LIMITAZIONI SULLA DURATA DELLA GARANZIA IMPLICITA, O L'ESCLUSIONE O LA LIMITAZIONE DEI DANNI INCIDENTALI O CONSEQUENZIALI, PERTANTO LE LIMITAZIONI O ESCLUSIONI DI CUI SOPRA POTREBBERO NON ESSERE APPLICABILI ALL'UTENTE. 
+QUESTA GARANZIA VI CONCEDE ALCUNI DIRITTI SPECIFICI E, IN ALCUNI CASI, ALTRI DIRITTI CHE VARIANO DA GIURISDIZIONE A GIURISDIZIONE. 
+
+6. SEPARABILITA'.
+In caso di invalidit?di una qualsiasi disposizione di questa licenza, le parti concordano sul fatto che tale invalidit?non pregiudica la validit?delle restanti porzioni di questa licenza. 
+
+7. ESCLUSIONE DELLA RESPONSABILIT?PER DANNI CONSEQUENZIALI. 
+IN NESSUN CASO Fengtao Software Inc. O I SUOI FORNITORI SARANNO RESPONSABILI PER DANNI CONSEQUENZIALI, SPECIALI, INCIDENTALI O INDIRETTI DI QUALSIASI TIPO, DERIVANTI DALLA CONSEGNA, DALLE PRESTAZIONI O DALL'USO DEL SOFTWARE, ANCHE SE Fengtao Software Inc. SIA STATA INFORMATA DELLA POSSIBILITA' DI TALI DANNI. 
+IN NESSUN CASO Fengtao Software Inc. AVRA' RESPONSABILIT?PER QUALSIASI RECLAMO, ANCHE SE IN CONTRATTO, ILLECITO O QUALSIASI ALTRO CASO DI RESPONSABILIT? CHE ECCEDA IL COSTO DELLA LICENZA PAGATA DALL'UTENTE, QUALORA SI VERIFICHI IL CASO.
+
+8. LEGGE APPLICABILE. 
+Questa licenza sar?disciplinata dalle leggi dello Stato della Carolina del Sud, in quanto esse sono applicate agli accordi tra Carolina del Sud e residenti, entrati in vigore interamente all'interno della Carolina del Sud. La Convenzione delle Nazioni Unite sui Contratti per la vendita internazionale di merci ?specificamente esclusa. 
+
+9. ACCORDO COMPLETO. 
+Questo ?l'accordo completo tra l'utente e Fengtao Software Inc. che sostituisce ogni precedente accordo o intesa, scritto o orale, riguardante l'oggetto di questa licenza. 
+
+10. OPEN SOURCE USAGE AND DEPENDENCIES
+
+This program contains 
+	* libavcodec (avcodec.dll)
+	* libavformat (avformat.dll)
+	* libavutil (avutil.dll)
+	* libavcore (avcore.dll) 
+from FFmpeg (http://www.ffmpeg.org), 
+	* QtCore (QtCore.dll)
+	* QtGui (QtGui.dll) 
+from Qt by Nokia (http://qt.nokia.com/), 
+under the GNU Lesser General Public License (LGPL) version 2.1 (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or later.
+
+This EULA only covers this program as a whole, parts avcodec.dll, avformat.dll, avutil.dll, avcore.dll, QtCore.dll and QtGui.dll are governed by the LGPL instead.
+
+FFmpeg source code used in this program is available on http://www.dvdfab.cn/opensource.htm

@@ -1,0 +1,1610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<profile_template path="data">
+		<item_wrap>
+			<item key="default"/>
+			<item key="default_3d"/>
+			<item key="mp4"/>
+			<item key="mp4_mpeg4"/>
+			<item key="avi"/>
+			<item key="avi_xvid"/>
+			<item key="avi_mpeg4"/>
+			<item key="avi_h264"/>
+			<item key="avi_divx"/>
+			<item key="avi_2gb_h264"/>
+			<item key="avi_2gb_divx"/>
+			<item key="avi_2gb_xvid"/>
+			<item key="mkv_h264"/>
+			<item key="mkv_xvid"/>
+			<item key="mkv_remux"/>
+			<item key="item3gp_mpeg4"/>
+			<item key="wmv"/>
+			<item key="item3g2_mpeg4"/>
+			<item key="xvid"/>
+			<item key="asf"/>
+			<item key="mov"/>
+			<item key="vob"/>
+			<item key="mpeg"/>
+			<item key="bd_avi_2gb_h264"/>
+			<item key="bd_avi_2gb_xvid"/>
+			<item key="bd_avi_h264"/>
+			<item key="bd_avi_xvid"/>
+			<item key="bd_mkv_h264"/>
+			<item key="bd_mkv_remux"/>
+			<item key="bd_mp4_h264"/>
+			<item key="bd_ts_nomal"/>
+			<item key="bd_ts_high_quality"/>
+			<item key="bd_ts_fast"/>
+			<item key="bd_m2ts_nomal"/>
+			<item key="bd_m2ts_high_quality"/>
+			<item key="bd_m2ts_fast"/>
+			<item key="mp3"/>
+			<item key="ac3"/>
+			<item key="eac3"/>
+			<item key="wma"/>
+			<item key="ogg"/>
+			<item key="au"/>
+			<item key="mka"/>
+			<item key="aiff"/>
+			<item key="m4b"/>
+			<item key="m4a"/>
+			<item key="aac"/>
+			<item key="wav"/>
+			<item key="ape"/>
+			<item key="av"/>
+			<item key="flac"/>
+			<item key="m4r"/>
+			<item key="mp4_3d"/>
+			<item key="avi_xvid_3d"/>
+			<item key="avi_h264_3d"/>
+			<item key="avi_2gb_h264_3d"/>
+			<item key="avi_2gb_xvid_3d"/>
+			<item key="m2ts_fast_3d"/>
+			<item key="m2ts_high_quality_3d"/>
+			<item key="m2ts_nomal_3d"/>
+			<item key="mkv_h264_3d"/>
+			<item key="ts_fast_3d"/>
+			<item key="ts_high_quality_3d"/>
+			<item key="ts_normal_3d"/>
+			<item key="wmv_3d"/>
+			<item key="ipod_touch"/>
+			<item key="ipod_nano"/>
+			<item key="ipod_classic"/>
+			<item key="iphone_4"/>
+			<item key="ipad"/>
+			<item key="apple_tv"/>
+			<item key="ipod5"/>
+			<item key="slvr"/>
+			<item key="nokia_6300"/>
+			<item key="nokia_9300"/>
+			<item key="vx9400"/>
+			<item key="blackberry_storm_series"/>
+			<item key="samsung_a9200"/>
+			<item key="samsung_d600"/>
+			<item key="samsung_sgh_a707"/>
+			<item key="xperia_x10"/>
+			<item key="xperia_x8"/>
+			<item key="vivaz"/>
+			<item key="ps3"/>
+			<item key="xbox_360"/>
+			<item key="nds"/>
+			<item key="pda"/>
+			<item key="gameboy"/>
+			<item key="palm_tx"/>
+			<item key="zune"/>
+			<item key="archos605"/>
+			<item key="archos504_604"/>
+			<item key="av300"/>
+			<item key="av320"/>
+			<item key="gmini"/>
+			<item key="sony_x1"/>
+			<item key="iriver_x20"/>
+			<item key="iaudio_x5"/>
+			<item key="zenvision"/>
+			<item key="sharp_sh12c_3d"/>
+			<item key="htc_evo_3d"/>
+			<item key="lg_p920_3d"/>
+			<item key="iphone_4_3d"/>
+			<item key="fujifilm_real_3d"/>
+		</item_wrap>
+		<default key="default" custom="0" file="default_template.xml" text="Default Template" fullpath=""/>
+		<default_3d key="default_3d" custom="0" file="default_3d_template.xml" text="Default 3D Template" fullpath=""/>
+		<wmv_3d key="wmv_3d" custom="0" file="wmv_3d_template.xml" text="WMV 3D Template" fullpath=""/>
+		<ts_fast_3d key="ts_fast_3d" custom="0" file="ts_fast_3d_template.xml" text="TS Fast 3D Template" fullpath=""/>
+		<ts_high_quality_3d key="ts_high_quality_3d" custom="0" file="ts_high_quality_3d_template.xml" text="TS High Quality 3D Template" fullpath=""/>
+		<ts_normal_3d key="ts_normal_3d" custom="0" file="ts_normal_3d_template.xml" text="TS Normal 3D Template" fullpath=""/>
+		<mkv_h264_3d key="mkv_h264_3d" custom="0" file="mkv_h264_3d_template.xml" text="MKV h264 3D Template" fullpath=""/>
+		<m2ts_fast_3d key="m2ts_fast_3d" custom="0" file="m2ts_fast_3d_template.xml" text="M2TS Fast 3D Template" fullpath=""/>
+		<m2ts_high_quality_3d key="m2ts_high_quality_3d" custom="0" file="m2ts_high_quality_3d_template.xml" text="M2TS high quality 3D Template" fullpath=""/>
+		<m2ts_nomal_3d key="m2ts_nomal_3d" custom="0" file="m2ts_nomal_3d_template.xml" text="M2TS Nomal 3D Template" fullpath=""/>
+		<mp4_3d key="mp4_3d" custom="0" file="mp4_3d_template.xml" text="MP4 3D Template" fullpath=""/>
+		<avi_xvid_3d key="avi_xvid_3d" custom="0" file="avi_xvid_3d_template.xml" text="AVI xvid 3D Template" fullpath=""/>
+		<avi_h264_3d key="avi_h264_3d" custom="0" file="avi_h264_3d_template.xml" text="AVI h264 3D Template" fullpath=""/>
+		<avi_2gb_h264_3d key="avi_2gb_h264_3d" custom="0" file="avi_2gb_h264_3d_template.xml" text="AVI(2gb) h264 3D Template" fullpath=""/>
+		<avi_2gb_xvid_3d key="avi_2gb_xvid_3d" custom="0" file="avi_2gb_xvid_3d_template.xml" text="AVI(2gb) xvid 3D Template" fullpath=""/>
+		<mp3 key="mp3" custom="0" file="mp3_template.xml" text="MP3 Template" fullpath=""/>
+		<ac3 key="ac3" custom="0" file="ac3_template.xml" text="AC3 Template" fullpath=""/>
+		<wma key="wma" custom="0" file="wma_template.xml" text="WMA Template" fullpath=""/>
+		<ogg key="ogg" custom="0" file="ogg_template.xml" text="OGG Template" fullpath=""/>
+		<mka key="mka" custom="0" file="mka_template.xml" text="MKA Template" fullpath=""/>
+		<aiff key="aiff" custom="0" file="aiff_template.xml" text="AIFF Template" fullpath=""/>
+		<m4b key="m4b" custom="0" file="m4b_template.xml" text="M4B Template" fullpath=""/>
+		<m4a key="m4a" custom="0" file="m4a_template.xml" text="M4A Template" fullpath=""/>
+		<aac key="aac" custom="0" file="aac_template.xml" text="AAC Template" fullpath=""/>
+		<wav key="wav" custom="0" file="wav_template.xml" text="WAV Template" fullpath=""/>
+		<ape key="ape" custom="0" file="ape_template.xml" text="APE Template" fullpath=""/>
+		<av key="av" custom="0" file="av_template.xml" text="AV Template" fullpath=""/>
+		<flac key="flac" custom="0" file="flac_template.xml" text="FLAC Template" fullpath=""/>
+		<m4r key="m4r" custom="0" file="m4r_template.xml" text="M4R Template" fullpath=""/>
+		<bd_m2ts_nomal key="bd_m2ts_nomal" custom="0" file="bd_m2ts_nomal_template.xml" text="M2TS nomal Format Template" fullpath=""/>
+		<bd_m2ts_high_quality key="bd_m2ts_high_quality" custom="0" file="bd_m2ts_high_quality_template.xml" text="M2TS high quality Format Template" fullpath=""/>
+		<bd_m2ts_fast key="bd_m2ts_fast" custom="0" file="bd_m2ts_fast_template.xml" text="M2TS Fast Format Template" fullpath=""/>
+		<bd_ts_nomal key="bd_ts_nomal" custom="0" file="bd_ts_nomal_template.xml" text="TS nomal Format Template" fullpath=""/>
+		<bd_ts_high_quality key="bd_ts_high_quality" custom="0" file="bd_ts_high_quality_template.xml" text="TS High quality Format Template" fullpath=""/>
+		<bd_ts_fast key="bd_ts_fast" custom="0" file="bd_ts_fast_template.xml" text="TS Fast Format Template" fullpath=""/>
+		<bd_mp4_h264 key="bd_mp4_h264" custom="0" file="bd_mp4_h264_template.xml" text="BD MP4.h264 Format Template" fullpath=""/>
+		<bd_mkv_h264 key="bd_mkv_h264" custom="0" file="bd_mkv_h264_template.xml" text="BD MKV.h264 Format Template" fullpath=""/>
+		<bd_mkv_remux key="bd_mkv_remux" custom="0" file="bd_mkv_remux_template.xml" text="BD MKV.remux Format Template" fullpath=""/>
+		<bd_avi_2gb_h264 key="bd_avi_2gb_h264" custom="0" file="bd_avi_2gb_h264_template.xml" text="BD AVI(2gb)h264 Format Template" fullpath=""/>
+		<bd_avi_2gb_xvid key="bd_avi_2gb_xvid" custom="0" file="bd_avi_2gb_xvid_template.xml" text="BD AVI(2gb)Xvid Format Template" fullpath=""/>
+		<bd_avi_h264 key="bd_avi_h264" custom="0" file="bd_avi_h264_template.xml" text="BD AVI.h264 Format Template" fullpath=""/>
+		<bd_avi_xvid key="bd_avi_xvid" custom="0" file="bd_avi_xvid_template.xml" text="BD AVI.xvid Format Template" fullpath=""/>
+		<mpeg key="mpeg" custom="0" file="mpeg_template.xml" text="MPEG Format Template" fullpath=""/>
+		<vob key="vob" custom="0" file="vob_template.xml" text="VOB Format Template" fullpath=""/>
+		<mov key="mov" custom="0" file="mov_template.xml" text="MOV Format Template" fullpath=""/>
+		<asf key="asf" custom="0" file="asf_template.xml" text="ASF Format Template" fullpath=""/>
+		<xvid key="xvid" custom="0" file="xvid_template.xml" text="Xvid Format Template" fullpath=""/>
+		<item3g2_mpeg4 key="item3g2_mpeg4" custom="0" file="item3g2_mpeg4_template.xml" text="MP4 Format Template" fullpath=""/>
+		<wmv key="wmv" custom="0" file="wmv_template.xml" text="MP4 Format Template" fullpath=""/>
+		<item3gp_mpeg4 key="item3gp_mpeg4" custom="0" file="item3gp_mpeg4_template.xml" text="MP4 Format Template" fullpath=""/>
+		<mp4 key="mp4" custom="0" file="mp4_template.xml" text="MP4 Format Template" fullpath=""/>
+		<mp4_mpeg4 key="mp4_mpeg4" custom="0" file="mp4_mpeg4_template.xml" text="MP4 Format Template" fullpath=""/>
+		<avi key="avi" custom="0" file="avi_template.xml" text="AVI Format Template" fullpath=""/>
+		<avi_xvid key="avi_xvid" custom="0" file="avi_xvid_template.xml" text="AVI Format Template" fullpath=""/>
+		<avi_mpeg4 key="avi_mpeg4" custom="0" file="avi_mpeg4_template.xml" text="AVI Format Template" fullpath=""/>
+		<avi_h264 key="avi_h264" custom="0" file="avi_h264_template.xml" text="AVI Format Template" fullpath=""/>
+		<avi_divx key="avi_divx" custom="0" file="avi_divx_template.xml" text="AVI Format Template" fullpath=""/>
+		<avi_2gb_h264 key="avi_2gb_h264" custom="0" file="avi_2gb_h264_template.xml" text="AVI Format Template" fullpath=""/>
+		<avi_2gb_divx key="avi_2gb_divx" custom="0" file="avi_2gb_divx_template.xml" text="AVI Format Template" fullpath=""/>
+		<avi_2gb_xvid key="avi_2gb_xvid" custom="0" file="avi_2gb_xvid_template.xml" text="AVI Format Template" fullpath=""/>
+		<mkv_h264 key="mkv_h264" custom="0" file="mkv_h264_template.xml" text="AVI Format Template" fullpath=""/>
+		<mkv_xvid key="mkv_xvid" custom="0" file="mkv_xvid_template.xml" text="AVI Format Template" fullpath=""/>
+		<mkv_remux key="mkv_remux" custom="0" file="mkv_remux_template.xml" text="AVI Format Template" fullpath=""/>
+		<ipod_touch key="ipod_touch" custom="0" file="ipod_touch_template.xml" text="ipod touch Template" fullpath=""/>
+		<ipod_nano key="ipod_nano" custom="0" file="ipod_nano_template.xml" text="iPod nano Template" fullpath=""/>
+		<ipod_classic key="ipod_classic" custom="0" file="ipod_classic_template.xml" text="iPod classic Template" fullpath=""/>
+		<iphone_4 key="iphone_4" custom="0" file="iphone_4_template.xml" text="iPhone4 Template" fullpath=""/>
+		<ipad key="ipad" custom="0" file="ipad_template.xml" text="iPad Template" fullpath=""/>
+		<apple_tv key="apple_tv" custom="0" file="apple_tv_template.xml" text="Apple TV Template" fullpath=""/>
+		<ipod5 key="ipod5" custom="0" file="ipod5_template.xml" text="ipod5 Template" fullpath=""/>
+		<slvr key="slvr" custom="0" file="slvr_template.xml" text="Motorola slvr Template" fullpath=""/>
+		<nokia_6300 key="nokia_6300" custom="0" file="nokia_6300_template.xml" text="Nokia 6300 Template" fullpath=""/>
+		<nokia_9300 key="nokia_9300" custom="0" file="nokia_9300_template.xml" text="Nokia 9300 Template" fullpath=""/>
+		<vx9400 key="vx9400" custom="0" file="vx9400_template.xml" text="LG vx9400 Template" fullpath=""/>
+		<blackberry_storm_series key="blackberry_storm_series" custom="0" file="blackberry_storm_series_template.xml" text="BlackBerry Storm Series Template" fullpath=""/>
+		<samsung_a9200 key="samsung_a9200" custom="0" file="samsung_a9200_template.xml" text="Samsung A920 Template" fullpath=""/>
+		<samsung_d600 key="samsung_d600" custom="0" file="samsung_d600_template.xml" text="Samsung D600 Template" fullpath=""/>
+		<samsung_sgh_a707 key="samsung_sgh_a707" custom="0" file="samsung_sgh_a707_template.xml" text="Samsung SGH-707 Template" fullpath=""/>
+		<xperia_x10 key="xperia_x10" custom="0" file="sony_ericsson_template.xml" text="SonyEricsson Xperia X10 Template" fullpath=""/>
+		<xperia_x8 key="xperia_x8" custom="0" file="sony_ericsson_template.xml" text="SonyEricsson Xperia X8 Template" fullpath=""/>
+		<vivaz key="vivaz" custom="0" file="sony_ericsson_template.xml" text="SonyEricsson Vivaz Template" fullpath=""/>
+		<ps3 key="ps3" custom="0" file="ps3_template.xml" text="PS3 Template" fullpath=""/>
+		<xbox_360 key="xbox_360" custom="0" file="xbox_360_template.xml" text="XBOX 360 Template" fullpath=""/>
+		<nds key="nds" custom="0" file="nds_template.xml" text="NDS Template" fullpath=""/>
+		<pda key="pda" custom="0" file="pda_template.xml" text="PDA Template" fullpath=""/>
+		<gameboy key="gameboy" custom="0" file="gameboy_template.xml" text="GameBoy Template" fullpath=""/>
+		<palm_tx key="palm_tx" custom="0" file="palm_tx_template.xml" text="Palm tx Template" fullpath=""/>
+		<zune key="zune" custom="0" file="zune_template.xml" text="Zune Template" fullpath=""/>
+		<archos605 key="archos605" custom="0" file="archos605_template.xml" text="Archos605 Template" fullpath=""/>
+		<archos504_604 key="archos504_604" custom="0" file="archos504_604_template.xml" text="Archos504/604 Template" fullpath=""/>
+		<av300 key="av300" custom="0" file="av300_template.xml" text="av300 Template" fullpath=""/>
+		<av320 key="av320" custom="0" file="av320_template.xml" text="av320 Template" fullpath=""/>
+		<gmini key="gmini" custom="0" file="gmini_template.xml" text="gmini Template" fullpath=""/>
+		<sony_x1 key="sony_x1" custom="0" file="sony_x1_template.xml" text="Sony X1 Template" fullpath=""/>
+		<iriver_x20 key="iriver_x20" custom="0" file="iriver_x20_template.xml" text="iRiver X20 Template" fullpath=""/>
+		<iaudio_x5 key="iaudio_x5" custom="0" file="iAudioX5_template.xml" text="iAudio X5 Template" fullpath=""/>
+		<zenvision key="zenvision" custom="0" file="zenvision_template.xml" text="Zenvision Template" fullpath=""/>
+		<sharp_sh12c_3d key="sharp_sh12c_3d" custom="0" file="sharp_sh12c_3d_template.xml" text="iPhone4 3D Template" fullpath=""/>
+		<htc_evo_3d key="htc_evo_3d" custom="0" file="htc_evo_3d_template.xml" text="iPhone4 3D Template" fullpath=""/>
+		<lg_p920_3d key="lg_p920_3d" custom="0" file="lg_p920_3d_template.xml" text="iPhone4 3D Template" fullpath=""/>
+		<iphone_4_3d key="iphone_4_3d" custom="0" file="iphone_4_3d_template.xml" text="iPhone4 3D Template" fullpath=""/>
+		<fujifilm_real_3d key="fujifilm_real_3d" custom="0" file="fujifilm_real_3d_template.xml" text="iPhone4 3D Template" fullpath=""/>
+	</profile_template>
+	<container>
+		<item_wrap>
+			<item key="psp"/>
+			<item key="avi"/>
+			<item key="aac"/>
+            <item key="ac3"/>
+			<item key="asf"/>
+            <item key="divx"/>
+            <item key="flac"/>
+			<item key="wmv"/>
+			<item key="wma"/>
+			<item key="wav"/>
+			<item key="mp3"/>
+			<item key="mp4"/>
+			<item key="mov"/>
+			<item key="mkv"/>
+			<item key="mpg"/>
+			<item key="m4v"/>
+			<item key="m4a"/>
+			<item key="m2ts"/>
+            <item key="raw"/>
+			<item key="ts"/>
+			<item key="3gp"/>
+			<item key="3g2"/>
+			<item key="vob"/>
+			<item key="dpg"/>
+			<item key="flv"/>
+			<item key="ipod_mp4"/>
+			<item key="ipod_avc"/>
+			<item key="bdav"/>
+		</item_wrap>
+		<psp key="psp" type="video" custom="0" max_audio_bitrate="384000" max_audio_channel="2" max_video_bitrate="20000">
+			<video_codec>
+				<item key="mpeg4"/>
+			</video_codec>
+			<audio_codec>
+				<item key="aac"/>
+			</audio_codec>
+		</psp>
+		<avi key="avi" type="video" custom="0" max_audio_bitrate="384000" max_audio_channel="2" max_video_bitrate="20000">
+			<video_codec>
+				<item key="xvid"/>
+				<item key="h264"/>
+				<item key="mpeg4"/>
+			</video_codec>
+			<audio_codec>
+				<item key="mp3"/>
+				<item key="ac3"/>
+			</audio_codec>
+		</avi>
+		<aac key="aac" type="audio" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec/>
+			<audio_codec>
+				<item key="aac"/>
+			</audio_codec>
+		</aac>
+       		 <ac3 key="ac3" type="audio" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec/>
+			<audio_codec>
+				<item key="ac3"/>
+			</audio_codec>
+		</ac3>
+		<asf key="asf" type="video" custom="0" max_audio_bitrate="384000" max_audio_channel="2" max_video_bitrate="20000">
+			<video_codec>
+				<item key="mpeg4"/>
+				<item key="h264"/>
+				<item key="xvid"/>
+			</video_codec>
+			<audio_codec>
+				<item key="mp3"/>
+				<item key="ac3"/>
+			</audio_codec>
+		</asf>
+    <flac key="flac" type="audio" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec/>
+			<audio_codec>
+				<item key="flac"/>
+			</audio_codec>
+		</flac>
+    <wmv key="wmv" type="video" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec>
+				<item key="wmv7"/>
+				<item key="wmv8"/>
+				<item key="wmv9"/>
+			</video_codec>
+			<audio_codec>
+				<item key="wma9"/>
+				<item key="wma10"/>
+			</audio_codec>
+    </wmv>
+		<divx key="divx" type="video" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec>
+				<item key="mpeg4"/>
+				<item key="mpeg2"/>
+				<item key="h264"/>
+			</video_codec>
+			<audio_codec>
+				<item key="aac"/>
+				<item key="ac3"/>
+                	<item key="mp3"/>
+			</audio_codec>
+		</divx>
+		<wma key="wma" type="audio" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec/>
+			<audio_codec>
+				<item key="wma9"/>
+				<item key="wma10"/>
+			</audio_codec>
+		</wma>
+		<wav key="wav" type="audio" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec/>
+			<audio_codec>
+				<item key="adpcm_ms"/>
+				<item key="adpcm"/>
+			</audio_codec>
+		</wav>
+		<mp3 key="mp3" type="audio" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec/>
+			<audio_codec>
+				<item key="mp3"/>
+			</audio_codec>
+		</mp3>
+		<mp4 key="mp4" type="video" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec>
+				<item key="mpeg4"/>
+				<item key="h264"/>
+			</video_codec>
+			<audio_codec>
+				<item key="ac3"/>
+				<item key="aac"/>
+			</audio_codec>
+		</mp4>
+		<mov key="mov" type="video" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec>
+				<item key="mpeg4"/>
+				<item key="h264"/>
+			</video_codec>
+			<audio_codec>
+				<item key="ac3"/>
+				<item key="aac"/>
+			</audio_codec>
+		</mov>
+		<mkv key="mkv" type="video" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec>
+				<item key="xvid"/>
+				<item key="h264"/>
+				<item key="mpeg4"/>
+			</video_codec>
+			<audio_codec>
+				<item key="ac3"/>
+				<item key="aac"/>
+			</audio_codec>
+		</mkv>
+		<mpg key="mpg" type="video" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec>
+				<item key="mpeg4"/>
+				<item key="h264"/>
+			</video_codec>
+			<audio_codec>
+				<item key="ac3"/>
+				<item key="aac"/>
+			</audio_codec>
+		</mpg>
+		<m4v key="m4v" type="video" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec>
+				<item key="mpeg4"/>
+				<item key="h264"/>
+			</video_codec>
+			<audio_codec>
+				<item key="ac3"/>
+				<item key="aac"/>
+			</audio_codec>
+		</m4v>
+		<m4a key="m4a" type="audio" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec/>
+			<audio_codec>
+				<item key="ac3"/>
+				<item key="aac"/>
+			</audio_codec>
+		</m4a>
+		<m2ts key="m2ts" type="video" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec>
+				<item key="mpeg2"/>
+				<item key="h264"/>
+			</video_codec>
+			<audio_codec>
+				<item key="ac3"/>
+				<item key="aac"/>
+			</audio_codec>
+		</m2ts>
+        <raw key="raw" type="audio" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec/>
+			<audio_codec>
+				<item key="ac3"/>
+				<item key="dts"/>
+			</audio_codec>
+		</raw>
+		<ts key="ts" type="video" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec>
+				<item key="mpeg2"/>
+				<item key="h264"/>
+			</video_codec>
+			<audio_codec>
+				<item key="ac3"/>
+				<item key="aac"/>
+			</audio_codec>
+		</ts>
+		<3gp key="item3gp" type="video" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec>
+				<item key="mpeg4"/>
+			</video_codec>
+			<audio_codec>
+				<item key="ac3"/>
+			</audio_codec>
+		</3gp>
+		<3g2 key="item3g2" type="video" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec>
+				<item key="mpeg4"/>
+			</video_codec>
+			<audio_codec>
+				<item key="ac3"/>
+			</audio_codec>
+		</3g2>
+		<vob key="vob" type="video" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec>
+				<item key="mpeg2"/>
+			</video_codec>
+			<audio_codec>
+				<item key="ac3"/>
+			</audio_codec>
+		</vob>
+		<dpg key="dpg" type="video" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec>
+				<item key="mpeg4"/>
+				<item key="h264"/>
+			</video_codec>
+			<audio_codec>
+				<item key="ac3"/>
+				<item key="aac"/>
+			</audio_codec>
+		</dpg>
+		<flv key="flv" type="video" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec>
+				<item key="mpeg4"/>
+				<item key="h264"/>
+			</video_codec>
+			<audio_codec>
+				<item key="ac3"/>
+				<item key="aac"/>
+			</audio_codec>
+		</flv>
+		<ipod_mp4 key="ipod_mp4" type="video" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec>
+				<item key="mpeg4"/>
+			</video_codec>
+			<audio_codec>
+				<item key="ac3"/>
+				<item key="aac"/>
+			</audio_codec>
+		</ipod_mp4>
+		<ipod_avc key="ipod_avc" type="video" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec>
+				<item key="h264"/>
+			</video_codec>
+			<audio_codec>
+				<item key="ac3"/>
+				<item key="aac"/>
+			</audio_codec>
+		</ipod_avc>
+		<bdav key="bdav" type="video" custom="0" max_audio_bitrate="448000" max_audio_channel="6" max_video_bitrate="20000">
+			<video_codec>
+				<item key="h264"/>
+				<item key="mpeg4"/>
+			</video_codec>
+			<audio_codec>
+				<item key="ac3"/>
+				<item key="aac"/>
+			</audio_codec>
+		</bdav>
+	</container>
+	<icon path="icon">
+		<item_wrap>
+			<item key="default"/>
+			<item key="AV100"/>
+			<item key="AV200"/>
+            <item key="iphone"/>
+			<item key="ipod_touch"/>
+			<item key="ipod_touch2"/>
+			<item key="ipod_nano"/>
+            <item key="ipod_nano3"/>
+			<item key="ipod_nano4"/>
+			<item key="ipod_classic"/>
+			<item key="iphone_4"/>
+			<item key="iphone_5"/>
+            <item key="iphone_5c"/>
+			<item key="iPhone_5s"/>
+            <item key="iPhone_6_4"/>
+			<item key="iPhone_6_5"/>
+			<item key="iPhone_6s_4"/>
+			<item key="iPhone_6s_5"/>
+			<item key="iPhone_7"/>	
+			<item key="iPhone_8"/>	
+			<item key="iPhone_X"/>	
+			<item key="iPhone_11"/>	
+			<item key="iPhone_11Pro"/>	
+			<item key="iPhone_11Pro_Max"/>	
+			<item key="iPhone_XS"/>	
+			<item key="iPhone_XS_Max"/>	
+			<item key="iPhone_XR"/>			
+			<item key="ipad"/>
+			<item key="apple_tv"/>
+			<item key="ipod5"/>
+			<item key="slvr"/>
+			<item key="nokia_6300"/>
+			<item key="nokia_9300"/>
+			<item key="vx9400"/>
+			<item key="storm_series"/>
+            <item key="BlackBerry_Q10"/>
+            <item key="BlackBerry_Z10"/>
+			<item key="a9200"/>
+			<item key="d600"/>
+			<item key="sgh_a707"/>
+			<item key="xperia_x10"/>
+			<item key="xperia_x8"/>
+			<item key="vivaz"/>
+			<item key="ps3"/>
+			<item key="xbox_360"/>
+			<item key="nds"/>
+			<item key="pda"/>
+			<item key="gameboy"/>
+			<item key="palm_tx"/>
+			<item key="zune"/>
+			<item key="archos605"/>
+			<item key="archos504_604"/>
+			<item key="av300"/>
+			<item key="av320"/>
+			<item key="gmini"/>
+			<item key="sony_x1"/>
+			<item key="iriver_x20"/>
+			<item key="Cowon_iAudio_X5"/>
+			<item key="zenvision"/>
+			<item key="MP4"/>
+			<item key="MP4_DOLBY"/>
+			<item key="MP4_SDR"/>
+            <item key="MP4_H265"/>
+            <item key="MP4_4K"/>
+			<item key="MP4_Free"/>
+			<item key="MP4_10BIT"/>
+			<item key="MP4_H265_10BIT"/>
+			<item key="MP4_4K_10BIT"/>
+			<item key="MP4_4K_H265_10BIT"/>
+			<item key="MP4_H265_12BIT"/>
+			<item key="MP4_4K_H265_12BIT"/>
+			<item key="MP4_8K"/>
+			<item key="MP4_8K_10BIT"/>
+			<item key="MP4_AI_1080P"/>
+			<item key="AVI_AI_1080P"/>
+			<item key="avi"/>
+			<item key="mkv"/>
+			<item key="mkv_sdr"/>
+			<item key="MKV_H265"/>
+            <item key="MKV_4K"/>
+			<item key="MKV_10BIT"/>
+			<item key="MKV_H265_10BIT"/>
+			<item key="MKV_4K_H265_10BIT"/>
+			<item key="MKV_H265_12BIT"/>
+			<item key="MKV_4K_H265_12BIT"/>
+			<item key="M2TS_4K_H265_10BIT"/>
+            <item key="MKV_4K_10BIT"/>
+			<item key="MKV_8K"/>
+			<item key="MKV_8K_10BIT"/>
+			<item key="MKV_AI_1080P"/>
+			<item key="M2TS_8K"/>
+			<item key="M2TS_8K_10BIT"/>
+			<item key="icon3gp"/>
+			<item key="wmv"/>
+			<item key="icon3g2"/>
+			<item key="xvid"/>
+			<item key="asf"/>
+			<item key="flv"/>
+			<item key="mov"/>
+			<item key="vob"/>
+			<item key="mpeg"/>
+			<item key="TS"/>
+			<item key="M2TS"/>
+			<item key="MP3"/>
+			<item key="AC3"/>
+			<item key="EAC3"/>
+			<item key="WMA"/>
+			<item key="OGG"/>
+			<item key="MKA"/>
+			<item key="AIFF"/>
+			<item key="AU"/>
+			<item key="M4B"/>
+			<item key="M4A"/>
+			<item key="AAC"/>
+			<item key="WAV"/>
+			<item key="APE"/>
+			<item key="DTS"/>
+			<item key="AV"/>
+			<item key="FLAC"/>
+			<item key="M4R"/>
+			<item key="SRT"/>
+			<item key="YouTube_MP4"/>
+			<item key="YouTube_MP4_4K"/>
+			<item key="sh_12c"/>
+			<item key="evo_3d_c"/>
+			<item key="p920_optimus_3d"/>
+			<item key="real_3d_v1"/>
+			<item key="sony_lt26i"/>
+			<item key="sony_lt18i"/>
+			<item key="samsung_9100"/>
+			<item key="samsung_9220"/>
+			<item key="motorola_xt910"/>
+            <item key="Motorola_RAZR_XT910"/>
+			<item key="Motorola_E815"/>
+			<item key="motorola_xt883"/>
+			<item key="lg_p990"/>
+			<item key="lg_p940"/>
+			<item key="kindle_fire"/>
+			<item key="htc_g19"/>
+			<item key="htc_g17"/>
+			<item key="htc_g14"/>
+			<item key="htc_g11"/>
+			<item key="google_nexus_7"/>
+			<item key="psp"/>
+            <item key="PS_Vita"/>
+			<item key="ipad4"/>
+			<item key="iPad_Air"/>
+			<item key="ipad_mini"/>
+            <item key="ipad_mini_Retina"/>
+            <item key="iPad_Air_2"/>
+			<item key="ipad_mini_3"/>
+			<item key="ipad_mini_4"/>
+			<item key="iPad_Pro"/>
+			<item key="AppleTV3"/>
+			<item key="AppleTV4"/>
+			<item key="apple_tv_4k"/>
+			<item key="fujifilm"/>
+			<item key="audio"/>
+			<item key="VidOn_me_Settop_Box"/>
+			<item key="Roku_2XS"/>
+			<item key="Roku_3XS"/>
+			<item key="WD_TV_Live_HD"/>
+			<item key="WD_TV_Live"/>
+			<item key="Micca_Speck"/>
+			<item key="Micca_MPLAY_HD"/>
+			<item key="Micca_MPlay"/>
+			<item key="NBOX"/>
+			<item key="IncrediSonic"/>
+			<item key="KDLINKS"/>
+			<item key="Amazon_Kindle_Fire_HD"/>
+			<item key="Google_Nexus_4"/>
+      <item key="Google_Nexus_5"/>
+			<item key="Google_Nexus_10"/>
+			<item key="Google_Pixel_2"/>			
+			<item key="Google_Pixel_2_XL"/>			
+			<item key="Google_Pixel_3"/>			
+			<item key="Google_Pixel_3_XL"/>			
+			<item key="HTC_Desire"/>
+			<item key="HTC_Diamond"/>
+			<item key="HTC_EVO_Design_4G"/>
+			<item key="HTC_EVO_Shift_4G"/>
+			<item key="HTC_One_S"/>
+			<item key="HTC_One_X"/>
+			<item key="HTC_One_M7"/>
+			<item key="HTC_Surround"/>			
+			<item key="HTC_Wildfire"/>
+            <item key="HTC_Butterfly"/>
+			<item key="HTC_Droid_DNA"/>
+			<item key="iphone_4S_1080p_mp4"/>
+			<item key="iphone_4S_mp4_multichannel"/>
+			<item key="iphone_4S_mp4"/>
+			<item key="iPod_Touch_5"/>
+			<item key="Microsoft_Surface_Pro"/>
+			<item key="Microsoft_Surface_RT"/>
+            <item key="Microsoft_Xbox_One"/>
+			<item key="Samsung_Galaxy_Nexus_i9250"/>
+			<item key="Samsung_Galaxy_Note_i9220"/>
+			<item key="Samsung_Galaxy_SII_i9100"/>			
+			<item key="Samsung_Galaxy_SIII_i9300"/>
+			<item key="Samsung_Galaxy_S4"/>
+            <item key="Samsung_Galaxy_S5"/>
+			<item key="Samsung_Galaxy_S6"/>
+			<item key="Samsung_Galaxy_S6_Edge"/>
+			<item key="Samsung_Galaxy_SL_i9003"/>
+			<item key="Samsung_Galaxy_tab10_1_P7500"/>
+            <item key="Samsung_Galaxy_tab2_7_0"/>
+            <item key="Samsung_Galaxy_tab2_10_1"/>
+			<item key="Samsung_Galaxy_tab_pro"/>
+			<item key="Samsung_Galaxy_tab_s"/>
+			<item key="Samsung_Galaxy_tab_s3"/>
+			<item key="Samsung_Galaxy_tab_s4"/>
+			<item key="Samsung_Galaxy_Note_II"/>
+			<item key="Samsung_Galaxy_Note_3"/>
+			<item key="Samsung_Galaxy_Note_4"/>
+			<item key="Samsung_Galaxy_Note_5"/>
+			<item key="Samsung_Galaxy_Note_7"/>
+			<item key="Samsung_Galaxy_Fame"/>
+			<item key="Samsung_Galaxy_Grand"/>
+			<item key="Samsung_Galaxy_note8"/>
+			<item key="Samsung_Galaxy_note9"/>
+			<item key="Samsung_Galaxy_SIII_Mini"/>
+			<item key="Samsung_Galaxy_Xcover_2"/>
+			<item key="Samsung_Galaxy_Young"/>
+			<item key="Sony_Ericsson_Xperia_ion_LT28at"/>
+			<item key="Sony_Ericsson_Xperia_P_LT22i"/>
+			<item key="Sony_Ericsson_Xperia_V_ST25i"/>
+			<item key="Sony_Ericsson_Xperia_Z"/>
+			<item key="Sony_Ericsson_Xperia_Z2"/>
+			<item key="Sony_Ericsson_Xperia_Z2_Tablet"/>
+			<item key="Sony_Ericsson_Xperia_Z3"/>
+			<item key="Sony_Ericsson_Xperia_Z3_Compact"/>
+			<item key="Sony_Ericsson_Xperia_Z3_Tablet_Compact"/>
+			<item key="Sony_Ericsson_Xperia_A"/>
+			<item key="Sony_Xperia_10_Plus"/>
+			<item key="Sony_PlayStation4"/>
+			<item key="LG_Optimus"/>
+			<item key="LG_Optimus_G_Pro"/>
+			<item key="LG_G_FLEX"/>
+			<item key="LG_G2"/>
+			<item key="LG_G3"/>
+			<item key="LG_G5"/>
+			<item key="LG_G3_BEAT"/>
+            <item key="Motorola_Droid"/>
+			<item key="Motorola_DroidX"/>
+			<item key="Motorola_Xoom"/>
+            <item key="Nokia_Lumia_510"/>
+            <item key="Nokia_Lumia_520"/>
+			<item key="Nokia_Lumia_610"/>
+			<item key="Nokia_Lumia_610C"/>
+			<item key="Nokia_Lumia_710"/>
+			<item key="Nokia_Lumia_720"/>
+			<item key="Nokia_Lumia_800"/>
+			<item key="Nokia_Lumia_800C"/>
+			<item key="Nokia_Lumia_820"/>
+			<item key="Nokia_Lumia_900"/>
+			<item key="Nokia_Lumia_920"/>
+			<item key="Nokia_Lumia_930"/>
+			<item key="Nokia_Lumia_1520"/>
+			<item key="Nokia_N97"/>
+			<item key="Nokia_2"/>
+			<item key="Nokia_3_1"/>
+			<item key="Nokia_5"/>
+			<item key="Nokia_6_1"/>
+			<item key="Nokia_8"/>
+			<item key="Nokia_7_1"/>	
+			<item key="Nokia_9"/>
+            <item key="Fab_Player"/>
+            <item key="BARNES&NOBLE_NOOK_HD"/>
+            <item key="BARNES&NOBLE_NOOK_HD+"/>
+			<item key="HUAWEI_METAX"/>
+            <item key="HUAWEI_META20_PRO"/>
+			<item key="HUAWEI_META20"/>
+            <item key="HUAWEI_META20_X"/>
+			<item key="HUAWEI_PORSCHE_DESIGN_META_RS"/>
+            <item key="HUAWEI_PORSCHE_DESIGN_META20_RS"/>
+			<item key="HUAWEI_HONOR9"/>
+			<item key="HUAWEI_META10"/>
+			<item key="HUAWEI_META10_PRO"/>
+			<item key="HUAWEI_NOVA_2S"/>
+			<item key="HUAWEI_NOVA_3E"/>
+			<item key="HUAWEI_NOVA_3I"/>
+			<item key="HUAWEI_NOVA_4E"/>
+			<item key="HUAWEI_NOVA3"/>
+			<item key="HUAWEI_NOVA4"/>
+			<item key="HUAWEI_NOVA5"/>
+			<item key="HUAWEI_P20"/>
+			<item key="HUAWEI_P20_PRO"/>
+			<item key="HUAWEI_PORSCHE_DESIGN_META10"/>
+			<item key="HUAWEI_P30"/>
+			<item key="tivo"/>
+			<item key="ipod_nano7"/>
+			<item key="Epson_Moverio_BT100"/>
+			<item key="Epson_Moverio_BT100_3D"/>
+			<item key="Samsung_Gear_VR"/>
+			<item key="iPhone_SE"/>
+			<item key="Samsung_S7"/>
+			<item key="Samsung_S7_edge"/>
+			<item key="Samsung_S8"/>
+			<item key="Samsung_S9"/>
+			<item key="Samsung_S10"/>
+			<item key="HiFi_FlacStereo"/>
+			<item key="HiFi_WavStereo"/>
+			<item key="HiFi_FlacMulti-channel"/>
+			<item key="HiFi_WavMulti-channel"/>
+			<item key="MVC"/>
+			<item key="MVC_Passthrough"/>
+		</item_wrap>
+		
+		<default key="default" file="default.png"/>
+		<VidOn_me_Settop_Box key="VidOn_me_Settop_Box" file="Settop_Box.png"/>
+		<Roku_2XS key="Roku_2XS" file="Roku_2XS.png"/>
+		<Roku_3XS key="Roku_3XS" file="Roku_3XS.png"/>
+		<WD_TV_Live_HD key="WD_TV_Live_HD" file="WD_TV_Live_HD.png"/>
+		<WD_TV_Live key="WD_TV_Live" file="WD_TV_Live.png"/>
+		<Micca_Speck key="Micca_Speck" file="Micca_Speck.png"/>
+		<Micca_MPLAY_HD key="Micca_MPLAY_HD" file="Micca_MPLAY_HD.png"/>
+		<Micca_MPlay key="Micca_MPlay" file="Micca_MPlay.png"/>
+		<NBOX key="NBOX" file="NBOX.png"/>
+		<IncrediSonic key="IncrediSonic" file="IncrediSonic.png"/>
+		<KDLINKS key="KDLINKS" file="KDLINKS.png"/>
+		<AV100 key="AV100" file="AV100.png"/>
+		<AV200 key="AV200" file="av200.png"/>
+		<iphone key="iphone" file="iPhone.png"/>
+        <ipod_touch key="ipod_touch" file="ipod_touch.png"/>
+		<ipod_touch2 key="ipod_touch2" file="iPod_Touch_2.png"/>
+		<ipod_nano key="ipod_nano" file="iPod_Nano_6.png"/>
+		<ipod_nano3 key="ipod_nano3" file="iPod_Nano_3.png"/>
+		<ipod_nano4 key="ipod_nano4" file="iPod_Nano_4.png"/>
+		<ipod_classic key="ipod_classic" file="ipod_classic.png"/>
+		<iphone_4 key="iphone_4" file="iPhone4.png"/>
+		<iphone_5 key="iphone_5" file="iPhone5.png"/>
+		<iphone_5c key="iphone_5c" file="iphone_5c.png"/>
+		<iPhone_5s key="iPhone_5s" file="iPhone_5s.png"/>
+		<iPhone_6_4 key="iPhone_6_4" file="iPhone_6_4.png"/>
+		<iPhone_6_5 key="iPhone_6_5" file="iPhone_6_5.png"/>
+		<iPhone_6s_4 key="iPhone_6_4" file="iPhone_6_4.png"/>
+		<iPhone_6_5 key="iPhone_6_5" file="iPhone_6_5.png"/>
+        <iPhone_6s_5 key="iPhone 6s" file="iPhone_6_4.png"/>
+		<iPhone_7 key="iPhone_7" file="iPhone_7.png"/>
+		<iPhone_8 key="iPhone_8" file="iPhone_7.png"/>
+		<iPhone_X key="iPhone_X" file="iPhone_X.png"/>
+		<iPhone_11 key="iPhone_11" file="iPhone_11.png"/>
+		<iPhone_11Pro key="iPhone_11Pro" file="iPhone_11Pro.png"/>
+		<iPhone_11Pro_Max key="iPhone_11Pro_Max" file="iPhone_11Pro_Max.png"/>
+		<iPhone_XS key="iPhone_XS" file="iPhone_XS.png"/>
+		<iPhone_XS_Max key="iPhone_XS_Max" file="iPhone_XS_Max.png"/>
+		<iPhone_XR key="iPhone_XR" file="iPhone_XR.png"/>
+		<apple_tv key="apple_tv" file="apple_tv.png"/>
+		<ipad key="ipad" file="iPad.png"/>
+		<ipod5 key="ipod5" file="iPod_Touch_5.png"/>
+		<slvr key="slvr" file="slvr.png"/>
+		<nokia_6300 key="nokia_6300" file="6300.png"/>
+		<nokia_9300 key="nokia_9300" file="9300.png"/>
+		<vx9400 key="vx9400" file="vx9400.png"/>
+		<storm_series key="storm_series" file="Storm.png"/>
+		<a9200 key="a9200" file="A920.png"/>
+		<d600 key="d600" file="d600.png"/>
+		<sgh_a707 key="sgh_a707" file="sgh_a707.png"/>
+		<xperia_x10 key="xperia_x10" file="xperia_x10.png"/> 
+		<xperia_x8 key="xperia_x8" file="xperia_x8.png"/>
+		<vivaz key="vivaz" file="vivaz.png"/>
+		<ps3 key="ps3" file="Play_Station_3(MP4).png"/>
+		<PS_Vita key="PS_Vita" file="PS_Vita.png"/>
+		<xbox_360 key="xbox_360" file="xbox_360.png"/>
+		<nds key="nds" file="nds.png"/>
+		<pda key="pda" file="PDA.png"/>
+		<gameboy key="gameboy" file="Game_boy.png"/>
+		<palm_tx key="palm_tx" file="palm_tx.png"/>
+		<zune key="zune" file="zune.png"/>
+		<archos605 key="archos605" file="ARCHOS_605.png"/>
+		<archos504_604 key="archos504_604" file="archos504_604.png"/>
+		<av300 key="av300" file="ARCHOS_AV300.png"/>
+		<av320 key="av320" file="ARCHOS_AV320.png"/>
+		<gmini key="gmini" file="ARCHOS_Gmini.png"/>
+		<sony_x1 key="sony_x1" file="Ericsson_X1.png"/>
+		<iriver_x20 key="iriver_x20" file="iriver_x20.png"/>
+		<Cowon_iAudio_X5 key="Cowon_iAudio_X5" file="iAudio_X5.png"/>
+		<zenvision key="zenvision" file="ZEN_Vision.png"/>
+		<MP4 key="MP4" file="MP4.png"/>
+		<MP4_DOLBY key="MP4_DOLBY" file="MP4_DOLBY.png"/>
+		<MP4_SDR key="MP4_SDR" file="MP4_SDR.png"/>
+		<MP4_H265 key="MP4_H265" file="MP4_H265.png"/>
+        <MP4_4K key="MP4_4K" file="MP4_4K.png"/>
+		<MP4_Free key="MP4_Free" file="MP4_Free.png"/>
+		<MP4_10BIT key="MP4_10BIT" file="MP4_10BIT.png"/>
+		<MP4_H265_10BIT key="MP4_H265_10BIT" file="MP4_H265_10BIT.png"/>
+        <MP4_4K_10BIT key="MP4_4K_10BIT" file="MP4_4K_10BIT.png"/>
+        <MP4_4K_H265_10BIT key="MP4_4K_H265_10BIT" file="MP4_4K_H265_10BIT.png"/>
+        <MP4_H265_12BIT key="MP4_H265_12BIT" file="MP4_H265_12BIT.png"/>
+        <MP4_4K_H265_12BIT key="MP4_4K_H265_12BIT" file="MP4_4K_H265_12BIT.png"/>
+		<MP4_8K key="MP4_8K" file="MP4_8K.png"/>
+		<MP4_8K_10BIT key="MP4_8K_10BIT" file="MP4_8K_10BIT.png"/>
+		<MP4_AI_1080P key="MP4_AI_1080P" file="MP4_AI_1080P.png"/>
+		<AVI_AI_1080P key="AVI_AI_1080P" file="AVI_AI_1080P.png"/>
+		<avi key="avi" file="avi.png"/>
+		<mkv key="mkv" file="mkv.png"/>
+		<mkv_sdr key="mkv_sdr" file="mkv_sdr.png"/>
+        <MKV_H265 key="MKV_H265" file="MKV_H265.png"/>
+        <MKV_4K key="MKV_4K" file="MKV_4K.png"/>
+		<MKV_10BIT key="MKV_10BIT" file="MKV_10BIT.png"/>
+        <MKV_H265_10BIT key="MKV_H265_10BIT" file="MKV_H265_10BIT.png"/>
+		<MKV_4K_H265_10BIT key="MKV_4K_H265_10BIT" file="MKV_4K_H265_10BIT.png"/>
+		<MKV_H265_12BIT key="MKV_H265_12BIT" file="MKV_H265_12BIT.png"/>
+		<MKV_4K_H265_12BIT key="MKV_4K_H265_12BIT" file="MKV_4K_H265_12BIT.png"/>
+		<M2TS_4K_H265_10BIT key="M2TS_4K_H265_10BIT" file="M2TS_4K_H265_10BIT.png"/>
+        <MKV_4K_10BIT key="MKV_4K_10BIT" file="MKV_4K_10BIT.png"/>
+		<MKV_8K key="MKV_8K" file="MKV_8K.png"/>
+		<MKV_8K_10BIT key="MKV_8_10BIT" file="MKV_8K_10BIT.png"/>
+		<MKV_AI_1080P key="MKV_AI_1080P" file="MKV_AI_1080P.png"/>
+		<M2TS_8K key="M2TS_8K" file="M2TS_8K.png"/>
+		<M2TS_8K_10BIT key="M2TS_8K_10BIT" file="M2TS_8K_10BIT.png"/>
+		<icon3gp key="3gp" file="3gp.png"/>
+		<wmv key="wmv" file="WMV.png"/>
+		<icon3g2 key="3g2" file="3g2.png"/>
+		<xvid key="xvid" file="xvid.png"/>
+		<asf key="asf" file="asf.png"/>
+		<flv key="flv" file="flv.png"/>
+		<mov key="mov" file="mov.png"/>
+		<vob key="vob" file="vob.png"/>
+		<mpeg key="mpeg" file="mpeg.png"/>
+		<TS key="TS" file="TS.png"/>
+		<M2TS key="M2TS" file="M2TS.png"/>
+		<MP3 key="MP3" file="MP3.png"/>
+		<AC3 key="AC3" file="AC3.png"/>
+		<EAC3 key="EAC3" file="EAC3.png"/>
+		<WMA key="WMA" file="WMA.png"/>
+		<OGG key="OGG" file="OGG.png"/>
+		<MKA key="MKA" file="MKA.png"/>
+		<AIFF key="AIFF" file="AIFF.png"/>
+		<AU key="AU" file="AU.png"/>
+		<M4B key="M4B" file="M4B.png"/>
+		<M4A key="M4A" file="M4A.png"/>
+		<AAC key="AAC" file="AAC.png"/>
+		<WAV key="WAV" file="WAV.png"/>
+		<APE key="APE" file="APE.png"/>
+		<DTS key="DTS" file="DTS.png"/>
+		<AV key="AV" file="AV.png"/>
+		<FLAC key="FLAC" file="FLAC.png"/>
+		<M4R key="M4R" file="M4R.png"/>
+		<SRT key="SRT" file="SRT.png"/>
+		<YouTube_MP4 key="YouTube_MP4" file="YouTube_MP4.png"/>
+		<YouTube_MP4_4K key="YouTube_MP4_4K" file="YouTube_MP4_4K.png"/>
+		<sh_12c key="sh_12c" file="Sharp_SH-12C.png"/>
+		<evo_3d_c key="evo_3d_c" file="G17(EVO_3D).png"/>
+		<p920_optimus_3d key="p920_optimus_3d" file="Optimus.png"/>
+		<real_3d_v1 key="real_3d_v1" file="real_3d_v1.png"/>
+		<sony_lt26i key="sony_lt26i" file="LT26i.png"/>
+		<sony_lt18i key="sony_lt18i" file="LT18i.png"/>
+		<samsung_9100 key="samsung_9100" file="Galaxy_SII_9100.png"/>
+		<samsung_9220 key="samsung_9220" file="Galaxy_Note_i9220.png"/>
+		<motorola_xt910 key="motorola_xt910" file="XT910.png"/>
+		<motorola_xt883 key="motorola_xt883" file="XT883.png"/>
+		<Motorola_E815  key="Motorola_E815" file="Motorola_E815.png"/>
+		<lg_p990 key="lg_p990" file="LG_P920.png"/>
+		<lg_p940 key="lg_p940" file="P940_Prada_3.0.png"/>
+		<kindle_fire key="kindle_fire" file="kindle_fire.png"/>
+		<htc_g19 key="htc_g19" file="G19_Raider_4G.png"/>
+		<htc_g17 key="htc_g17" file="G17(EVO_3D).png"/>
+		<htc_g14 key="htc_g14" file="G14_Sensation.png"/>
+		<htc_g11 key="htc_g11" file="G11_Incredible_S.png"/>
+		<google_nexus_7 key="google_nexus_7" file="Nexus_7.png"/>
+		<psp key="psp" file="psp.png"/>
+		<ipad4 key="ipad4" file="ipad4.png"/>
+		<iPad_Air key="iPad_Air" file="iPad_Air.png"/>
+		<ipad_mini key="ipad_mini" file="ipad_mini.png"/>
+		<ipad_mini_Retina key="ipad_mini_Retina" file="ipad_mini_Retina.png"/>
+		<iPad_Air_2 key="iPad_Air_2" file="iPad_Air_2.png"/>
+		<ipad_mini_3 key="ipad_mini_3" file="ipad_mini_3.png"/>
+		<ipad_mini_4 key="ipad_mini_4" file="ipad_mini_4.png"/>
+		<iPad_Pro key="iPad_Pro" file="iPad_Pro.png"/>
+		<AppleTV3 key="AppleTV3" file="Apple_TV3.png"/>
+		<apple_tv_4k key="apple_tv_4k" file="Apple_TV4.png"/>
+		<AppleTV4 key="AppleTV4" file="Apple_TV4.png"/>
+		<fujifilm key="fujifilm" file="fujifilm.png"/>
+		<audio key="audio" file="AudioCopy.png"/>
+		<Amazon_Kindle_Fire_HD key="Amazon_Kindle_Fire_HD" file="Kindle_Fire_HD.png"/>
+		<Google_Nexus_4 key="Google_Nexus_4" file="Nexus_4.png"/>
+		<Google_Nexus_5 key="Google_Nexus_5" file="Nexus_5.png"/>
+		<Google_Nexus_10 key="Google_Nexus_10" file="Nexus_10.png"/>
+		<Google_Pixel_2 key="Google_Pixel_2" file="Google_Pixel_2.png"/>
+		<Google_Pixel_2_XL key="Google_Pixel_2_XL" file="Google_Pixel_2_XL.png"/>
+		<Google_Pixel_3 key="Google_Pixel_3" file="Google_Pixel_3.png"/>
+		<Google_Pixel_3_XL key="Google_Pixel_3_XL" file="Google_Pixel_3_XL.png"/>
+		<HTC_Desire key="HTC_Desire" file="Desire.png"/>
+		<HTC_Diamond key="HTC_Diamond" file="Diamond.png"/>
+		<HTC_EVO_Design_4G key="HTC_EVO_Design_4G" file="EVO_Design_4G.png"/>
+		<HTC_EVO_Shift_4G key="HTC_EVO_Shift_4G" file="EVO_Shift_4G.png"/>
+		<HTC_One_S key="HTC_One_S" file="One_S.png"/>
+		<HTC_One_X key="HTC_One_X" file="One_X.png"/>
+		<HTC_One_M7 key="HTC_One_M7" file="One_M7.png"/>
+		<HTC_Surround key="HTC_Surround" file="Surround.png"/>
+		<HTC_Wildfire key="HTC_Wildfire" file="Wildfire.png"/>
+		<HTC_Butterfly key="HTC_Butterfly" file="Butterfly.png"/>
+		<HTC_Droid_DNA key="HTC_Droid_DNA" file="Droid_DNA.png"/>
+		<iphone_4S_1080p_mp4 key="iphone_4S_1080p_mp4" file="iPhone4.png"/>
+		<iphone_4S_mp4_multichannel key="iphone_4S_mp4_multichannel" file="iPhone4.png"/>
+		<iphone_4S_mp4 key="iphone_4S_mp4" file="iPhone4S.png"/>
+		<iPod_Touch_5 key="iPod_Touch_5" file="iPod_Touch_5.png"/>
+		<Microsoft_Surface_Pro key="Microsoft_Surface_Pro" file="Surface_Pro.png"/>
+		<Microsoft_Surface_RT key="Microsoft_Surface_RT" file="Surface_RT.png"/>
+		<Microsoft_Xbox_One key="Microsoft_Xbox_One" file="Xbox_One.png"/>
+		<Samsung_Galaxy_Nexus_i9250 key="Samsung_Galaxy_Nexus_i9250" file="Galaxy_Nexus_i9250.png"/>
+		<Samsung_Galaxy_Note_i9220 key="Samsung_Galaxy_Note_i9220" file="Galaxy_Note_i9220.png"/>
+		<Samsung_Galaxy_SII_i9100 key="Samsung_Galaxy_SII_i9100" file="Galaxy_SII_i9100.png"/>
+		<Samsung_Galaxy_SIII_i9300 key="Samsung_Galaxy_SIII_i9300" file="Galaxy_SIII_i9300.png"/>
+		<Samsung_Galaxy_SL_i9003 key="Samsung_Galaxy_SL_i9003" file="Galaxy_sl_i9003.png"/>
+		<Samsung_Galaxy_tab10_1_P7500 key="Samsung_Galaxy_tab10_1_P7500" file="Galaxy_Tab_10_1.png"/>
+        <Samsung_Galaxy_tab2_7_0 key="Samsung_Galaxy_tab2_7_0" file="Galaxy_tab2_7_0.png"/>
+		<Samsung_Galaxy_tab2_10_1 key="Samsung_Galaxy_tab2_10_1" file="Galaxy_tab2_10_1.png"/>
+		<Samsung_Galaxy_tab_pro key="Samsung_Galaxy_tab_pro" file="Galaxy_tab_pro.png"/>
+		<Samsung_Galaxy_tab_s3 key="Samsung_Galaxy_tab_s3" file="Galaxy_tab_s3.png"/>
+		<Samsung_Galaxy_tab_s key="Samsung_Galaxy_tab_s" file="Galaxy_tab_s.png"/>
+		<Samsung_Galaxy_tab_s4 key="Samsung_Galaxy_tab_s4" file="Samsung_Galaxy_tab_s4.png"/>		
+        <Samsung_Galaxy_Note_II key="Samsung_Galaxy_Note_II" file="Galaxy_Note_II.png"/>
+        <Samsung_Galaxy_Note_3 key="Samsung_Galaxy_Note_3" file="Samsung_Galaxy_Note_3.png"/>
+		<Samsung_Galaxy_Note_4 key="Samsung_Galaxy_Note_4" file="Samsung_Galaxy_Note_4.png"/>
+		<Samsung_Galaxy_Note_5 key="Samsung_Galaxy_Note_5" file="Samsung_Galaxy_Note_5.png"/>
+		<Samsung_Galaxy_Note_7 key="Samsung_Galaxy_Note_7" file="Samsung_Galaxy_Note_7.png"/>
+        <Samsung_Galaxy_Fame key="Samsung_Galaxy_Fame" file="Galaxy_Fame.png"/>
+		<Samsung_Galaxy_Grand key="Samsung_Galaxy_Grand" file="Galaxy_Grand.png"/>
+		<Samsung_Galaxy_note8 key="Samsung_Galaxy_note8" file="Galaxy_Note_8.png"/>
+		<Samsung_Galaxy_note9 key="Samsung_Galaxy_note9" file="Galaxy_Note_9.png"/>
+		<Samsung_Galaxy_SIII_Mini key="Samsung_Galaxy_SIII_Mini" file="Galaxy_SIII_Mini.png"/>
+		<Samsung_Galaxy_S4 key="Samsung_Galaxy_S4" file="Galaxy_S4.png"/>
+        <Samsung_Galaxy_S5 key="Samsung_Galaxy_S5" file="Samsung_Galaxy_S5.png"/>
+		<Samsung_Galaxy_S6 key="Samsung_Galaxy_S6" file="Samsung_Galaxy_S6.png"/>
+		<Samsung_Galaxy_S6_Edge key="Samsung_Galaxy_S6_Edge" file="Samsung_Galaxy_S6_Edge.png"/>
+		<Samsung_Galaxy_Xcover_2 key="Samsung_Galaxy_Xcover_2" file="Galaxy_Xcover_2.png"/>
+		<Samsung_Galaxy_Young key="Samsung_Galaxy_Young" file="Galaxy_young.png"/>
+		<Sony_Ericsson_Xperia_Z3 key="Sony_Ericsson_Xperia_Z3" file="Xperia_Z3.png"/>
+		<BlackBerry_Q10 key="BlackBerry_Q10" file="Q10.png"/>
+		<BlackBerry_Z10 key="BlackBerry_Z10" file="Z10.png"/>		
+		<Sony_Ericsson_Xperia_ion_LT28at key="Sony_Ericsson_Xperia_ion_LT28at" file="Xperia_ion_LT28at.png"/>
+		<Sony_Ericsson_Xperia_P_LT22i key="Sony_Ericsson_Xperia_P_LT22i" file="Xperia_P_LT22i.png"/>
+		<Sony_Ericsson_Xperia_V_ST25i key="Sony_Ericsson_Xperia_V_ST25i" file="Xperia_V_ST25i.png"/>
+		<Sony_Ericsson_Xperia_Z key="Sony_Ericsson_Xperia_Z" file="Xperia_Z.png"/>
+		<Sony_Ericsson_Xperia_Z2 key="Sony_Ericsson_Xperia_Z2" file="Xperia_Z2.png"/>
+		<Sony_Ericsson_Xperia_Z2_Tablet key="Sony_Ericsson_Xperia_Z2_Tablet" file="Xperia_Z2_Tablet.png"/>
+		<Sony_Ericsson_Xperia_Z3 key="Sony_Ericsson_Xperia_Z3" file="Xperia_Z3.png"/>
+		<Sony_Ericsson_Xperia_Z3_Compact key="Sony_Ericsson_Xperia_Z3_Compact" file="Xperia_Z3_Compact.png"/>
+		<Sony_Ericsson_Xperia_Z3_Tablet_Compact key="Sony_Ericsson_Xperia_Z3_Tablet_Compact" file="Xperia_Z3_Tablet_Compact.png"/>
+		<Sony_Ericsson_Xperia_A key="Sony_Ericsson_Xperia_A" file="Xperia_A.png"/>
+		<Sony_Xperia_10_Plus key="Sony_Xperia_10_Plus" file="Sony_Xperia_10_Plus.png"/>
+        <Sony_PlayStation4 key="Sony_PlayStation4" file="PS4.png"/>
+        <LG_Optimus key="LG_Optimus" file="Optimus.png"/>
+		<LG_Optimus_G_Pro key="LG_Optimus_G_Pro" file="Optimus_G_Pro.png"/>
+		<LG_G_FLEX key="LG_G_FLEX" file="LG_G_FLEX.png"/>
+		<LG_G2 key="LG_G2" file="LG_G2.png"/>
+		<LG_G3 key="LG_G3" file="LG_G3.png"/>
+		<LG_G3_BEAT key="LG_G3_BEAT" file="LG_G3_BEAT.png"/>
+		<LG_G5 key="LG_G5" file="LG_G5.png"/>
+        <Motorola_Droid key="Motorola_Droid" file="Droid.png"/>
+		<Motorola_DroidX key="Motorola_DroidX" file="Droid_X.png"/>
+	    <Motorola_RAZR_XT910 key="Motorola_RAZR_XT910" file="XT910.png"/>
+	    <Motorola_Xoom key="Motorola_Xoom" file="Xoom.png"/>
+		<Nokia_Lumia_510 key="Nokia_Lumia_510" file="Lumia_510.png"/>
+        <Nokia_Lumia_520 key="Nokia_Lumia_520" file="Lumia_520.png"/>	
+		<Nokia_Lumia_610 key="Nokia_Lumia_610" file="Lumia_610.png"/>
+		<Nokia_Lumia_610C key="Nokia_Lumia_610C" file="Lumia_610c.png"/>
+		<Nokia_Lumia_710 key="Nokia_Lumia_710" file="Lumia_710.png"/>
+		<Nokia_Lumia_720 key="Nokia_Lumia_720" file="Lumia_720.png"/>
+		<Nokia_Lumia_800 key="Nokia_Lumia_800" file="Lumia_800.png"/>
+		<Nokia_Lumia_800C key="Nokia_Lumia_800C" file="Lumia_800c.png"/>
+		<Nokia_Lumia_820 key="Nokia_Lumia_820" file="Lumia_820.png"/>
+		<Nokia_Lumia_900 key="Nokia_Lumia_900" file="Lumia_900.png"/>
+		<Nokia_Lumia_920 key="Nokia_Lumia_920" file="Lumia_920.png"/>
+		<Nokia_Lumia_930 key="Nokia_Lumia_930" file="Lumia_930.png"/>
+		<Nokia_Lumia_1520 key="Nokia_Lumia_1520" file="Lumia_1520.png"/>
+		<Nokia_N97 key="Nokia_N97" file="N97.png"/>		
+		<Nokia_2 key="Nokia_2" file="Nokia_2.png"/>
+		<Nokia_3_1 key="Nokia_3_1" file="Nokia_3_1.png"/>
+		<Nokia_5 key="Nokia_5" file="Nokia_5.png"/>
+		<Nokia_6_1 key="Nokia_6_1" file="Nokia_6_1.png"/>
+		<Nokia_8 key="Nokia_8" file="Nokia_8.png"/>
+		<Nokia_9 key="Nokia_9" file="Nokia_9.png"/>
+		<Nokia_7_1 key="Nokia_7_1" file="Nokia_7_1.png"/>
+        <Fab_Player key="Fab_Player" file="Fab_Player.png"/>
+		<BARNES&NOBLE_NOOK_HD  key="BARNES&NOBLE_NOOK_HD" file="NOOK_HD.png"/>
+		<BARNES&NOBLE_NOOK_HD+ key="BARNES&NOBLE_NOOK_HD+" file="NOOK_HD+.png"/>
+		<HUAWEI_METAX  key="HUAWEI_METAX" file="HUAWEI_METAX.png"/>
+		<HUAWEI_META20_PRO key="HUAWEI_META20_PRO" file="HUAWEI_META20_PRO.png"/>
+		<HUAWEI_META20  key="HUAWEI_META20" file="HUAWEI_META20.png"/>
+		<HUAWEI_META20_X key="HUAWEI_META20_X" file="HUAWEI_META20_X.png"/>
+		<HUAWEI_PORSCHE_DESIGN_META_RS  key="HUAWEI_PORSCHE_DESIGN_META_RS" file="HUAWEI_PORSCHE_DESIGN_META_RS.png"/>
+		<HUAWEI_PORSCHE_DESIGN_META20_RS key="HUAWEI_PORSCHE_DESIGN_META20_RS" file="HUAWEI_PORSCHE_DESIGN_META20_RS.png"/>
+		<HUAWEI_HONOR9  key="HUAWEI_HONOR9" file="HUAWEI_HONER9.png"/>
+		<HUAWEI_META10  key="HUAWEI_META10" file="HUAWEI_META10.png"/>
+		<HUAWEI_META10_PRO  key="HUAWEI_META10_PRO" file="HUAWEI_META10_PRO.png"/>
+		<HUAWEI_NOVA_2S  key="HUAWEI_NOVA_2S" file="HUAWEI_NOVA_2S.png"/>
+		<HUAWEI_NOVA_3E  key="HUAWEI_NOVA_3E" file="HUAWEI_NOVA_3E.png"/>
+		<HUAWEI_NOVA_3I  key="HUAWEI_NOVA_3I" file="HUAWEI_NOVA_3I.png"/>
+		<HUAWEI_NOVA_4E  key="HUAWEI_NOVA_4E" file="HUAWEI_NOVA_4E.png"/>
+		<HUAWEI_NOVA3  key="HUAWEI_NOVA3" file="HUAWEI_NOVA3.png"/>
+		<HUAWEI_NOVA4  key="HUAWEI_NOVA4" file="HUAWEI_NOVA4.png"/>
+		<HUAWEI_NOVA5  key="HUAWEI_NOVA5" file="HUAWEI_NOVA5.png"/>
+		<HUAWEI_P20  key="HUAWEI_P20" file="HUAWEI_P20.png"/>
+		<HUAWEI_P20_PRO  key="HUAWEI_P20_PRO" file="HUAWEI_P20_PRO.png"/>
+		<HUAWEI_PORSCHE_DESIGN_META10  key="HUAWEI_PORSCHE_DESIGN_META10" file="HUAWEI_PORSCHE_DESIGN_META10.png"/>
+		<HUAWEI_P30  key="HUAWEI_P30" file="HUAWEI_P30.png"/>
+		<tivo key="tivo" file="tivo.png"/>
+		<ipod_nano7 key="ipod_nano7" file="Apple_iPod_Nano_7.png"/>
+		<Epson_Moverio_BT100 key="Epson_Moverio_BT100" file="epson_moverio_bt100.png"/>
+		<Epson_Moverio_BT100_3D key="Epson_Moverio_BT100_3D" file="epson_moverio_bt100.png"/>
+		<Samsung_Gear_VR key="Samsung_Gear_VR" file="Samsung_Gear_VR.png"/>
+		<iPhone_SE key="iPhone_SE" file="iPhone_SE.png"/>
+		<Samsung_S7 key="Samsung_S7" file="Samsung_S7.png"/>
+		<Samsung_S7_edge key="Samsung_S7_edge" file="Samsung_S7_edge.png"/>
+		<Samsung_S8 key="Samsung_S8" file="Samsung_S8.png"/>
+		<Samsung_S9 key="Samsung_S9" file="Samsung_S9.png"/>
+		<Samsung_S10 key="Samsung_S10" file="Samsung_S10.png"/>
+		<HiFi_FlacStereo key="HiFiFlacStereo" file="Hi-Fi_FlacStereo.png"/>
+		<HiFi_WavStereo key="HiFi_WavStereo" file="Hi-Fi_WavStereo.png"/>
+		<HiFi_FlacMulti-channel key="HiFi_FlacMulti-channel" file="Hi-Fi_FlacMulti-channel.png"/>
+		<HiFi_WavMulti-channel key="HiFi_WavMulti-channel" file="Hi-Fi_WavMulti-channel.png"/>
+		<MVC key="MVC" file="MVC.png"/>
+		<MVC_Passthrough key="MVC_Passthrough" file="MVC Passthrough.png"/>
+	</icon>
+	<group_device save_flag="0">
+		<item_wrap>
+			<item key="apple"/>
+			<item key="motorola"/>
+			<item key="nokia"/>
+			<item key="lg"/>
+			<item key="blackberry"/>
+			<item key="samsung"/>
+			<item key="sony_ericsson"/>
+			<item key="game_hardware"/>
+			<item key="Palm"/>
+			<item key="microsoft"/>
+			<item key="archos"/>
+			<item key="iRiver"/>
+			<item key="iaudio_x5"/>
+			<item key="zenvision_w"/>
+			<item key="Android"/>
+		</item_wrap>
+		<apple save_flag="0" key="apple" text="Apple" icon="ipod" enable="1">
+			<item_wrap>
+				<item key="ipod_touch"/>
+				<item key="ipod_nano"/>
+				<item key="iphone_4"/>
+				<item key="ipad"/>
+				<item key="apple_tv"/>
+				<item key="ipod5"/>
+			</item_wrap>
+			<ipod_touch save_flag="0" key="ipod_touch" text="ipod touch" icon="ipod_touch" template="ipod_touch" enable="1"/>
+			<ipod_nano save_flag="0" key="ipod_nano" text="ipod nano" icon="ipod_nano" template="ipod_nano" enable="1"/>
+			<AV100 save_flag="0" key="AV100" text="AV100" icon="AV100" template="AV100" enable="1"/>
+			<AV200 save_flag="0" key="AV200" text="AV200" icon="AV200" template="AV200" enable="1"/>
+			<iphone_4 save_flag="0" key="iphone_4" text="iphone 4" icon="iphone_4" template="iphone_4" enable="1"/>
+			<ipad save_flag="0" key="ipad" text="ipad" icon="ipad" template="ipad" enable="1"/>
+			<apple_tv save_flag="0" key="apple_tv" text="Apple TV" icon="apple_tv" template="apple_tv" enable="1"/>
+			<ipod5 save_flag="0" key="ipod5" text="ipod5" icon="ipod5" template="ipod5" enable="1"/>
+		</apple>
+		<motorola save_flag="0" key="motorola" text="Motorola" icon="iphone" enable="1">
+			<item_wrap>
+				<item key="slvr"/>
+			</item_wrap>
+			<slvr save_flag="0" key="slvr" text="SLVR" icon="slvr" template="slvr" enable="1"/>
+		</motorola>
+		<nokia save_flag="0" key="nokia" text="Nokia" icon="iphone" enable="1">
+			<item_wrap>
+				<item key="nokia_6300"/>
+				<item key="nokia_9300"/>
+			</item_wrap>
+			<nokia_6300 save_flag="0" key="nokia_6300" text="6300" icon="nokia_6300" template="nokia_6300" enable="1"/>
+			<nokia_9300 save_flag="0" key="nokia_9300" text="9300" icon="nokia_9300" template="nokia_9300" enable="1"/>
+		</nokia>
+		<lg save_flag="0" key="lg" text="LG" icon="iphone" enable="1">
+			<item_wrap>
+				<item key="vx9400"/>
+			</item_wrap>
+			<vx9400 save_flag="0" key="vx9400" text="VX9400" icon="vx9400" template="vx9400" enable="1"/>
+		</lg>
+		<Android save_flag="0" key="Android" text="Android" icon="iphone" enable="1">
+			<item_wrap>
+				<item key="vx9400"/>
+			</item_wrap>
+			<vx9400 save_flag="0" key="vx9400" text="VX9400" icon="vx9400" template="vx9400" enable="1"/>
+		</Android>
+		<blackberry save_flag="0" key="blackberry" text="BlackBerry" icon="iphone" enable="1">
+			<item_wrap>
+				<item key="storm_series"/>
+			</item_wrap>
+			<storm_series save_flag="0" key="storm_series" text="Storm series" icon="storm_series" template="blackberry_storm_series" enable="1"/>
+		</blackberry>
+		<samsung save_flag="0" key="samsung" text="Samsung" icon="iphone" enable="1">
+			<item_wrap>
+				<item key="samsung_a9200"/>
+				<item key="samsung_d600"/>
+				<item key="samsung_sgh_a707"/>
+			</item_wrap>
+			<samsung_a9200 save_flag="0" key="samsung_a9200" text="A920" icon="a9200" template="samsung_a9200" enable="1"/>
+			<samsung_d600 save_flag="0" key="samsung_d600" text="D600" icon="d600" template="samsung_d600" enable="1"/>
+			<samsung_sgh_a707 save_flag="0" key="samsung_sgh_a707" text="SGH_A707" icon="sgh_a707" template="samsung_sgh_a707" enable="1"/>
+		</samsung>
+		<sony_ericsson save_flag="0" key="sony_ericsson" text="Sony Ericsson" icon="iphone" enable="1">
+			<item_wrap>
+				<item key="xperia_x10"/>
+				<item key="xperia_x8"/>
+				<item key="vivaz"/>
+				<item key="sony_x1"/>
+			</item_wrap>
+			<xperia_x10 save_flag="0" key="xperia_x10" text="XPERIA x10" icon="xperia_x10" template="xperia_x10" enable="1"/>
+			<xperia_x8 save_flag="0" key="xperia_x8" text="Xperia x8" icon="xperia_x8" template="xperia_x8" enable="1"/>
+			<vivaz save_flag="0" key="vivaz" text="Vivaz" icon="vivaz" template="vivaz" enable="1"/>
+			<sony_x1 save_flag="0" key="sony_x1" text="Sony Ericsson X1" icon="sony_x1" template="sony_x1" enable="1"/>
+		</sony_ericsson>
+		<game_hardware save_flag="0" key="game_hardware" text="Game Hardware" icon="iphone" enable="1">
+			<item_wrap>
+				<item key="ps3"/>
+				<item key="xbox_360"/>
+				<item key="nds"/>
+				<item key="pda"/>
+				<item key="gameboy"/>
+			</item_wrap>
+			<ps3 save_flag="0" key="ps3" text="PS3" icon="ps3" template="ps3" enable="1"/>
+			<xbox_360 save_flag="0" key="xbox_360" text="Xbox 360" icon="xbox_360" template="xbox_360" enable="1"/>
+			<nds save_flag="0" key="nds" text="NDS" icon="nds" template="nds" enable="1"/>
+			<pda save_flag="0" key="pda" text="PDA" icon="pda" template="pda" enable="1"/>
+			<gameboy save_flag="0" key="gameboy" text="Gameboy" icon="gameboy" template="gameboy" enable="1"/>
+		</game_hardware>
+		<Palm save_flag="0" key="Palm" text="Palm" icon="iphone" enable="1">
+			<item_wrap>
+				<item key="palm_tx"/>
+			</item_wrap>
+			<palm_tx save_flag="0" key="palm_tx" text="Palm Tx" icon="palm_tx" template="palm_tx" enable="1"/>
+		</Palm>
+		<microsoft save_flag="0" key="microsoft" text="Microsoft" icon="iphone" enable="1">
+			<item_wrap>
+				<item key="zune"/>
+			</item_wrap>
+			<zune save_flag="0" key="zune" text="Zune" icon="zune" template="zune" enable="1"/>
+		</microsoft>
+		<archos save_flag="0" key="archos" text="Archos" icon="iphone" enable="1">
+			<item_wrap>
+				<item key="archos605"/>
+				<item key="archos504_604"/>
+				<item key="av300"/>
+				<item key="av320"/>
+				<item key="gmini"/>
+			</item_wrap>
+			<archos605 save_flag="0" key="archos605" text="605" icon="archos605" template="archos605" enable="1"/>
+			<archos504_604 save_flag="0" key="archos504_604" text="504/604" icon="archos504_604" template="archos504_604" enable="1"/>
+			<av300 save_flag="0" key="av300" text="AV300" icon="av300" template="av300" enable="1"/>
+			<av320 save_flag="0" key="av320" text="AV320" icon="av320" template="av320" enable="1"/>
+			<gmini save_flag="0" key="gmini" text="Gmini" icon="gmini" template="gmini" enable="1"/>
+		</archos>
+		<iaudio_x5 save_flag="0" key="iaudio_x5" text="Cowon" icon="iphone" enable="1">
+			<item_wrap>
+				<item key="iAudio_X5"/>
+			</item_wrap>
+			<iAudio_X5 save_flag="0" key="iAudio_X5" text="iAudio X5" icon="Cowon_iAudio_X5" template="iaudio_x5" enable="1"/>
+		</iaudio_x5>
+		<iRiver save_flag="0" key="iRiver" text="iRiver" icon="default" enable="1">
+			<item_wrap>
+				<item key="iRiver_X20"/>
+			</item_wrap>
+			<iRiver_X20 save_flag="0" key="iRiver_X20" text="iRiver X20" icon="iriver_x20" template="iriver_x20" enable="1"/>
+		</iRiver>
+		<zenvision_w save_flag="0" key="zenvision_w" text="Creative Zen vision" icon="iphone" enable="1">
+			<item_wrap>
+				<item key="zenvision"/>
+			</item_wrap>
+			<zenvision save_flag="0" key="zenvision" text="Creative Zen vision W" icon="zenvision" template="zenvision" enable="1"/>
+		</zenvision_w>
+	</group_device>
+	<group_format save_flag="0">
+		<item_wrap>
+			<item key="mp4"/>
+			<item key="avi"/>
+			<item key="mkv"/>
+			<item key="item3gp"/>
+			<item key="wmv"/>
+			<item key="item3g2"/>
+			<item key="xvid"/>
+			<item key="asf"/>
+			<item key="mov"/>
+			<item key="vob"/>
+			<item key="mpeg"/>
+			<item key="bd_avi"/>
+			<item key="bd_mkv"/>
+			<item key="bd_mp4"/>
+			<item key="ts"/>
+			<item key="m2ts"/>
+			<item key="audio"/>
+		</item_wrap>
+		<mp4 save_flag="0" key="mp4" text="MP4" icon="MP4" enable="1">
+			<item_wrap>
+				<item key="mpeg4"/>
+				<item key="avc"/>
+			</item_wrap>
+			<mpeg4 save_flag="0" key="mpeg4" text="MP4(Mpeg4)" icon="MP4" template="mp4_mpeg4" enable="1"/>
+			<avc save_flag="0" key="avc" text="AVC(H.264)" icon="MP4" template="mp4" enable="1"/>
+		</mp4>
+		<avi save_flag="0" key="avi" text="AVI" icon="avi" enable="1">
+			<item_wrap>
+				<item key="xvid"/>
+				<item key="mpeg4"/>
+				<item key="h264"/>
+				<item key="divx"/>
+				<item key="h264_2gb"/>
+				<item key="divx_2gb"/>
+				<item key="xvid_2gb"/>
+			</item_wrap>
+			<xvid save_flag="0" key="xvid" text="AVI(Xvid)" icon="avi" template="avi_xvid" enable="1"/>
+			<mpeg4 save_flag="0" key="mpeg4" text="AVI(Mpeg4)" icon="avi" template="avi_mpeg4" enable="1"/>
+			<h264 save_flag="0" key="h264" text="AVI(H.264)" icon="avi" template="avi_h264" enable="1"/>
+			<divx save_flag="0" key="divx" text="AVI(Divx)" icon="avi" template="avi_divx" enable="1"/>
+			<h264_2gb save_flag="0" key="h264_2gb" text="AVI(2gb-)(H.264)" icon="avi" template="avi_2gb_h264" enable="1"/>
+			<divx_2gb save_flag="0" key="divx_2gb" text="AVI(2gb-)(Divx)" icon="avi" template="avi_2gb_divx" enable="1"/>
+			<xvid_2gb save_flag="0" key="xvid_2gb" text="AVI(2gb-)(Xvid)" icon="avi" template="avi_2gb_xvid" enable="1"/>
+		</avi>
+		<mkv save_flag="0" key="mkv" text="MKV" icon="mkv" enable="1">
+			<item_wrap>
+				<item key="h264"/>
+				<item key="xvid"/>
+				<item key="remux"/>
+			</item_wrap>
+			<h264 save_flag="0" key="h264" text="MKV(H.264)" icon="mkv" template="mkv_h264" enable="1"/>
+			<xvid save_flag="0" key="xvid" text="MKV(Xvid)" icon="mkv" template="mkv_xvid" enable="1"/>
+			<remux save_flag="0" key="remux" text="MKV(Remux)" icon="mkv" template="mkv_remux" enable="1"/>
+		</mkv>
+		<item3gp save_flag="0" key="item3gp" text="3GP" icon="icon3gp" enable="1">
+			<item_wrap>
+				<item key="mpeg4"/>
+			</item_wrap>
+			<mpeg4 save_flag="0" key="mpeg4" text="3GP(Mpeg4)" icon="icon3gp" template="item3gp_mpeg4" enable="1"/>
+		</item3gp>
+		<wmv save_flag="0" key="wmv" text="WMV" icon="wmv" enable="1">
+			<item_wrap>
+				<item key="wmv"/>
+			</item_wrap>
+			<wmv save_flag="0" key="wmv" text="WMV" icon="wmv" template="wmv" enable="1"/>
+		</wmv>
+		<item3g2 save_flag="0" key="item3g2" text="3G2" icon="icon3g2" enable="1">
+			<item_wrap>
+				<item key="mpeg4"/>
+			</item_wrap>
+			<mpeg4 save_flag="0" key="mpeg4" text="3G2(Mpeg4)" icon="icon3g2" template="item3g2_mpeg4" enable="1"/>
+		</item3g2>
+		<xvid save_flag="0" key="xvid" text="XVID" icon="xvid" enable="1">
+			<item_wrap>
+				<item key="xvid"/>
+			</item_wrap>
+			<xvid save_flag="0" key="xvid" text="XVID" icon="xvid" template="xvid" enable="1"/>
+		</xvid>
+		<asf save_flag="0" key="asf" text="ASF" icon="asf" enable="1">
+			<item_wrap>
+				<item key="asf"/>
+			</item_wrap>
+			<asf save_flag="0" key="asf" text="ASF" icon="asf" template="asf" enable="1"/>
+		</asf>
+		<mov save_flag="0" key="mov" text="MOV" icon="mov" enable="1">
+			<item_wrap>
+				<item key="mov"/>
+			</item_wrap>
+			<mov save_flag="0" key="mov" text="MOV" icon="mov" template="mov" enable="1"/>
+		</mov>
+		<vob save_flag="0" key="vob" text="VOB" icon="vob" enable="1">
+			<item_wrap>
+				<item key="vob"/>
+			</item_wrap>
+			<vob save_flag="0" key="vob" text="VOB" icon="vob" template="vob" enable="1"/>
+		</vob>
+		<mpeg save_flag="0" key="mpeg" text="MPEG" icon="mpeg" enable="1">
+			<item_wrap>
+				<item key="mpeg"/>
+			</item_wrap>
+			<mpeg save_flag="0" key="mpeg" text="MPEG" icon="mpeg" template="mpeg" enable="1"/>
+		</mpeg>
+		<bd_avi save_flag="0" key="bd_avi" text="BD AVI" icon="avi" enable="1">
+			<item_wrap>
+				<item key="avi_2gb_h264"/>
+				<item key="avi_2gb_xvid"/>
+				<item key="avi_h264"/>
+				<item key="avi_xvid"/>
+			</item_wrap>
+			<avi_2gb_h264 save_flag="0" key="avi_2gb_h264" text="BD AVI(2gb-)(H.264)" icon="avi" template="bd_avi_2gb_h264" enable="1"/>
+			<avi_2gb_xvid save_flag="0" key="avi_2gb_xvid" text="BD AVI(2gb-)(Xvid)" icon="avi" template="bd_avi_2gb_xvid" enable="1"/>
+			<avi_h264 save_flag="0" key="avi_h264" text="BD AVI(H.264)" icon="avi" template="bd_avi_h264" enable="1"/>
+			<avi_xvid save_flag="0" key="avi_xvid" text="BD AVI(Xvid)" icon="avi" template="bd_avi_xvid" enable="1"/>
+		</bd_avi>
+		<bd_mkv save_flag="0" key="bd_mkv" text="BD MKV" icon="mkv" enable="1">
+			<item_wrap>
+				<item key="mkv_h264"/>
+				<item key="mkv_remux"/>
+			</item_wrap>
+			<mkv_h264 save_flag="0" key="mkv_h264" text="BD MKV(H.264)" icon="mkv" template="bd_mkv_h264" enable="1"/>
+			<mkv_remux save_flag="0" key="mkv_remux" text="BD MKV(Remux)" icon="mkv" template="bd_mkv_remux" enable="1"/>
+		</bd_mkv>
+		<bd_mp4 save_flag="0" key="bd_mp4" text="BD MP4" icon="MP4" enable="1">
+			<item_wrap>
+				<item key="avc"/>
+			</item_wrap>
+			<avc save_flag="0" key="avc" text="BD MP4 AVC(H.264)" icon="MP4" template="bd_mp4_h264" enable="1"/>
+		</bd_mp4>
+		<ts save_flag="0" key="ts" text="TS" icon="TS" enable="1">
+			<item_wrap>
+				<item key="ts_normal"/>
+				<item key="ts_high_quality"/>
+				<item key="ts_fast"/>
+			</item_wrap>
+			<ts_normal save_flag="0" key="ts_normal" text="TS(Normal)" icon="TS" template="bd_ts_nomal" enable="1"/>
+			<ts_high_quality save_flag="0" key="ts_high_quality" text="TS(High quality)" icon="TS" template="bd_ts_high_quality" enable="1"/>
+			<ts_fast save_flag="0" key="ts_fast" text="TS(Fast)" icon="TS" template="bd_ts_fast" enable="1"/>
+		</ts>
+		<m2ts save_flag="0" key="m2ts" text="M2TS" icon="M2TS" enable="1">
+			<item_wrap>
+				<item key="m2ts_normal"/>
+				<item key="m2ts_high_quality"/>
+				<item key="m2ts_fast"/>
+			</item_wrap>
+			<m2ts_normal save_flag="0" key="m2ts_normal" text="M2ts(Normal)" icon="M2TS" template="bd_m2ts_nomal" enable="1"/>
+			<m2ts_high_quality save_flag="0" key="m2ts_high_quality" text="M2ts(High quality)" icon="M2TS" template="bd_m2ts_high_quality" enable="1"/>
+			<m2ts_fast save_flag="0" key="m2ts_fast" text="M2ts(Fast)" icon="M2TS" template="bd_m2ts_fast" enable="1"/>
+		</m2ts>
+		<audio save_flag="0" key="audio" text="Audio" icon="M2TS" enable="1">
+			<item_wrap>
+				<item key="mp3"/>
+				<item key="ac3"/>
+				<item key="eac3"/>
+				<item key="wma"/>
+				<item key="ogg"/>
+				<item key="mka"/>
+				<item key="aiff"/>
+				<item key="au"/>
+				<item key="m4b"/>
+				<item key="m4a"/>
+				<item key="aac"/>
+				<item key="wav"/>
+				<item key="ape"/>
+				<item key="dts"/>
+				<item key="av"/>
+				<item key="flac"/>
+				<item key="m4r"/>
+			</item_wrap>
+			<mp3 save_flag="0" key="mp3" text="MP3" icon="MP3" template="mp3" enable="1"/>
+			<ac3 save_flag="0" key="ac3" text="AC3" icon="AC3" template="ac3" enable="1"/>
+			<eac3 save_flag="0" key="eac3" text="EAC3" icon="EAC3" template="eac3" enable="1"/>
+			<wma save_flag="0" key="wma" text="WMA" icon="WMA" template="wma" enable="1"/>
+			<ogg save_flag="0" key="ogg" text="OGG" icon="OGG" template="ogg" enable="1"/>
+			<mka save_flag="0" key="mka" text="MKA" icon="MKA" template="mka" enable="1"/>
+			<aiff save_flag="0" key="aiff" text="AIFF" icon="AIFF" template="aiff" enable="1"/>
+			<au save_flag="0" key="au" text="AU" icon="AU" template="au" enable="1"/>
+			<m4b save_flag="0" key="m4b" text="M4B" icon="M4B" template="m4b" enable="1"/>
+			<m4a save_flag="0" key="m4a" text="M4A" icon="M4A" template="m4a" enable="1"/>
+			<aac save_flag="0" key="aac" text="AAC" icon="AAC" template="aac" enable="1"/>
+			<wav save_flag="0" key="wav" text="WAV" icon="WAV" template="wav" enable="1"/>
+			<ape save_flag="0" key="ape" text="APE" icon="APE" template="ape" enable="1"/>
+			<dts save_flag="0" key="dts" text="DTS" icon="DTS" template="dts" enable="1"/>
+			<av save_flag="0" key="av" text="AV" icon="AV" template="av" enable="1"/>
+			<flac save_flag="0" key="flac" text="FLAC" icon="FLAC" template="flac" enable="1"/>
+			<m4r save_flag="0" key="m4r" text="M4R" icon="M4R" template="m4r" enable="1"/>
+		</audio>
+	</group_format>
+	<group_3d_device save_flag="0">
+		<item_wrap>
+			<item key="sharp"/>
+			<item key="htc"/>
+			<item key="lg"/>
+			<item key="apple"/>
+			<item key="fujifilm"/>
+		</item_wrap>
+		<sharp save_flag="0" key="sharp" text="Sharp" icon="sh_12c" enable="1">
+			<item_wrap>
+				<item key="sh_12c"/>
+			</item_wrap>
+			<sh_12c save_flag="0" key="sh_12c" text="SH-12C" icon="sh_12c" template="sharp_sh12c_3d" enable="1"/>
+		</sharp>
+		<htc save_flag="0" key="htc" text="HTC" icon="evo_3d_c" enable="1">
+			<item_wrap>
+				<item key="evo_3d_c"/>
+			</item_wrap>
+			<evo_3d_c save_flag="0" key="evo_3d_c" text="EVO 3D(C)" icon="evo_3d_c" template="htc_evo_3d" enable="1"/>
+		</htc>
+		<lg save_flag="0" key="lg" text="LG" icon="p920_optimus_3d" enable="1">
+			<item_wrap>
+				<item key="p920_optimus_3d"/>
+			</item_wrap>
+			<p920_optimus_3d save_flag="0" key="p920_optimus_3d" text="P920 (Optimus 3D)" icon="p920_optimus_3d" template="lg_p920_3d" enable="1"/>
+		</lg>
+		<apple save_flag="0" key="apple" text="Apple" icon="iphone_4" enable="1">
+			<item_wrap>
+				<item key="iphone4"/>
+			</item_wrap>
+			<iphone4 save_flag="0" key="iphone4" text="iphone4" icon="iphone_4" template="iphone_4_3d" enable="1"/>
+		</apple>
+		<fujifilm save_flag="0" key="fujifilm" text="Fujifilm" icon="real_3d_v1" enable="1">
+			<item_wrap>
+				<item key="real_3d_v1"/>
+			</item_wrap>
+			<real_3d_v1 save_flag="0" key="real_3d_v1" text="REAL 3D V1" icon="real_3d_v1" template="fujifilm_real_3d" enable="1"/>
+		</fujifilm>
+	</group_3d_device>
+	<group_3d_format save_flag="0">
+		<item_wrap>
+			<item key="mp4"/>
+			<item key="avi"/>
+			<item key="m2ts"/>
+			<item key="mkv"/>
+			<item key="ts"/>
+			<item key="wmv"/>
+		</item_wrap>
+		<mp4 save_flag="0" key="mp4" text="MP4" icon="MP4" enable="1">
+			<item_wrap>
+				<item key="avc"/>
+			</item_wrap>
+			<avc save_flag="0" key="avc" text="MP4(H.264)" icon="MP4" template="mp4_3d" enable="1"/>
+		</mp4>
+		<avi save_flag="0" key="avi" text="AVI" icon="avi" enable="1">
+			<item_wrap>
+				<item key="xvid"/>
+				<item key="h264"/>
+				<item key="avi_2gb_h264"/>
+				<item key="avi_2gb_xvid"/>
+			</item_wrap>
+			<xvid save_flag="0" key="xvid" text="AVI(Xvid)" icon="avi" template="avi_xvid_3d" enable="1"/>
+			<h264 save_flag="0" key="h264" text="AVI(H.264)" icon="avi" template="avi_h264_3d" enable="1"/>
+			<avi_2gb_h264 save_flag="0" key="avi_2gb_h264" text="AVI(2gb-)(H.264)" icon="avi" template="avi_2gb_h264_3d" enable="1"/>
+			<avi_2gb_xvid save_flag="0" key="avi_2gb_xvid" text="AVI(2gb-)(Xvid)" icon="avi" template="avi_2gb_xvid_3d" enable="1"/>
+		</avi>
+		<m2ts save_flag="0" key="m2ts" text="M2TS" icon="M2TS" enable="1">
+			<item_wrap>
+				<item key="m2ts_fast"/>
+				<item key="m2ts_high_quality"/>
+				<item key="m2ts_normal"/>
+			</item_wrap>
+			<m2ts_fast save_flag="0" key="m2ts_fast" text="M2TS(Fast)" icon="M2TS" template="m2ts_fast_3d" enable="1"/>
+			<m2ts_high_quality save_flag="0" key="m2ts_high_quality" text="M2TS(High quality)" icon="M2TS" template="m2ts_high_quality_3d" enable="1"/>
+			<m2ts_normal save_flag="0" key="m2ts_normal" text="M2TS(Normal)" icon="M2TS" template="m2ts_nomal_3d" enable="1"/>
+		</m2ts>
+		<mkv save_flag="0" key="mkv" text="MKV" icon="mkv" enable="1">
+			<item_wrap>
+				<item key="avc"/>
+			</item_wrap>
+			<avc save_flag="0" key="avc" text="MKV(h.264)" icon="mkv" template="mkv_h264_3d" enable="1"/>
+		</mkv>
+		<ts save_flag="0" key="ts" text="TS" icon="TS" enable="1">
+			<item_wrap>
+				<item key="ts_fast"/>
+				<item key="ts_high_quality"/>
+				<item key="ts_normal"/>
+			</item_wrap>
+			<ts_fast save_flag="0" key="ts_fast" text="TS(Fast)" icon="TS" template="ts_fast_3d" enable="1"/>
+			<ts_high_quality save_flag="0" key="ts_high_quality" text="TS(High quality)" icon="TS" template="ts_high_quality_3d" enable="1"/>
+			<ts_normal save_flag="0" key="ts_normal" text="TS(Normal)" icon="TS" template="ts_normal_3d" enable="1"/>
+		</ts>
+		<wmv save_flag="0" key="wmv" text="WMV" icon="wmv" enable="1">
+			<item_wrap>
+				<item key="wmv"/>
+			</item_wrap>
+			<wmv save_flag="0" key="wmv" text="WMV" icon="wmv" template="wmv_3d" enable="1"/>
+		</wmv>
+	</group_3d_format>
+	<perset path="profile3/perset">
+		<item_wrap>
+			<item key="x264_ABR_Fast"/>
+			<item key="x264_dp_PD_iPad"/>
+			<item key="x264_dp_PD_iPad_1080p"/>
+			<item key="x264_dp_PD_iPhone"/>
+			<item key="x264_DXVA_HD_Balanced"/>
+			<item key="x264_iPod"/>
+			<item key="x264_iPod_5_5G"/>
+			<item key="x264_M2TS_Fast"/>
+			<item key="x264_M2TS_High_Quality"/>
+			<item key="x264_M2TS_Normal"/>
+			<item key="x264_MP4"/>
+			<item key="x264_PS3_Xbox360"/>
+			<item key="x264_PS3_Xbox360_Fast"/>
+			<item key="x264_PSP"/>
+			<item key="x264_WDTV_High_Quality"/>
+			<item key="x264_Zune"/>
+		</item_wrap>
+		<x264_ABR_Fast key="x264_ABR_Fast" text="ABR Fast" file="x264_ABR_Fast.preset"/>
+		<x264_dp_PD_iPad key="x264_dp_PD_iPad" text="iPad Normal" file="x264_dp_PD-iPad.preset"/>
+		<x264_dp_PD_iPad_1080p key="x264_dp_PD_iPad_1080p" text="iPad 1080P" file="x264_dp_PD-iPad-1080p.preset"/>
+		<x264_dp_PD_iPhone key="x264_dp_PD_iPhone" text="iPhone Normal" file="x264_dp_PD-iPhone.preset"/>
+		<x264_DXVA_HD_Balanced key="x264_DXVA_HD_Balanced" text="Balanced" file="x264_DXVA-HD-Balanced.preset"/>
+		<x264_iPod key="x264_iPod" text="iPod Normal" file="x264_iPod.preset"/>
+		<x264_iPod_5_5G key="x264_iPod_5_5G" text="iPod 5.5G" file="x264_iPod_5.5G.preset"/>
+		<x264_M2TS_Fast key="x264_M2TS_Fast" text="M2TS Fast" file="x264_M2TS_Fast.preset"/>
+		<x264_M2TS_High_Quality key="x264_M2TS_High_Quality" text="M2TS High Quality" file="x264_M2TS_High_Quality.preset"/>
+		<x264_M2TS_Normal key="x264_M2TS_Normal" text="M2TS Normal" file="x264_M2TS_Normal.preset"/>
+		<x264_MP4 key="x264_MP4" text="MP4 Normal" file="x264_MP4.preset"/>
+		<x264_PS3_Xbox360 key="x264_PS3_Xbox360" text="PS3/Xbox360" file="x264_PS3_Xbox360.preset"/>
+		<x264_PS3_Xbox360_Fast key="x264_PS3_Xbox360_Fast" text="PS3/Xbox360 Fast" file="x264_PS3_Xbox360_Fast.preset"/>
+		<x264_PSP key="x264_PSP" text="PSP Normal" file="x264_PSP.preset"/>
+		<x264_WDTV_High_Quality key="x264_WDTV_High_Quality" text="WDTV High Quality" file="x264_WDTV_High_Quality.preset"/>
+		<x264_Zune key="x264_Zune" text="Zune Normal" file="x264_Zune.preset"/>
+	</perset>
+	<codec_perset>
+		<item_wrap>
+			<item key="h264"/>
+		</item_wrap>
+		<h264 key="h264" enable="1">
+			<perset_wrap>
+				<item key="x264_ABR_Fast"/>
+				<item key="x264_dp_PD_iPad"/>
+				<item key="x264_dp_PD_iPad_1080p"/>
+				<item key="x264_dp_PD_iPhone"/>
+				<item key="x264_DXVA_HD_Balanced"/>
+				<item key="x264_iPod"/>
+				<item key="x264_iPod_5_5G"/>
+				<item key="x264_M2TS_Fast"/>
+				<item key="x264_M2TS_High_Quality"/>
+				<item key="x264_M2TS_Normal"/>
+				<item key="x264_MP4"/>
+				<item key="x264_PS3_Xbox360"/>
+				<item key="x264_PS3_Xbox360_Fast"/>
+				<item key="x264_PSP"/>
+				<item key="x264_WDTV_High_Quality"/>
+				<item key="x264_Zune"/>
+			</perset_wrap>
+		</h264>
+	</codec_perset>
+</config>

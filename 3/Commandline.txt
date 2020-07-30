@@ -1,0 +1,834 @@
+DVDFab Command Line Switches:
+___________________
+
+(You can get a basic version of this list via 'DVDFab.exe /?')
+
+
+Parameter Description:
+___________________
+
+/MODE <???> Used to tell the program which menu item in the left navigation bar should be selected.
+
+-----------------
+Option: DVD Copy
+-----------------
+FULLDISC | MAINMOVIE | SPLIT | CUSTOMIZE | CUSTOMIZESPLIT | CLONE | MERGE
+ | WRITEDATA
+
+-------------------
+Option: DVD Ripper
+-------------------
+DVDGENERIC | DVDIPOD | DVDPSP | DVDZUNE | DVDNDS | DVDXBOX360 | DVDPS3
+| DVDAPPLETV | DVDCELLPHONE | DVDPVP | DVDPDA | DVDVOB | DVDAVI | DVDMP4
+| DVDWMV | DVDMKV | DVDFLV | DVD3GP | DVDAUDIO
+
+---------------------
+Option: Blu-ray Copy
+---------------------
+BDFULLDISC | BDMAINMOVIE | BDCLONE | BDWRITEDATA
+
+-----------------------
+Option: Blu-ray Ripper
+-----------------------
+BLURAYXBOX360 | BLURAYPS3 | BLURAYMKV | BLURAYAVI | BLURAYMP4 | BLURAYAUDIO | BLURAYIPAD |BLURAYM2TS
+
+------------------------
+Option: Video Converter
+------------------------
+VIDEODGENERIC | VIDEOIPOD | VIDEOPSP | VIDEOZUNE | VIDEODNDS | VIDEOXBOX360
+ | VIDEOPS3 | VIDEOAPPLETV | VIDEOCELLPHONE | VIDEOPVP | VIDEOPDA | VIDEOVOB
+ | VIDEOAVI | VIDEOMP4 | VIDEOWMV | VIDEOMKV | VIDEOFLV | VIDEO3GP | VIDEOAUDIO
+
+------------------------
+Others
+------------------------
+OPENSOURCE | NOSCANDRIVE
+
+
+/SRC <"<Folder Name>" | "<File Name>">
+
+    Used to select the source folder or image file.
+    Folder Name is the VIDEO_TS folder path on DVD disc or hard disk.
+
+    File Name is the iso file's path on hard disk.
+
+        Examples: /SRC "D:\VIDEO_TS\"
+                  /SRC "C:\DVDFab\ISO\DVD_VOLUME.ISO"
+
+    In CLONE mode, only the path of DVD disc can be set.
+
+
+/DEST <"<Folder Name>" | "<File Name> | "<Writer Name>">
+
+    Used to select the destination folder, image file or writer.
+    Folder Name is the output folder path on hard disk.
+    File Name is the iso file's path on hard disk.
+    Writer Name is the drive letter.
+ 
+    Examples: /DEST "C:\My DVD\"
+              /DEST "C:\My DVD\DVD_VOLUME.ISO"
+              /DEST "E"
+
+
+/CLOSE
+
+    Used to close the program when the conversion process has finished.
+    Basically, it just presses the 'Close' button for you.
+
+
+/PATHPLAYER
+
+    Used to force enable PathPlayer for current session.
+
+
+/TITLE <AUTO | 1 | MINTIME 40>
+
+    Used to select title(s).
+    AUTO selects the default one.
+    Digit(1,2...) selects the specific title.
+    MINTIME selects title(s) which are longer than specific minutes (like 40).
+
+
+/PROFILE <"<filename>">
+
+    Used to set profile name for mobile conversion.
+
+
+/REMOVEDTS <YES | NO>
+
+    Used to allow the user to prevent copying the DTS audio track if one exists.
+
+/REMOVEMENU <YES | NO>
+
+    Used to delete the DVD menus.
+
+/REWIND <YES | NO>
+
+    Used to play the selected titles in a continuous loop.
+
+/CHANGEPLAYORDER <YES | NO>
+
+    Used to allow you to change the way your backup copy behaves when put in a player.
+
+/JUMPMENU
+
+    Used to have the player start at the first menu.
+
+/JUMPMAIN
+
+    Used to jump to the beginning of the movie.
+
+/REMOVEPGC <YES | NO>
+
+    Used to remove the annoying short bits of video that precede the movie
+    (like the FBI warning and copyright notices in 4 languages)
+
+/VOLUME <"<DVD_VOLUME>">
+
+    Used to specify volume name.
+
+/OUTDISC <DVD5 | DVD9>
+
+    Used to specify output size.
+
+
+/COPYIFO <YES | NO>
+
+    Used to copy the original disc's IFO files exactly in CLONE mode.
+
+
+/AUDIOID
+/AUDIO < English&Chinese ..... >
+/AUDIOTYPE < AC-3/2&AC-3/5.1.... >
+
+    Audio stream select,Used to tell the program which audio stream should be
+    selected.
+
+
+/SUBTITLEID
+/SUBTITLE < English&Chinese ..... >
+
+	Used to tell the program which subtitle stream should be selected.
+    Subtitles stream select
+
+
+/DISPLAYFORCEDSUB "<YES | NO>"
+
+    Display only forced subpicture
+
+
+/REMOVEHDAUDIO "<YES | NO>"
+
+    Remove HD Audio for Blu-ray Copy
+
+
+/PRESERVEMENUDISC2 "<YES | NO>"
+
+    Preserve menus on Disc2 for DVD Copy's Split
+
+
+/COPYIFO "<YES | NO>"
+
+    Copy Original IFO files for DVD Copy's Clone
+
+
+/CREATEMINISO "<YES | NO>"
+
+    Create .miniso file in source folder to be mounted by DVDFab Virtual Drive
+
+
+Examples:
+___________________
+
+Option: DVD Copy
+-----------------
+Full Disc
+/MODE "FULLDISC" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "FULLDISC" /SRC "D:\Source\sample.iso" /DEST "E"
+
+/MODE "FULLDISC" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/CHANGEPLAYORDER "yes" /JUMPMENU "yes"
+/REMOVEPGC "yes"
+/VOLUME "testdisc"
+/OUTDISC "dvd5"
+/CLOSE
+
+-----------------
+Main Movie
+/MODE "MAINMOVIE" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "MAINMOVIE" /SRC "D:\Source\sample.iso" /DEST "E"
+
+/MODE "MAINMOVIE" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/TITLE "1(2)"
+/AUDIO "English&Spanish" /AUDIOTYPE "AC-3/5.1&AC-3/2"
+/SUBTITLE "English&Spanish"
+/CHANGEPLAYORDER "yes" /JUMPMENU "yes"
+/REMOVEPGC "yes"
+/VOLUME "testdisc"
+/OUTDISC "dvd5"
+/CLOSE
+
+-----------------
+Split
+/MODE "SPLIT" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "SPLIT" /SRC "D:\Source\sample.iso" /DEST "E"
+
+/MODE "SPLIT" /SRC "D:\Source\sample.iso" /DEST "D:\Target\" /CLOSE
+
+-----------------
+Customize
+/MODE "CUSTOMIZE" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "CUSTOMIZE" /SRC "D:\Source\sample.iso" /DEST "E"
+
+/MODE "CUSTOMIZE" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/TITLE "4,7,1(1),1(2)"
+/AUDIO "English&Spanish" /AUDIOTYPE "AC-3/5.1&AC-3/2"
+/SUBTITLE "English&Spanish"
+/CHANGEPLAYORDER "yes" /JUMPMENU "yes"
+/REMOVEPGC "yes"
+/VOLUME "testdisc"
+/OUTDISC "dvd5"
+/CLOSE
+
+-----------------
+Customize Split
+/MODE "CUSTOMIZESPLIT" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "CUSTOMIZESPLIT" /SRC "D:\Source\sample.iso" /DEST "E"
+
+/MODE "CUSTOMIZESPLIT" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PATHPLAYER "yes"
+/TITLE "1(1),1(2),1(3)&4,7,17,5"
+/AUDIO "English&Spanish" /AUDIOTYPE "AC-3/5.1&AC-3/2"
+/SUBTITLE "English&Spanish"
+/CHANGEPLAYORDER "yes" /JUMPMENU "yes"
+/REMOVEPGC "yes"
+/VOLUME "testdisc"
+/OUTDISC "dvd5"
+/CLOSE
+
+-----------------
+Clone
+/MODE "CLONE" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "CLONE" /SRC "D:\Source\sample.iso" /DEST "E"
+
+or for burn: 
+/MODE "CLONE" /SRC "D:\Source\sample.iso" /DEST "E"
+
+/MODE "CLONE" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PATHPLAYER "yes" /CLOSE
+
+-----------------
+Merge
+/MODE "MERGE" /SRC "D:\Source\sample1.iso&D:\Source\sample2.iso"
+/DEST "D:\Target\"
+
+/MODE "MERGE" /SRC "D:\Source\sample1.iso&D:\Source\sample2.iso"
+/DEST "E"
+
+/MODE "MERGE" /SRC "D:\Source\sample.iso&D:\Source\sample2.iso""
+/DEST "D:\Target\"
+/TITLE "1(1),1(2),1(3)&2,3,11,1"
+/AUDIO "English&Spanish" /AUDIOTYPE "AC-3/5.1&AC-3/2"
+/SUBTITLE "English&Spanish"
+/OUTDISC "DVD5"
+/CLOSE
+
+-----------------
+Write Data
+/MODE "WRITEDATA" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "WRITEDATA" /SRC "D:\Source\sample.iso" /DEST "E"
+
+/MODE "WRITEDATA" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/CLOSE
+
+
+Option: DVD Ripper
+-----------------
+Generic
+/MODE "DVDGENERIC" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDGENERIC" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "generic.avi.h264.audiocopy"
+/AUDIO "English&Spanish" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English&Spanish"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+iPod / iPhone
+/MODE "DVDIPOD" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDIPOD" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "ipod.mpeg4"
+/AUDIO "English&Spanish" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English&Spanish"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+PSP
+/MODE "DVDPSP" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDPSP" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "psp.mpeg4"
+/AUDIO "English&Spanish" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English&Spanish"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+ZUNE
+/MODE "DVDZUNE" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDZUNE" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "zune.wmv"
+/AUDIO "English&Spanish" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English&Spanish"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+NDS
+/MODE "DVDNDS" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDNDS" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "nds.dpg.mpeg1.mp2"
+/AUDIO "English&Spanish" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English&Spanish"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+Xbox 360
+/MODE "DVDXBOX360" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDXBOX360" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "xbox360.wmv.wma9"
+/AUDIO "English&Spanish" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English&Spanish"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+PS3
+/MODE "DVDPS3" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDPS3" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "PlayStation 3"
+/AUDIO "English&Spanish" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English&Spanish"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+Apple TV
+/MODE "DVDAPPLETV" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDAPPLETV" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "AppleTV"
+/AUDIO "English&Spanish" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English&Spanish"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+Cell Phone
+/MODE "DVDCELLPHONE" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDCELLPHONE" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "BlackBerry.Storm"
+/AUDIO "English&Spanish" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English&Spanish"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+PVP
+/MODE "DVDPVP" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDPVP" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "ARCHOS 504/604"
+/AUDIO "English&Spanish" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English&Spanish"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+PDA
+/MODE "DVDPDA" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDPDA" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "Palm TX"
+/AUDIO "English&Spanish" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English&Spanish"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+to VOB
+/MODE "DVDVOB" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDVOB" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "vob.passthrough"
+/AUDIO "English&Spanish" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English&Spanish"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+to AVI
+/MODE "DVDAVI" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDAVI" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "generic.avi.divx.audiocopy"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+to MP4
+/MODE "DVDMP4" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDMP4" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "generic.mp4.h264.aac"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+to WMV
+/MODE "DVDWMV" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDWMV" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "zune.wmv"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+to MKV
+/MODE "DVDMKV" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDMKV" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "generic.mkv.h264.aac"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+to FLV
+/MODE "DVDFLV" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDFLV" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "flv.youtube.flv1.mp3"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+to 3GP
+/MODE "DVD3GP" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVD3GP" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "Motorola V710/E815(3g2)"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+to Audio
+/MODE "DVDAUDIO" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "DVDAUDIO" /SRC "D:\Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "audio.mp3"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/CLOSE
+
+
+Option: Blu-ray Copy
+-----------------
+Full Disc
+/MODE "BDFULLDISC" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "BDFULLDISC" /SRC "D:\Blu-ray Source\sample.iso" /DEST "E"
+
+/MODE "BDFULLDISC" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+/VOLUME "TestDisc"
+/OUTDISC "BD50"
+/CLOSE
+
+-----------------
+Main Movie
+/MODE "BDMAINMOVIE" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "BDMAINMOVIE" /SRC "D:\Blu-ray Source\sample.iso" /DEST "E"
+
+/MODE "BDMAINMOVIE" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+/TITLE "2,3,91"
+/AUDIO "English" /AUDIOTYPE "PCM/7.1&AC-3/2"
+/SUBTITLE "English"
+/VOLUME "TestDisc"
+/OUTDISC "BD50"
+/REMOVEHDAUDIO "Yes"
+/CLOSE
+
+-----------------
+Clone
+/MODE "BDCLONE" /SRC "D:\Blu-ray Source\sample.iso"
+/DEST "D:\Target\" /CLOSE
+
+/MODE "BDCLONE" /SRC "D:\Blu-ray Source\sample.iso"
+ /DEST "E"
+
+-----------------
+Write Data
+/MODE "BDWRITEDATA" /SRC "D:\Blu-ray Source\sample.iso"
+/DEST "D:\Target\test.iso" /CLOSE
+
+/MODE "BDWRITEDATA" /SRC "D:\Blu-ray Source\sample.iso"
+/DEST "E"
+
+/MODE "BDWRITEDATA" /SRC "D:\Blu-ray Source\sample\"
+/DEST "D:\Blu-ray Source\sample\sample.miniso"
+/CREATEMINISO "Yes"
+
+
+Option: Blu-ray Ripper
+-----------------
+Xbox 360
+/MODE "BLURAYXBOX360" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "BLURAYXBOX360" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "xbox360.wmv.wma10"
+/AUDIO "English" /AUDIOTYPE "AC-3/2" /REMOVEHDAUDIO "Yes"
+/SUBTITLE "English"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+PS3
+/MODE "BLURAYPS3" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "BLURAYPS3" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "ps3.mp4.hd"
+/AUDIO "English" /AUDIOTYPE "AC-3/2" /REMOVEHDAUDIO "Yes"
+/SUBTITLE "English"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+iPod / iPhone
+/MODE "BLURAYIPOD" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "BLURAYIPOD" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "iPhone4.1080p.mp4"
+/AUDIO "English" /AUDIOTYPE "AC-3/2" /REMOVEHDAUDIO "Yes"
+/SUBTITLE "English"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+iPad
+/MODE "BLURAYIPAD" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "BLURAYIPAD" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "iPad.mp4"
+/AUDIO "English" /AUDIOTYPE "AC-3/2" /REMOVEHDAUDIO "Yes"
+/SUBTITLE "English"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+to MKV
+/MODE "BLURAYMKV" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "BLURAYMKV" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "mkv.remux"
+/AUDIO "English" /AUDIOTYPE "AC-3/2" /REMOVEHDAUDIO "Yes"
+/SUBTITLE "English"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+to AVI
+/MODE "BLURAYAVI" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "BLURAYAVI" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "avi.xvid.mp3"
+/AUDIO "English" /AUDIOTYPE "AC-3/2" /REMOVEHDAUDIO "Yes"
+/SUBTITLE "English"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+to MP4
+/MODE "BLURAYMP4" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "BLURAYMP4" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "mp4.h264.aac"
+/AUDIO "English" /AUDIOTYPE "AC-3/2" /REMOVEHDAUDIO "Yes"
+/SUBTITLE "English"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+-----------------
+Audio
+/MODE "BLURAYAUDIO" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "BLURAYAUDIO" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "audio.aac"
+/AUDIO "English" /AUDIOTYPE "AC-3/2" /REMOVEHDAUDIO "Yes"
+/CLOSE
+
+-----------------
+M2TS
+/MODE "BLURAYM2TS" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+
+/MODE "BLURAYM2TS" /SRC "D:\Blu-ray Source\sample.iso" /DEST "D:\Target\"
+/PROFILE "m2ts.passthrough"
+/AUDIO "English" /AUDIOTYPE "AC-3/2" /REMOVEHDAUDIO "Yes"
+/SUBTITLE "English"
+/DISPLAYFORCEDSUB "Yes"
+/CLOSE
+
+
+Option: Video Converter
+-----------------
+Generic
+/MODE "VIDEOGENERIC" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEOGENERIC" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "generic.avi.h264.audiocopy"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/CLOSE
+
+-----------------
+iPod / iPhone
+/MODE "VIDEOIPOD" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEOIPOD" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "ipod.mpeg4"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/CLOSE
+
+-----------------
+PSP
+/MODE "VIDEOPSP" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEOPSP" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "psp.mpeg4"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/CLOSE
+
+-----------------
+ZUNE
+/MODE "VIDEOZUNE" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEOZUNE" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "zune.wmv"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/CLOSE
+
+-----------------
+NDS
+/MODE "VIDEONDS" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEONDS" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "nds.dpg.mpeg1.mp2"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/CLOSE
+
+-----------------
+Xbox 360
+/MODE "VIDEOXBOX360" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEOXBOX360" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "xbox360.wmv.wma9"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/CLOSE
+
+-----------------
+PS3
+/MODE "VIDEOPS3" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEOPS3" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "PlayStation 3"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/CLOSE
+
+-----------------
+Apple TV
+/MODE "VIDEOAPPLETV" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEOAPPLETV" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "AppleTV"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/CLOSE
+
+-----------------
+Cell Phone
+/MODE "VIDEOCELLPHONE" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEOCELLPHONE" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "BlackBerry.Storm"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/CLOSE
+
+-----------------
+PVP
+/MODE "VIDEOPVP" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEOPVP" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "ARCHOS 504/604"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/CLOSE
+
+-----------------
+PDA
+/MODE "VIDEOPDA" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEOPDA" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "Palm TX"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/CLOSE
+
+-----------------
+to AVI
+/MODE "VIDEOAVI" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEOAVI" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "generic.avi.divx.audiocopy"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/CLOSE
+
+-----------------
+to MP4
+/MODE "VIDEOMP4" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEOMP4" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "generic.mp4.h264.aac"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/CLOSE
+
+-----------------
+to WMV
+/MODE "VIDEOWMV" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEOWMV" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "zune.wmv"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/CLOSE
+
+-----------------
+to MKV
+/MODE "VIDEOMKV" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEOMKV" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "generic.mkv.h264.aac"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/CLOSE
+
+-----------------
+to FLV
+/MODE "VIDEOFLV" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEOFLV" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "flv.youtube.flv1.mp3"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/CLOSE
+
+-----------------
+to 3GP
+/MODE "VIDEO3GP" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEO3GP" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "Motorola V710/E815(3g2)"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/SUBTITLE "English"
+/CLOSE
+
+-----------------
+to Audio
+/MODE "VIDEOAUDIO" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+
+/MODE "VIDEOAUDIO" /SRC "D:\Source\sample.wmv" /DEST "D:\Target\"
+/PROFILE "audio.mp3"
+/AUDIO "English" /AUDIOTYPE "AC-3/2"
+/CLOSE
+
+
+Others:
+-----------------
+/MODE "OPENSOURCE" /SRC "D:\Source\sample file"
+/MODE "ADDSOURCE" /WORKMODE "BURN" /SRC "N:\Source\x.iso"
+/MODE "ADDSOURCE" /WORKMODE "CREATOR" /SRC "N:\Source\file_x.mp4"
+/MODE "ADDSOURCE" /WORKMODE "CONVERTER" /SRC "N:\Source\file_x.mp4"

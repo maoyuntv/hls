@@ -1,0 +1,159 @@
+/*
+	功能：
+        动画效果设置文件格式.
+    
+    备注:
+        1.支持/* */注释,但是必须是新行,不能写在其它行后面.
+        2.支持每行的后面加入 // 注释.
+        
+    关键字：
+        BeginSetting
+        EndSetting
+ 
+        BeginCss
+        EndCss
+*/
+
+
+
+/*
+    这是一个实例.
+*/
+BeginSetting()                                      //开始某个控件设置信息
+ControlName=DefaultButton;                          //控件类型名称
+AnimationFileCount=5;                               //动画文件数
+ResourcePath=Resources;                             //ButtonBackground%d.png文件所在的文件夹,相对路径.
+
+BeginCss                                            //开始一段Css动画代码
+QPushButton
+{
+	background-attachment: scroll;
+	border: 1px solid #6a6ea9;
+}
+QPushButton:hover
+{
+	border: 1px solid #6a1e19;
+	background-image: url(Resources/ButtonBackground%1%.png);
+}
+EndCss                                              //结束一段Css动画代码
+
+EndSetting                                          //结束某个控件的设置信息
+
+
+
+/*
+    导航面板中的命令组按钮设置
+*/
+BeginSetting()                                      //开始某个控件设置信息
+ControlName=GroupButton;                            //控件名称
+AnimationFileCount=5;                               //动画文件数
+ResourcePath=Resources;                             //ButtonBackground%d.png文件所在的文件夹,相对路径.
+
+BeginCss                                            //开始一段Css动画代码
+QPushButton
+{
+    background-image: url(Resources/col_header.png);
+	border: 0px solid #427C9F;
+	text-align: left;
+	margin: 1px;
+	padding: 1px;
+	text-indent: 10px;
+	font-weight: bold;
+}
+QPushButton:hover
+{
+	border: 1px solid #6a1e19;
+}
+EndCss                                              //结束一段Css动画代码
+
+EndSetting                                          //结束某个控件的设置信息
+
+
+
+
+
+
+/*
+    导航面板中的命令按钮设置
+*/
+BeginSetting()                                      //开始某个控件设置信息
+ControlName=CommandButton;                            //控件名称
+AnimationFileCount=5;                               //动画文件数
+ResourcePath=Resources;                             //ButtonBackground%d.png文件所在的文件夹,相对路径.
+
+BeginCss                                            //开始一段Css动画代码
+QPushButton
+{
+	background-color: #FFF;
+	text-align: left;
+	border: 1px solid #FFF;
+}
+QPushButton:hover
+{
+	border: 1px solid #6a1e19;
+	background-color: #CCC;
+}
+ QPushButton:pressed {
+     background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                       stop: 0 #dadbde, stop: 1 #f6f7fa);
+ }
+  QPushButton:flat {
+     border: none;
+ }
+EndCss                                              //结束一段Css动画代码
+
+EndSetting                                          //结束某个控件的设置信息
+
+
+
+/*
+    导航面板中更多命令按钮设置
+*/
+BeginSetting()                                      //开始某个控件设置信息
+ControlName=MoreButton;                            //控件名称
+AnimationFileCount=5;                               //动画文件数
+ResourcePath=Resources;                             //ButtonBackground%d.png文件所在的文件夹,相对路径.
+
+BeginCss                                            //开始一段Css动画代码
+QPushButton
+{
+	background-color: #FFF;
+	text-align: left;
+	border: 1px solid #FFF;
+}
+
+ QPushButton:pressed {
+     background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                       stop: 0 #dadbde, stop: 1 #f6f7fa);
+ }
+
+EndCss                                              //结束一段Css动画代码
+
+EndSetting                                          //结束某个控件的设置信息
+
+
+
+/*
+    导航面板中更多命令按钮设置
+*/
+BeginSetting()                                      //开始某个控件设置信息
+ControlName=ShowFreviewButton;                      //控件名称
+AnimationFileCount=5;                               //动画文件数
+ResourcePath=Resources;                             //ButtonBackground%d.png文件所在的文件夹,相对路径.
+
+BeginCss                                            //开始一段Css动画代码
+QPushButton
+{
+    background-image: url(Resources/preview_down.png);
+	text-align: left;
+	border: 1px solid #FFF;
+}
+
+ QPushButton:pressed {
+     background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                       stop: 0 #dadbde, stop: 1 #f6f7fa);
+ }
+
+EndCss                                              //结束一段Css动画代码
+
+EndSetting                                          //结束某个控件的设置信息

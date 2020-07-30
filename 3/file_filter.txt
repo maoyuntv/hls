@@ -1,0 +1,2 @@
+uninstall.exe
+uninstall.exe.bin

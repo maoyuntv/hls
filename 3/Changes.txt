@@ -1,0 +1,2827 @@
+﻿DVDFab History
+
+_______________________
+December 04, 2019
+DVDFab 11.0.6.3 Updated!
+
+New: Added the support for some new Java protections.
+New: Improved the user experience on the feedback process.
+New: Improved the output video quality when converting with Enlarger AI.
+Fix: A problem that switching skins does not work properly in certain cases.
+
+_______________________
+November 28, 2019
+DVDFab 11.0.6.2 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to detect the new Blu-ray Java protections that are not supported yet.
+New: Added the new Disc Messenger feature to notify you inside DVDFab about the newly supported 4K Ultra HD Blu-rays and Java protected Blu-rays.
+New: Improved the poster display for Japanese adult movies.
+Fix: A crash problem when opening AACS 2.1 protected 4K Ultra HD Blu-ray discs.
+Fix: A wrong aspect ratio problem when converting 4:3 DVDs to Blu-rays with Enlarger AI.
+
+_______________________
+November 21, 2019
+DVDFab 11.0.6.1 Updated!
+
+New: Added the support for some new Java protections.
+New: Introduced the brand-new Enlarger AI module, the world’s 1st complete AI-powered, deep learning capable video upscaling solution to enlarge videos from 480p to 1080p. More Info: https://www.dvdfab.cn/enlarger-ai.htm
+
+_______________________
+November 15, 2019
+DVDFab 11.0.6.0 Updated!
+
+Fix: A problem that the disc is ejected from optical drive during the loading process.
+
+_______________________
+November 13, 2019
+DVDFab 11.0.5.9 Updated!
+
+New: Added the support for some new Java protections.
+New: Improved the user experience.
+Fix: A crash problem when opening discs in certain cases.
+
+_______________________
+November 07, 2019
+DVDFab 11.0.5.8 Updated!
+
+New: Added the support for some new Java protections.
+New: Renamed DVDFab Prime to DVDFab 365. More Info: https://www.dvdfab.cn/member.htm?a=dvdfab365.
+New: Introduced the Cloud Backup service (exclusive to DVDFab 365 subscribers) to back up custom profiles, configurations, etc. to cloud server.
+
+_______________________
+November 01, 2019
+DVDFab 11.0.5.7 Updated!
+
+New: Added the support for some new Java protections.
+Fix: A problem that the setting Exit program when all tasks are done does not work as it should.
+Fix: A failure problem when directly outputting to the Movie Server with the Full Disc mode of the DVD Copy module.
+
+_______________________
+October 23, 2019
+DVDFab 11.0.5.6 Updated!
+
+New: Added the support for some new Java protections.
+Fix: A conversion problem with 2-pass encoding method in the Video Converter module.
+Fix: A freeze problem if multiple tasks are added to the task queue of the Video Converter module.
+Fix: A freeze problem when converting with MKV.4K.H265.10bit profile in the Video Converter module in certain cases.
+Fix: A crash problem when expired users load sources to the Video Converter module in certain cases.
+
+_______________________
+October 17, 2019
+DVDFab 11.0.5.5 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to turn on/off the NFO file creation feature at Common Settings > Meta.
+Fix: A conversion problem with 2-pass encoding method in the Video Converter module.
+
+_______________________
+October 09, 2019
+DVDFab 11.0.5.4 Updated!
+
+New: Added the support for some new Java protections. 
+New: Improved the burning speed quite a bit.
+
+_______________________
+September 26, 2019
+DVDFab 11.0.5.3 Updated!
+
+New: Added the support for some new Java protections.
+New: Updated the BDInfo utility tool. 
+Fix: A crash problem during the burning process in certain cases.
+
+_______________________
+September 25, 2019
+DVDFab 11.0.5.2 Updated!
+
+New: Added the support for some new Java protections.
+Fix: A problem that the “Create files in subfolders of output directory” option does not work when outputting ISO files.
+Fix: A problem that the subtitles are mispositioned after cropping the videos in the UHD Ripper module.
+Fix: A problem that the background images of certain movie DVDs are incorrectly scraped as adult DVDs.
+
+_______________________
+September 19, 2019
+DVDFab 11.0.5.1 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support for the AACS 2.1 protected 4K Ultra HD Blu-rays in the UHD Copy and UHD Ripper modules.
+New: Added the conversion profiles for the new iPhone 11/11 Pro/11 Pro Max in the Ripper and Video Converter modules.
+New: Added the conversion profile to extract and convert DVD/Blu-ray/4K Ultra HD Blu-ray subtitles to .SRT files in the Ripper modules.
+New: Added the support to render the metadata information directly into the output MP4 files in the Video Converter module.
+Fix: A problem that the cast information is missing from the output NFO files when converting TV Shows in the Ripper modules.
+
+_______________________
+September 11, 2019
+DVDFab 11.0.5.0 Updated!
+
+New: Added the support for some new Java protections.
+
+_______________________
+September 11, 2019
+DVDFab 11.0.4.9 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to output MP3 audios when converting DVDs to TS videos in the DVD Ripper module.
+Fix: A crash problem when convert music files with the DRM Removal for Apple utility tool.
+Fix: A failure problem when DVDFab 11 tries to connect to DVDFab Remote.
+Fix: A problem that the Don’t show again option at the Metadata popup does not work in certain cases.
+
+_______________________
+September 08, 2019
+DVDFab 11.0.4.8 Updated!
+
+Fix: A crash problem when exiting DVDFab in certain cases.
+
+_______________________
+September 05, 2019
+DVDFab 11.0.4.7 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to show the movie poster at the main interface for Japanese adult discs.
+New: Improved the Meta Info feature for the Copy/Ripper/Video Converter modules to output NFO files for movies and TV Shows containing the title name, description, poster and background art, etc., so that media servers like DVDFab Movie Server, Kodi, Plex can display the movies/TV shows correctly. More Info: https://www.dvdfab.cn/metainfo.htm
+Fix: A problem that the names of the passthrough relevant profiles are messed up in the Ripper and Converter modules after switching the UI language to Russian.
+Fix: A problem that the selected option at Advanced Settings > Video > Dolby Vison of the UHD Ripper module does not take effect in certain cases.
+
+_______________________
+August 29, 2019
+DVDFab 11.0.4.5 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermarks from the La La Land (Blu-ray) and The Age of Adaline (DVD).
+New: Added the conversion profile for Sony Xperia smartphones in the Ripper and Converter modules.
+Fix: A problem recognizing certain 4K UHD drives.
+
+_______________________
+August 21, 2019
+DVDFab 11.0.4.4 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the conversion profiles for NOKIA 9, Huawei Nova 5, Samsung Galaxy S10/Note 9 smartphones in the Ripper and Converter modules.
+
+_______________________
+August 15, 2019
+DVDFab 11.0.4.3 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to change the title order under the Customize mode of the Blu-ray Copy module.
+New: Added the support to crop videos when converting 4K sources containing HDR10 content in the UHD Ripper module.
+New: Improved the popup messages when burning errors are encountered.
+Fix: A problem that Dutch subtitles cannot be extracted from the sources if Remux to SRT file is selected in the Ripper modules.
+
+_______________________
+August 08, 2019
+DVDFab 11.0.4.2 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the option to enable/disable B-Frame conversion (Common Settings > Conversion > Convert) in the Ripper and Converter modules on PCs installed with NVIDIA Turing Cards.
+New: Added the EAC3 audio conversion profile in the Ripper and Converter modules.
+New: Improved the accuracy on converting Japanese SRT subtitles.
+New: Improved the GUI and UE.
+
+_______________________
+August 01, 2019
+DVDFab 11.0.4.1 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to detect if the loaded sources are 4K sources containing Dolby Vision & HDR10+ content, such as Alita: Battle Angel.
+New: Added the support to preserve the Dolby Vision & HDR10+ content when outputting BD100 size in the UHD Copy module.
+New: Added the support to remux SRT subtitles when choosing the conversion profiles for Apple devices in the Ripper modules.
+New: Added the support to extract to SRT subtitles when choosing the MP4. Dolby Vision conversion profile in the UHD Ripper module.
+Fix: A failure problem when removing Cinavia watermarks with the Full Disc mode in the Blu-ray Copy module.
+
+_______________________
+July 24, 2019
+DVDFab 11.0.4.0 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to output SRT subtitle files in the Ripper and Converter modules.
+
+_______________________
+July 10, 2019
+DVDFab 11.0.3.9 Updated!
+
+New: Added the support for some new Java protections. 
+Fix: A problem that the output file contains two audio tracks despite only one is selected if the Copy Audio option is ticked at the Advanced Settings panel when converting 4K Ultra HD Blu-rays containing Dolby Vision content with the Dolby Vision relevant profiles. 
+Fix: A problem that DVDFab cannot correctly calculates the size of certain DVD ISO files.
+
+_______________________
+July 04, 2019
+DVDFab 11.0.3.8 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermarks found on the Blu-ray 2D & 3D versions of Resident Evil: The Final Chapter (2016).
+New: Some minor improvements on GUI and UE.
+
+_______________________
+June 26, 2019
+DVDFab 11.0.3.7 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the H.265 codec support at the Advanced Settings panel when converting HDR content to SDR in the Ripper and Video Converter modules.
+
+_______________________
+June 20, 2019
+DVDFab 11.0.3.6 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to choose different Dolby Versions at the Advanced Settings panel of Dolby Vision relevant conversion profiles.
+Fix: A problem that users who purchased only Hi-Fi Audio Converter cannot use the product.
+Fix: Improved the user experience for 8K relevant conversion profiles.
+
+_______________________
+June 14, 2019
+DVDFab 11.0.3.5 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to download 8K videos in the Video Downloader utility tool.
+New: Added some 8K relevant conversion profiles to output 8K videos in the Ripper and Video Converter modules.
+New: Improved the user experience when choosing Movie Server as the output destination from the output selection list.
+Fix: A problem that the bit rate setting cannot be changed at the Advanced Settings panel when MP4.Dolby Vision conversion profile is selected.
+Fix: A crash problem upon program startup in certain cases.
+Fix: A no sound problem when converting 4K MKV videos for iPad in the Video Converter module.
+
+_______________________
+May 29, 2019
+DVDFab 11.0.3.3 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermark found on the DVD version of Wrath of the Titans (2012).
+New: Added the support to change the Encoding Method and Video Quality settings when using the MP4.Dolby Vision profile in the Ripper and Video Converter modules.
+New: Added the Copy Audio option to MP4.Dolby Vision profile at the Advanced Settings panel of the Ripper and Video Converter modules.
+Fix: A problem that the audio/subtitles preselection settings at the Common Settings > Streams do not work for the Video Converter module.
+Fix: A crash problem when loading certain BDMV folder sources.
+Fix: An output oversize problem when converting certain DVDs for iPads.
+
+_______________________
+May 22, 2019
+DVDFab 11.0.3.2 Updated!
+
+New: Added the support for some new Java protections.
+Fix: A problem that the IQS hardware acceleration does not work on machines installed with Intel UHD Graphics 605.
+Fix: A freeze problem when converting certain UHD sources to MKV videos in the UHD Ripper module.
+Fix: A problem that the required free space in output directory is doubled if Web Optimized option is selected at the Advanced Settings panel when converting with MP4 relevant profiles in the Ripper modules.
+Fix: Improved the Video Downloader utility.
+Fix: Improved the conversion regarding 4K Dolby Vision videos.
+Fix: Improved the GUI and UE regarding loading discs.
+Fix: Some minor changes and improvements.
+
+_______________________
+May 16, 2019
+DVDFab 11.0.3.1 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support for NVIDIA’s latest Turing video cards including GeForce 16 series/GeForce 20 series and more.
+New: Added the support to show the source size under the Clone mode of the Copy modules.
+New: Added the new MP4.Dolby Vision conversion profile in the UHD Ripper module to preserve the Dolby Vision contents for playback on Dolby Vision compatible TVs.
+New: Added the support to output AAC 7.1/OGG 7.1/PCM 7.1/DTS 7.1/WMA10 7.1/E-AC-3 5.1 audios in the Ripper and Video Converter modules.
+Fix: A problem that the file name cannot be renamed at the main interface of the Ripper modules.
+Fix: Some minor GUI improvements.
+
+_______________________
+May 09, 2019
+DVDFab 11.0.2.9 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermark found on the Wrath of the Titans (DVD version), Insurgent (DVD version) and Resident Evil: the Final Chapter (3D Blu-ray version).
+New: Introduced the Free version of the Video Converter module.
+New: Added the DTS audio conversion profile in the Ripper and Converter modules.
+New: Added the Passthrough and Conversion Processing Mode options at the Advanced Settings panel of the DVD to Blu-ray Converter module.
+Fix: A problem that the titles of certain recorded Blu-rays are not displayed properly after being loaded into the main interface.
+Fix: An output oversize problem when copying certain BDAV sources to BD25 size.
+Fix: A crash problem when opening certain BDAV sources.
+Fix: A problem that the Subtitle is reverted back to English from None after changing the output destination path in the Video Converter module.
+Fix: A freeze problem when clicking the Edit button in the Video Converter module.
+Fix: A problem that an ISO file is still reported by Windows as occupied by DVDFab despite being deleted as the source from the Ripper modules.
+Fix: Some minor GUI and UE improvements.
+
+_______________________
+April 29, 2019
+DVDFab 11.0.2.8 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermark found on the DVD version of Wrath of the Titans.
+New: Added the support for the BS4K & CS4K (4K BDAV) contents recorded by Sharp devices in the Clone mode of the UHD Copy module.
+Fix: An estimation error problem on the output file size if the Same as Source option is selected at the Advanced Settings panel of the Creator module.
+
+_______________________
+April 26, 2019
+DVDFab 11.0.2.7 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the APE audio conversion profile in the Ripper and Converter modules.
+New: Improved the compatibility on non-standard Blu-rays.
+New: Improved the Video Downloader utility tool.
+Fix: A failure problem when converting certain files with Passthrough processing mode in the UHD Creator module.
+Fix: An output file oversize problem in the Blu-ray Ripper module.
+
+_______________________
+April 19, 2019
+DVDFab 11.0.2.6 Updated!
+
+Fix: A problem that the UHD Ripper module cannot select conversion profiles in certain cases.
+
+_______________________
+April 18, 2019
+DVDFab 11.0.2.5 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the new conversion profile for Huawei P30 smart phone in the Ripper and Converter modules.
+New: Added some new audio conversion profiles in the Ripper and Converter modules.
+New: Introduced the new feature to convert an audio file from one format to another in the Converter module.
+New: Introduced the free versions of the DVD Copy, DVD Ripper, Blu-ray Copy and Blu-ray Ripper modules.
+New: Some minor improvements on GUI and UE.
+
+_______________________
+April 11, 2019
+DVDFab 11.0.2.4 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermark as found on the US version of 4K Ultra HD Blu-ray Resident Evil: The Final Chapter (2016).
+New: Added the new conversion profiles for some major Huawei smart phones including the Mate X/20/10 series, P20 series, Nova series and more in the Ripper and Converter modules.
+New: Improved the video downloader utility tool.
+New: Added the support to delete the finished tasks without the need of a program restart.
+Fix: A crash problem when clearing history in certain cases.
+
+_______________________
+April 03, 2019
+DVDFab 11.0.2.3 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermarks from the English and French audio tracks of the DVD version of Pitch Perfect 2.
+New: Introduced the all-new Video Downloader utility tool to download online videos from 400+ websites. More Info: https://www.dvdfab.cn/video-downloader.htm
+New: Removed the watermark logo from the output results during the trial period.
+Fix: A problem that Blu-ray discs are recognized as DVDs in certain cases and only the Clone mode can read those discs.
+Fix: A failure problem when opening certain Blu-ray discs.
+
+_______________________
+March 28, 2019
+DVDFab 11.0.2.2 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the auto crop feature to the Video Converter module.
+Fix: A freeze problem if the Audio Copy option is selected when converting 3D Blu-rays with 3D.MKV.MVC profile.
+Fix: A problem that two empty video folders are created in the output directory if 2 separate files 3D format is selected when converting 2D 4K videos to 3D 4K videos in the Video Converter module.
+Fix: A problem that conversion fails immediately upon startup under 2-pass encoding method in the Video Converter module.
+Fix: A crash problem upon the finish of a single conversion task if there are multiple tasks in the queue in the Video Converter module.
+Fix: Improved the user experience of the YouTube to MP3 utility.
+Fix: Some minor GUI improvements.
+
+_______________________
+March 22, 2019
+DVDFab 11.0.2.1 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support for more DVDs and Blu-rays in the free HD Decrypter.
+New: Added the support to remove the Cinavia watermark found on the Blu-ray version of Don’t Be Afraid of the Dark.
+Fix: A problem that the Sakura skin cannot be applied.
+Fix: A problem that the conversion will fail if a new source is loaded and the Video Edit panel is opened while that conversion is in progress.
+
+_______________________
+March 20, 2019
+DVDFab 11.0.2.0 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermark found on the DVD version of Trainwreck (2015) and American Ultra (2015).
+New: Added the option to retain the HDR 10 contents in certain profiles of the Converter module.
+New: Added the conversion profiles for the Samsung Galaxy S10/S10 Plus in the Converter and Ripper modules.
+New: Introduced the newly designed sakura skin.
+Fix: A problem that using command lines to exit DVDFab does not work properly.
+Fix: A conversion failure problem if AC-3/5.1 audio track is selected when ripping the 4K UHD version of Rampage with MKV Passthrough profile.
+Fix: A problem that the DTS-HD Master audio does not play back correctly after the Cinavia watermark is removed from the Blu-ray version of La La Land.
+Fix: A problem that the Video Converter module does not display the correct runtime for certain TS videos.
+Fix: An incomplete conversion problem in the DVD Ripper module.
+Fix: A problem that the backup discs of the recorded Korean BDAV discs with multiple titles cannot play back in order.
+
+_______________________
+March 13, 2019
+DVDFab 11.0.1.9 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermark found on the DVD version of Burlesque.
+Fix: A failure problem when opening certain video files.
+Fix: A problem that the other display languages except English are missing from YouTube to MP3.
+Fix: Some minor UI display issues.
+
+_______________________
+March 06, 2019
+DVDFab 11.0.1.8 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support for some new Japanese adult DVDs.
+Fix: A problem that the subtitles of the UHD Ripper converted videos are improperly positioned.
+Fix: A playback repetition problem of the Hi-Fi Audio Converter produced audio files if Split by Chapter is enabled when converting with the Flac Stereo profile.
+Fix: A crash problem if the Copy Audio option is enabled at the Advanced Settings panel when converting DVDs containing 3.1 audio tracks.
+Fix: A crash problem when converting certain AVI videos with the MKV.Passthrough profile.
+
+_______________________
+February 20, 2019
+DVDFab 11.0.1.7 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermark as found on the Blu-ray version of Take Shelter.
+New: Added the PCM codec support to the MKV profile in the Ripper and Converter modules.
+New: Added the support to subscribe and automatically download the updated music in YouTube to MP3 utility. More Info: https://www.dvdfab.cn/faq/?type=youtube_to_mp3#faq_1
+New: Added the support to set the output audio quality as 320/256/192/128/96 kbps in YouTube to MP3 utility.
+
+_______________________
+February 15, 2019
+DVDFab 11.0.1.6 Updated!
+
+New: Added the support for some new Java protections.
+Fix: A problem that the source switcher is toggled off after loading the 2nd disc when handling multiple discs.
+Fix: A subtitles previewing problem on certain Blu-rays.
+Fix: A problem the merge feature in the Video Converter can only process two sources.
+Fix: A problem that DVD to Blu-ray Converter can only burn to one disc even the number of copies is set as 2.
+Fix: Some minor changes and improvements on the UHD Drive Tool utility.
+Fix: Some minor GUI changes and improvements.
+
+_______________________
+January 25, 2019
+DVDFab 11.0.1.5 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermark found on the Blu-ray version of Lockout (2012).
+New: Added the support to retain the playlist information when copying/converting BDAV discs in the Ripper modules.
+New: Added the BD100 1080p and BD66 1080p output support to the UHD to Blu-ray Converter module.
+New: Introduced the UHD Drive Tool utility to downgrade the backup-unfriendly firmware on a UHD Drive. More Info: https://www.dvdfab.cn/uhd-drive-tool.htm
+New: Improved the module icons at the top tab bar.
+Fix: A failure problem when opening certain DVDFab ripped DVD & Blu-ray folders released by Disney (USA) in the Ripper module.
+Fix: A failure problem when converting certain DVDs to WAV audios in the Ripper module.
+Fix: A failure problem when opening certain video files in the Video Converter module.
+Fix: A problem that the Saturation setting at the Video Edit panel of the Video Converter module does not work.
+Fix: A problem that the timestamp of the playback progress bar is not correct if rendering subtitles when converting certain MKV videos in the Video Converter module.
+Fix: A failure problem when converting the VOB files directly from certain DVD folders in the Video Converter module.
+Fix: A problem that the video files with runtime less than 1s can be loaded to the Video Converter module but fail to convert.
+Fix: A failure problem when analyzing certain URLs in the YouTube to MP3 utility.
+
+_______________________
+January 09, 2019
+DVDFab 11.0.1.3 Updated!
+
+New: Added the support for some new Java protections.
+New: Introduced the brand-new non-linear video editing feature in the Video Converter module.
+Fix: A crash problem when deleting previously saved custom profiles in the Ripper module.
+Fix: A noise problem when playing back the resulting videos produced by the Video Converter module.
+Fix: An audio crack and distortion problem if the DTS tracks in the source videos are converted to AAC or AC3 by the Video Converter module.
+Fix: A problem that the CRF encoding method does not work properly if VP9 is selected at the Advanced Settings > Video > Codec of the Video Converter module.
+Fix: A problem that file title is cut short after being handled by the DRM Removal module.
+
+_______________________
+January 03, 2019
+DVDFab 11.0.1.2 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to show the metadata information when converting non-main movie titles in the Ripper modules.
+New: Added the support to output multiple audio tracks when converting with certain profiles, such as Samsung S5.
+New: Added the Finished Task tab to the Task Queue.
+Fix: A problem that Blu-ray Creator produced Blu-rays display the external subtitles at the bottom of the video despite being positioned at the top in preset.
+Fix: Improved the GUI display under high DPI settings.
+
+_______________________
+December 28, 2018
+DVDFab 11.0.1.1 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to identify and copy the HDR10+ UHD Blu-ray source.
+New: Added the support for HDR10+ UHD Blu-ray source in BDInfo tool. 
+Fix: A crash problem when converting the iTunes movies to MKV Passthrough in certain cases.
+Fix: A failure problem when converting MKV videos with Tivo profile.
+
+_______________________
+December 25, 2018
+DVDFab 11.0.1.0 Updated!
+
+New: Added the support for some new Java protections.
+Fix: An opening failure problem on the bus encrypted Blu-ray discs.
+
+_______________________
+December 25, 2018
+DVDFab 11.0.1.0 Updated!
+
+New: Added the support for some new Java protections.
+Fix: An opening failure problem on the bus encrypted Blu-ray discs.
+
+_______________________
+December 21, 2018
+DVDFab 11.0.0.9 Updated!
+
+New: Introduced the Cloud Decryption Service 3.0 to improve the decryption speed on Blu-rays.
+New: Added the support for some new Java protections.
+New: Added the MP4 Passthrough and MP4.4K.H365.10bit conversion profiles to the UHD Ripper module.
+Fix: A problem that the number of copies behind the output destination box is missing under the Clone mode of the Copy module.
+Fix: A problem that File Transfer does not launch up after the conversion finishes when outputting to mobile devices.
+Fix: Some minor UI display issues.
+
+_______________________
+December 13, 2018
+DVDFab 11.0.0.8 Updated!
+
+New: Added the support to choose how to display task queue at General > Common Settings.
+New: Added the Copy Video option to MP4/MKV relevant conversion profiles at the Advanced Settings panel of Video Converter module.
+Fix: A problem that the output size at the main interface is not remembered next time upon restart.
+Fix: A problem that the created DVDs deliver no sound if the source videos contain 7.1 multi-channel audios.
+Fix: some minor UI display issues.
+
+_______________________
+November 30, 2018
+DVDFab 11.0.0.6 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support for some new protections as found on certain DVDs produced by PBS.
+New: Added the 12Bit support to certain MP4/MKV relevant conversion profiles in Ripper and Converter modules.
+New: Added the support to preset output size at the Main Interface of Ripper and Converter modules.
+Fix: A problem that the movie titles of certain Japanese discs are not displayed.
+Fix: A problem that the edited title names in Ripper module are reverted if switching to Copy module and then switch back.
+Fix: A conversion failure problem with MP4.passthrough profile in Video Converter module.
+Fix: A conversion failure problem with certain AVI videos in DVD Creator module.
+Fix: A conversion freeze problem with certain videos in DVD Creator module if external subtitles are added.
+Fix: Improved the UI display under high DPI settings.
+
+_______________________
+November 22, 2018
+DVDFab 11.0.0.5 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the conversion profiles for Samsung Galaxy Tab S4, iPad Pro, Nokia 8/7.1/6.1/5/3.1/2 and Google Pixel 3/3 XL/2/2 XL in the Ripper and Converter modules .
+New: Added the Deinterlacing Method option at Common Settings > Conversion > Convert.
+Fix: A problem that the subtitles are placed at the top of the video screen after conversion.
+Fix: A conversion failure problem when authoring DVDs from certain AVI videos.
+Fix: Improved the File Transfer and the way to display the task queue.
+Fix: Improved some UI display issues.
+
+_______________________
+November 15, 2018
+DVDFab 11.0.0.4 Updated!
+
+New: Added the support for some new Java protections.
+New: Improved the UI display. 
+New: Added back the skin of Light of Hope.
+New: Added the support to customize the way to display dialog/message boxes at Common Settings > General.
+New: Added the DTS codec support to MP4 relevant profiles at the Audio section of Ripper and Video Converter modules.
+Fix: An output oversize problem when shrinking certain Blu-rays to DVD5 size. 
+Fix: A noisy problem when playing back the MP4 videos converted by the Blu-ray Ripper module. 
+Fix: A problem that a 00099.m2ts file is created even No Menu option is selected while authoring Blu-rays.
+Fix: A conversion failure problem when 2-pass encoding method is selected in the Video Converter module.
+
+_______________________
+November 07, 2018
+DVDFab 11.0.0.3 Updated!
+
+New: Introduced the DVDFab Prime Member service. More Info: https://www.dvdfab.cn/promotion.htm
+New: Added the support for some new Java protections.
+New: Added more CRF value options at the Encoding Method section of the Advanced Settings panel of Ripper and Converter modules.
+New: Added the support to set the customized bit rate as 100MB at the Advanced Settings panel when choosing 4K relevant conversion profiles.
+New: Added the support to change the frame rate at the Advanced Settings panel of Blu-ray and UHD Ripper modules.
+Fix: A problem that the Cinavia watermark of Salt (BD version from Canada) cannot be removed.
+Fix: A problem that the Mobile Device cannot be selected as output destination when conversion profiles related to Apple devices are selected.
+Fix: A problem that the YouTube to MP3 utility does not work in certain cases.
+Fix: A subtitles rendering failure problem on certain seasonal discs.
+Fix: A conversion failure problem when selecting 2-pass Encoding Method in Ripper and Converter modules.
+Fix: Some minor video transfer problems caused by the connection issue between File Transfer and DVDFab Remote.
+Fix: A country code removal problem in certain cases.
+Fix: Improved the speed under CUDA hardware acceleration.
+
+_______________________
+November 01, 2018
+DVDFab 11.0.0.2 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermarks found on the following discs: Men In Black 3 (BD version) and Salt (BD version).
+New: Added the support to display the detailed codec information for hardware accelerations.
+New: Added the conversion profiles for iPhone XS, iPhone XS Max and iPhone XR in Ripper and Video Converter modules.
+New: Improved the user experience of the File Transfer utility tool.
+New: Improved the user experience of the DVDFab Remote utility tool.
+New: Improved the Task Queue Manager when processing multiple tasks.
+New: Improved some UI display problems.
+Fix: A problem that Intel HD Graphics hardware acceleration cannot be enabled on NUC8i7HNK.
+Fix: A problem that the desktop shortcut icon is created by default when updating via the Live Update feature.
+Fix: A problem that user interface displays abnormally if switching the DPI setting to 150% or 175%.
+Fix: A problem that the module user selected is not remembered upon next startup.
+Fix: A problem that the Pattern value cannot be saved at Common Settings -> Conversion -> Output -> File Source.
+Fix: A problem that DVDFab cannot burn to rewritable blank medium.
+Fix: A problem that the ISO file creation process is not displayed when copying DVD and Blu-ray discs to ISO files.
+Fix: A problem that certain Blu-rays are missing the DTS-HD MA 5.1 audios after being copied by the Blu-ray Copy module.
+Fix: A problem that switching output path requires a program restart to take effect.
+Fix: A problem that the videos converted from certain TS and WMV videos cannot playback.
+Fix: A problem that the edited title name of previous season switches back after loading another season of the same TV show in Ripper modules.
+Fix: A problem that the videos converted by the Video Converter module are missing the chapter markers.
+Fix: A problem that the MKV 4K 10bit profile in the Video Converter module cannot passthrough Dolby Atmos audios.
+Fix: A problem that the SRT subtitles are positioned at the top part of the screen after being converted by Video Converter module.
+Fix: A problem that the Video Converter module produces incorrect file extensions in certain cases.
+Fix: A problem that the function icons in the Menu templates of the Creator modules are missing.
+Fix: A problem that changing names for Scenes in the Blu-ray Creator does not work.
+Fix: A problem that the Blu-ray Creator created videos do not contain any subtitles if users add external subtitles or the source already contains internal subtitles.
+
+_______________________
+October 24, 2018
+DVDFab 11.0.0.1 Updated!
+
+New: This is the 1st official release of DVDFab 11. More Info: https://www.dvdfab.cn/dvdfab11.htm
+New: All-new flat design with brand-new user interface, plain and simple.
+New: Redesigned prompt dialog floating in from the bottom of main interface.
+New: Integrated the Task Queue Manager to the main interface.
+New: Introduced the YouTube Uploader in Ripper and Converter modules, which allows users to upload the resulting videos directly to YouTube channel. 
+New: Introduced the Mobile Video Loader to transfer videos from smartphones or tablets directly to DVDFab 11.
+New: Redesigned the File Transfer to transfer the edited videos directly back to smartphones or tablets.
+New: Introduced the redesigned Video Edit feature in Ripper and Converter modules.
+New: Introduced the all-new Turbo Conversion Engine that supports the latest HW acceleration technologies from NVIDIA, AMD and Intel.
+New: Added the support for some new Java protections.
+New: Added the support for some new Japanese adult DVDs.
+New: Added the support to remove the Cinavia watermarks found on the following discs: Hotel Transylvania 2 (BD version), The Shack (2017 BD version), The Equalizer (2014 BD version) and Jason Bourne (4K UHD version).
+New: Added the DTS codec support to the MKV/M2TS relevant profiles at the Audio section of the Advanced Settings panel.
+New: Added the VP9/VP8 codec support to the MKV relevant profiles at the Video section of the Advanced Settings panel of Ripper and Converter modules.
+New: Added the OPUS codec support to the MKV relevant profiles at the Audio section of the Advanced Settings panel of Ripper and Converter modules.
+Fix: A low speed problem when outputting ISO files to NAS devices.
+Fix: A problem that not all the user selected audio tracks are retained in the final results created by Blu-ray and UHD Creator modules.
+Fix: Some minor changes and improvements.
+
+_______________________
+October 10, 2018
+DVDFab 10.2.1.7 Updated!
+
+New: Added the support for some new Java protections.
+New: Improved the support for the BluPath feature on Blu-rays and the PathPlayer feature on DVDs.
+Fix: A crash problem when opening DVD discs in certain cases.
+
+_______________________
+September 27, 2018
+DVDFab 10.2.1.6 Updated!
+
+New: Added the support for some new Java protections.
+New: Added a new menu template in the DVD Creator module.
+Fix: A crash problem when opening DVD discs in certain cases.
+
+_______________________
+September 19, 2018
+DVDFab 10.2.1.5 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermarks as found on the DVD version of Jigsaw and The Shack.
+New: Added the conversion profiles for the newly released iPhone XR, iPhone XS and iPhone XS Max in the Ripper and Converter modules.
+Fix: A problem that the optical drive no longer recognizes the blank medium after the 1st task finishes if there are multiple burning tasks in the queue with ISO files as sources.
+
+_______________________
+September 13, 2018
+DVDFab 10.2.1.4 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to identify and access the main title from unprotected Blu-ray ISO files and folders.
+New: Improved the support for the BluPath feature.
+
+_______________________
+September 01, 2018
+DVDFab 10.2.1.3 Updated!
+
+Fix: A crash problem when opening DVD discs in certain cases.
+
+_______________________
+August 31, 2018
+DVDFab 10.2.1.2 Updated!
+
+New: Added the support for some new Java protections.
+Fix: A problem that the “EN 3/5.1 Visual Impaired” audio track is selected by default when converting certain DVDs.
+Fix: A problem that the font size setting of the menu template in DVD Creator module does not work.
+Fix: A problem that deleting the Scenes text box from the menu template in DVD Creator module does not work.
+
+_______________________
+August 21, 2018
+DVDFab 10.2.1.0 Updated!
+
+New: Added the support for some new Java protections.
+
+_______________________
+August 16, 2018
+DVDFab 10.2.0.9 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermarks as found on the Blu-ray version of The Shallows (2016) and the DVD version of Early Man (2018).
+New: Added a new utility to download and convert YouTube videos to MP3 tracks.
+New: Added the support to remove the country code from Blu-rays.
+Fix: A problem that the No Menu option in the Blu-ray to DVD Converter module, when selected, crashes the program, and if not, still creates menus. 
+Fix: A problem that the custom background feature of the menu templates in DVD Creator module does not work.
+Fix: A problem that the Fast Forward and Rewind features do not work when previewing Blu-rays under Main Movie mode.
+_______________________
+August 08, 2018
+DVDFab 10.2.0.7 Updated!
+
+Fix: A crash problem when switching output size at the Advanced Settings panel of Blu-ray to DVD Converter module.
+
+_______________________
+August 07, 2018
+DVDFab 10.2.0.6 Updated!
+
+New: Added the support to remove the Cinavia watermarks as found on the DVD version of The Commuter and the 4K Ultra HD version of The Fate of the Furious (Spanish edition) and The Huntsman: Winter's War.
+New: Added a newly designed menu template in the Creator module named The Fleeting Meteor which can be downloaded from the Menu Library. 
+New: Added the support to predefine the output video quality in the Creator modules. 
+Fix: Improved the chapter preview experience.
+Fix: Improved the UI for the UHD Creator module.
+Fix: A problem that some video sources cannot open in certain cases.
+Fix: A freeze problem when converting a Samsung demo ISO file using the MKV.4K.H265.10bit profile.
+Fix: A problem that the cropping feature in the Ripper and Converter modules does not work properly in certain cases.
+Fix: A problem that the AVI files produced by the Ripper modules have incorrect durations and do not play back.
+
+_______________________
+July 30, 2018
+DVDFab 10.2.0.4 Updated!
+
+New: Added the support to remove the Cinavia watermark as found on the Blu-ray version of Acrimony.
+Fix: A problem that the output result is oversized in the DVD Creator and Blu-ray to DVD Converter modules in certain cases.
+
+_______________________
+July 25, 2018
+DVDFab 10.2.0.3 Updated!
+
+New: Added the support for some new Java protections.
+
+_______________________
+July 18, 2018
+DVDFab 10.2.0.1 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermarks as found on the 4K UHD versions of The Fate of the Furious and The Shallows.
+New: Improved the support for the preview engine.
+New: Improved the support for the conversion engine.
+New: Improved the stability when converting with CPU decoder and encoder.
+New: Improved the conversion speed for copying and converting 3D Blu-rays.
+New: Added the support for AMD hardware acceleration when converting with 4K H264/H265 profiles.
+New: Completely redesigned the menu feature in the Blu-ray Creator module.
+New: Added the Setup function to the menu feature in the Blu-ray Creator module to allow users to set up audios and subtitles in menus.
+New: Added the support to save the customized menu template as default menu in the Blu-ray Creator module.
+New: Added the support to customize the video thumbnail of the menu template in the Blu-ray Creator module.
+New: Added the support to add custom widgets to the menu template in the Blu-ray Creator module.
+New: Added the support to return to menu if the selected title finishes playback in the Blu-ray Creator module.
+New: Added the support to preview the menu template in the Blu-ray Creator module.
+New: Added the support to convert HDR videos to MKV/MP4 SDR videos in the Video Converter module.
+New: Added the Web Optimized option for the MP4 profile in the Video Converter module.
+Fix: A problem that the options to preselect default audios and subtitles do not work.
+Fix: Some minor changes and improvements.
+
+_______________________
+July 06, 2018
+DVDFab 10.1.0.0 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermark from the UHD version of Pride & Prejudice & Zombies, the Blu-ray version of Early Man, Winchester and Tyler Perry's Boo 2! A Madea Halloween.
+New: Improved the support for DVD PathPlayer.
+
+_______________________
+June 20, 2018
+DVDFab 10.0.9.9 Updated!
+
+New: Added the support for the new protection as found on the DVD version of I Can Only Imagine.
+
+_______________________
+June 14, 2018
+DVDFab 10.0.9.7 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermarks from the 4K Ultra HD Blu-rays of Despicable Me 3 and Minions (Spanish audio track).
+New: Added the support to remove Cinavia watermarks from AC3 audio tracks of Blu-rays and 4K Ultra HD Blu-rays.
+Fix: Improved the conversion speed when converting HDR contents to SDR contents in the Ripper module.
+Fix: Improved the support for the software H.265 video encoder.
+Fix: A problem that the crop feature in the Ripper module does not work properly if the AMD APP Lightning-Shrink is enabled.
+Fix: A problem that DVDFab burning engine is not available in certain cases.
+
+_______________________
+June 01, 2018
+DVDFab 10.0.9.5 Updated!
+
+Fix: A failure problem when converting UHD Blu-ray with certain UHD drives in DVDFab x64 10.0.9.4.
+
+_______________________
+May 31, 2018
+DVDFab 10.0.9.4 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia protection as found in the French audio track of the Blu-ray version of Pitch Perfect 2.
+New: Added the UHD Cinavia Removal module to remove the Cinavia protections as found on the 4K Ultra HD Blu-rays including Fifty Shades Darker, The Mummy (2017), Sing (2016), Gods of Egypt, The Secret Life of Pets (2016), Pitch Perfect 3 (2017), Everest (2015) and Minions (2015). More Info: https://www.dvdfab.cn/uhd-cinavia-removal.htm
+New: Added the UHD to Blu-ray Converter module to downscale 4K Blu-rays to regular 1080p Blu-rays. More Info: https://www.dvdfab.cn/uhd-to-blu-ray-converter.htm
+New: Added the support to keep the wanted audio track in the Full Disc mode of the UHD Copy module.
+New: Added the MP4.SDR and MKV.SDR conversion profiles in the UHD Ripper module.
+New: Added the support to display the downloading progress of the utilities and improved the interactive process.
+New: Added the support to change the scrollbar color from black to blue in the Meta Info Edit window.
+Fix: A problem that the Blu-rays produced by the Full Disc mode of the Blu-ray Copy module cannot be reloaded to DVDFab.
+Fix: A problem that the same image appears twice when playing back the videos converted from certain BDMV sources in the Blu-ray Ripper module.
+Fix: A problem that some 4K Ultra HD Blu-ray discs are identified as data discs in certain cases.
+Fix: A problem that the resizing feature of the task window does not work. 
+Fix: Some minor changes and improvements.
+
+_______________________
+May 10, 2018
+DVDFab 10.0.9.2 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia protections as found on the DVD versions of The Glass Castle and the Pitch Perfect 3 and the Blu-ray versions of the All Eyez on Me, the Pitch Perfect 3 and the Last Flag Flying.
+New: Removed the restriction that the free utility BDFix is available only to those who own a paid version of Blu-ray Copy.
+New: Separated the Youtube Video Downloader from the Video Converter module and moved it to the Utilities tab as a free tool.
+New: Added the support for the 2-pass encoding method if the video encoder is set to CUDA in the Ripper modules.
+Fix: A problem that the sources in the Archived Task list cannot be reloaded to the Current Task list in certain cases.
+Fix: A problem that the runtime is shortened when copying the 2D Blu-ray version of Blade Runner 2049 (Germany edition) in Main Movie mode.
+Fix: A problem that two audio tracks appear in the output file even only one is selected in the Customize mode of the DVD Copy module.
+Fix: A failure problem when converting BDAV discs to MP4/MKV videos in certain cases.
+Fix: A problem that the "Display forced subtitle only" option is selected by default when Sweden subtitle is selected in the Ripper module.
+Fix: A crash problem when converting videos with MKV.4K.H265.10bit profile if the AAC audio track is selected.
+Fix: A problem that nothing appears in the output directory when converting videos with hardware acceleration in certain cases.
+Fix: Improved the UI support for 4K high DPI displays.
+Fix: Some minor changes and improvements.
+
+_______________________
+April 20, 2018
+DVDFab 10.0.9.0 Updated!
+
+New: Added the support for some new Java protections.
+Fix: The problem that some Blu-ray discs cannot be opened in certain cases.
+
+_______________________
+April 12, 2018
+DVDFab 10.0.8.9 Updated!
+
+New: Added the support to burn the output file to blank BD66 discs in the UHD Copy and UHD Creator modules.
+New: Added the support to convert the non-standard 29.97/30 FPS of the sources to UHD standard in the UHD Creator module.
+Fix: Improved the playback compatibility for hardware players (Panasonic UB900 etc.) in the UHD Copy and UHD Creator modules.
+Fix: A subtitle missing problem in the UHD Creator module in certain cases.
+Fix: A problem that the TrueHD audio is not retained when processing MKV sources with Passthrough mode in the UHD Creator module.
+Fix: A problem that the output size is undersized in the UHD Creator module due to the 30000 limitation on bitrate.
+Fix: A problem that the output file path cannot be opened via the folder icon in the DRM Removal module in certain cases.
+Fix: A noisy problem when ripping Blu-rays with E-AC3 audio tracks in the Blu-ray Ripper module.
+Fix: A problem that only the English language is accepted when entering the title descriptions at the Meta Collection area.
+Fix: A problem that only one title can be played on certain media players when playing back a two-title output merged by the DVD Copy module.
+Fix: A problem that the toggle button is not turned off when deleting the titles of a source in the DVD to Blu-ray module.
+Fix: A problem that the file name of the external subtitles cannot be displayed.
+Fix: A problem that the current conversion task is paused when deleting a waiting task from the task queue.
+Fix: A problem that the font size of the prompt texts is not consistent when switching to Passthrough profile if the source is not supported in the UHD Ripper module.
+Fix: A problem that the File Transfer does not launch up after conversion if the video is trimmed.
+Fix: A problem that the Buy Now button and the Shopping Cart are overlapped under high-resolution screens.
+Fix: A problem that certain Xvid encoded videos cannot be opened in the Converter and Creator modules.
+Fix: A problem that the duration is inaccurate when playing back the videos converted for Apple devices by the DVD Ripper module.
+
+_______________________
+April 03, 2018
+DVDFab 10.0.8.8 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermarks found on the Blu-ray versions of the Sleight, Saban’s Power Rangers and The Big Sick, and the DVD version of My Little Pony.
+New: Improved the support for the Cloud Server to open the discs released after 2016.
+New: Ushered in the brand-new decryption technology to decrypt genuine 4K Ultra HD Blu-ray discs.
+Fix: A problem that the size of the ISO file created by Blu-ray Creator is incorrect.
+Fix: A problem that the estimated time for the conversion task is incorrect in the Ripper modules.
+Fix: Some minor changes and improvements.
+
+_______________________
+March 14, 2018
+DVDFab 10.0.8.7 Updated!
+
+Fix: A crash problem by the end of backup process under certain modes of the DVD Copy module.
+
+_______________________
+March 14, 2018
+DVDFab 10.0.8.6 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support for some new Japanese adult DVDs in the DVD Copy module.
+New: Added the support for other types of videos as input in the UHD Creator module.
+New: Added the support to compress the input source to BD50/25 size in the UHD Creator module.
+New: Added the support to show the HDR10/Dolby Vision information of the imported 4K Ultra HD Blu-rays and 4K HDR10 videos.
+New: Added the conversion profiles for Samsung Galaxy S9/S9+ in the Ripper and Converter modules.
+New: Added the support to add Vietnamese external subtitles.
+New: Improved the Meta Collection feature for DVDS.
+Fix: A problem that if importing another video to start a new DVD authoring task without removing the imported video of the previous task, there is only one video in the output DVD.
+Fix: A crash problem when creating DVDs in certain cases.
+Fix: A crash problem when creating Blu-rays with certain WMV videos.
+Fix: Some minor changes and improvements.
+
+_______________________
+February 28, 2018
+DVDFab 10.0.8.4 Updated!
+
+New: Added the support for some new Java protections.
+New: Introduced the UHD Creator module to produce home-made 4K Ultra HD Blu-rays.
+More Info: https://www.dvdfab.cn/uhd-creator.htm
+New: Added the support to remove the Cinavia watermarks from the Blu-ray versions of American Assassin and Despicable Me 3.
+New: Added the support to reserve the HDR when converting HDR video files with MKV.4K.H265.10bit and M2TS.4K.H265.10bit profiles in Video Converter.
+Fix: A problem that the audio channel order is messed up after removing the Cinavia encryptions from certain Blu-rays.
+Fix: A Cinavia removal failure problem if the selected audio of the Blu-ray contains 3.0 channel.
+Fix: A freeze problem when converting certain Blu-rays to MP4 videos.
+Fix: A failure problem when opening certain video files.
+Fix: A problem that the added Korean external subtitles are not displayed.
+
+_______________________
+February 06, 2018
+DVDFab 10.0.8.1 Updated!
+
+New: Added the support for some new Java protections.
+Fix: A crash problem upon software startup in certain cases.
+Fix: An error 1000 problem when copying Blu-ray discs in certain cases.
+
+_______________________
+February 02, 2018
+DVDFab 10.0.8.0 Updated!
+
+New: Added the support for some new Java protections. 
+New: Added the support to remove the Cinavia watermarks from the Blu-ray versions of Rock Dog and Red Turtle, and the DVD version of the American Assassin, Despicable Me 3 and Hitman. 
+Fix: Improved the metadata feature for DVDs. 
+Fix: The authorization failure problem if users use wireless connection and external hard drives. 
+Fix: The problem that there is no way to set the License Info window not to pop up after software startup. 
+Fix: Some minor changes and improvements.
+
+_______________________
+January 26, 2018
+DVDFab 10.0.7.9 Updated!
+
+New: Added the support for AACS v64.
+New: Added the support for some new Java protections.
+
+_______________________
+January 12, 2018
+DVDFab 10.0.7.7 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove Cinavia watermarks of the infected DVDs and Blu-rays with the Full Disc mode.
+New: Added the support to remove the Cinavia watermark from the DVD version of the Rock Dog.
+New: Added the support to clone the 4K Ultra HD Blu-rays with the leaked keys.
+Fix: The occasional crash problem when removing Cinavia watermarks under the Main Movie mode.
+Fix: The problem that the subtitles are inaccurately positioned after being rendered in the UHD Ripper module.
+Fix: The audio channel decreasing problem when converting with m2ts.passthrough profile if the sources are filled with DTS-HD or DTS: X audios.
+Fix: The authorization failure problem in some rare cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+December 27, 2017
+DVDFab 10.0.7.6 Updated!
+
+New: Added the support to open some 4K Ultra HD Blu-ray discs from certain types of UHD-friendly drives by accepting external key files. The key file location can be changed at Common Settings > Blu-ray > UHD.More Info: https://forum.dvdfab.cn/forum/uhd-copy-ripper/346376
+New: Added the enhanced E-AC3 audio support to the Blu-ray Creator module.
+Fix: A problem that external subtitles are not displayed when playing the UHD Copy produced copies on some hardware playback devices.
+Fix: A freeze problem when copying certain Blu-ray discs in certain cases.
+Fix: A memory leak problem when removing Cinavia watermarks from DVDs.
+Fix: A video and audio not sync problem when converting some video files with GPU hardware acceleration.
+Fix: A green screen problem in the resulting video if HD2000/3000 Intel Quick Sync is enabled during the conversion process.
+Fix: Improved the speed with software encoding.
+Fix: Some minor changes and improvements..
+
+_______________________
+December 21, 2017
+DVDFab 10.0.7.4 Updated!
+
+Merry Christmas! We just infused some Christmas spirit to the Startup Screen. Check it out!
+New: Add the support for some new Java protections.
+New: Improved the PC authorization process for multi-computer licenses.
+
+_______________________
+December 16, 2017
+DVDFab 10.0.7.3 Updated!
+
+Fix: A crash problem when opening the BDAV discs in certain cases.
+
+_______________________
+December 13, 2017
+DVDFab 10.0.7.2 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove a new protection as found on the DVD version of Office Christmas Party.
+New: Added the support to show the progress bar when analyzing sources in Blu-ray Copy module.
+New: Introduced the Multi-Authorization feature for Single-User licenses. Your account information is required to authorize your current computer.
+More Info: https://www.dvdfab.cn/purchase-policy.htm
+Fix: A crash problem when authorizing DVDFab in certain cases.
+Fix: The hardware acceleration problem on Windows 10 systems with Intel HD2000/3000 video cards.
+Fix: A crash problem when converting H265 encoded videos using the MP4.Passthrough profile.
+Fix: A green screen problem when rendering subtitles with the Ripper module in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+November 21, 2017
+DVDFab 10.0.6.8 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermark found on the DVD version of By The Sea.
+New: Added the support to collect the Meta Info of DVD sources.
+New: Improved the support to collect the Meta Info of Blu-ray sources.
+New: Improved the support to scan the BDInfo for the 4K Ultra HD Blu-ray sources.
+Fix: A problem that the copied main movie of a 4K Ultra HD Blu-ray does not play back in certain cases.
+Fix: A crash problem when converting certain Blu-ray sources using MP4/MKV profiles.
+Fix: A crash problem when converting to MP4/MKV profiles using higher bitrate output and CUDA encoder in certain cases.
+Fix: A crash problem when converting the interfaced sources to the H265 profiles with CUDA encoder in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+November 13, 2017
+DVDFab 10.0.6.6 Updated!
+
+Fix: Fixed the problem that the videos converted by the activated UHD Ripper still have DVDFab watermark logo.
+
+_______________________
+November 01, 2017
+DVDFab 10.0.6.5 Updated!
+
+New: Added the Full Disc backup mode support to the UHD Copy module.
+New: Added the support to remove the Cinavia watermarks found on the Blu-ray version of Bleed for This, and Free Fire.
+Fix: Fixed the problem that the subtitle of the video converted by UHD Ripper is improperly positioned.
+Fix: Fixed the problem that the Fabprocess.exe exits unexpectedly in the middle of the conversion.
+Fix: Some minor changes and improvements.
+
+_______________________
+October 27, 2017
+DVDFab 10.0.6.4 Updated!
+
+New: Added the support to some new Java protections.
+New: Introduced the UHD Copy module to shrink the Main Movie title of an unprotected 4K Ultra HD movie down to BD-50/25 size. More Info: https://www.dvdfab.cn/uhd-copy.htm
+New: Introduced the UHD Ripper module to convert the unprotected 4K Ultra HD Blu-ray to MKV/M2TS videos. More Info: https://www.dvdfab.cn/uhd-ripper.htm
+New: Added the support to remove the Cinavia watermarks found on the Blu-ray version of The Mummy, and the DVD versions of the Gods of Egypt and the Power Rangers.
+New: Added the support to enable CUDA or Intel Quick Sync hardware acceleration while converting to 4K relevant profiles.
+New: Added a new conversion profile, namely, MKV.4K.H265.10bit.
+New: Added the support for HEVC 10bit hardware acceleration.
+Fix: Improved the profile selection process in the Ripper and Converter modules.
+Fix: Fixed the conversion failure problem of certain sources.
+Fix: Fixed the problem that DRM Removal module cannot access the iTunes music library in certain cases.
+New: Added the support to preserve the resolution as 480i in the Blu-ray Copy module if the original source is 480i. 
+Fix: Fixed the problem that the color range is not recognized while selecting certain profiles in the Blu-ray Ripper module .
+Fix: Some minor changes and improvements.
+
+_______________________
+September 29, 2017
+DVDFab 10.0.6.2 Updated!
+
+New: Introduced the Hi-Fi Audio Converter module to convert Blu-rays, especially music Blu-rays, to lossless Hi-Fi FLAC and WAV audio files. More Info: https://www.dvdfab.cn/hi-fi-audio-converter.htm
+New: Added the support to remove the Cinavia watermarks found on The Shack (Blu-ray version) and Allegiant (DVD version).
+New: Added the 3D.MKV.MVC and 3D.MKV.MVC Passthrough conversion profiles.
+New: Added the conversion profile for the recently released iPhone8, iPhone8 Plus and Apple TV 4K.
+New: Added the support to send the movies converted by DRM Removal for Apple directly to the Movie Server.
+New: Improved the support for detecting the 4K UltraHD discs.
+Fix: The conversion failure problems when converting certain discs.
+Fix: A freeze problem when removing the DRM encryptions from Apple Music if users update to iTunes 12.7 in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+September 12, 2017
+DVDFab 10.0.5.9 Updated!
+
+New: Added the support for the new copy protections found on Japan adult discs.
+New: Added the support for some new Java protections.
+New: Added the support to save the result files converted by the Ripper module and Full Disc/Main Movie/Clone mode of the Copy module to DVDFab Movie Server.
+New: Added the support to remove the Cinavia watermarkas found on the DVD The Fate of the Furious and Criminal.
+Fix: Fixed the crash problem caused by certain discs.
+Fix: Fixed the crash problem when opening certain sources in DRM Removal for Apple.
+Fix: Fixed the conversion failure problem in DRM Removal for Apple caused by some special characters in the output path.
+Fix: Some minor changes and improvements.
+
+_______________________
+August 17, 2017
+DVDFab 10.0.5.2 Updated!
+
+New: Added the DRM Removal module.
+Fix: A crash problem during the startup process.
+Fix: Some minor changes and improvements.
+
+_______________________
+August 08, 2017
+DVDFab 10.0.5.1 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to save the output ISO files directly to Movie Server in Main Movie mode of the Copy module.
+Fix: Improved the support for the BDInfo utility.
+Fix: Some minor changes and improvements.
+
+_______________________
+July 28, 2017
+DVDFab 10.0.4.9 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the access point to correct metadata information for Movie Server in the drop-down menu of the output destination selection box.
+Fix: Improved the support for detecting DVDFab Movie Server.
+Fix: Fixed the problem that DVDFab failed to check the free space of Movie Server in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+July 21, 2017
+DVDFab 10.0.4.8 Updated!
+
+New: Introduced the new product Screen Recorder & Editor for iOS under the Utilities tab.Note that this product is still at the Alpha stage, if you have advices and suggestions, please feel free to let us know. More Info: http://www.dvdfab.cn/screen-recorder-editor-ios.htm
+New: Added the “Copy Source” option in right-click menu in the Main Movie mode of Copy module, Ripper and Converter modules.
+New: Added a “How to handle read error problems” tip in the read error alert dialog. More Info: http://www.dvdfab.cn/faq/?type=dvd_copy#faq_6
+New: Added the support to remove the Cinavia protections found on the Blu-ray versions of Fifty Shades Darker, La La Land, Coming Home, and the DVD versions of Patriots Day and John Wick: Chapter 2.
+New: Added the support for some new Java protections.
+Fix: Improved the support for handling read error problems of DVD and Blu-ray discs.
+Fix: Improved the support for detecting DVDFab Movie Server.
+Fix: Fixed the problem that DVDFab failed to transfer the output ISO files to the Movie Server in certain cases.</line>
+Fix: Improved the support for DVD PathPlayer.
+Fix: Improved the support for BDInfo utility.
+Fix: Some minor changes and improvements.
+
+_____________________
+July 03, 2017
+DVDFab 10.0.4.6 Updated!
+
+New: Added the support for the new copy protection found on another US version of the DVD Saban's Power Rangers.
+Fix: Fixed the failure problem when using VSO and ImgBurn burnning engines in certain cases.
+
+_______________________
+June 30, 2017
+DVDFab 10.0.4.5 Updated!
+
+New: Added the support for some new Java protections. 
+New: Added the support to remove Cinavia watermarks as found on the Blu-ray versions of Patriot's Day (Canada edition)) and John Wick: Chapter 2 (Canada edition).
+New: Added the support for the new copy protections found on the DVD versions of John Wick: Chapter 2 (Canada edition) and Saban's Power Rangers.
+New: Introduced the new tool BDFix available under the Utility tab. More Info: http://www.dvdfab.cn/bdfix.htm
+New: Added the support to save DVD & Blu-ray ISO files directly to DVDFab Movie Server. More Info: http://www.dvdfab.cn/movie-server.htm
+Fix: Fixed the problem that BDInfo scans incorrect bitrates in certain cases. 
+Fix: Fixed the problem that the file size is too small when compressing Blu-ray sources to BD25 with AMD GPU in certain cases. 
+Fix: Fixed the pixelization problem when ripping to AVI videos.
+Fix: Fixed the crash problem when removing Apple DRM encryptions in certain cases. 
+Fix: Some minor fixes and improvements.
+
+_______________________
+June 21, 2017
+DVDFab 10.0.4.3 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support for the new copy protection as found on DVD John Wick: Chapter 2.
+New: Added the support to remove Cinavia watermarks as found on the Blu-ray versions of Patriot's Day, The Eagle Huntress and La La Land.
+Fix: Some minor fixes and improvements.
+
+_______________________
+June 14, 2017
+DVDFab 10.0.4.2 Updated!
+
+New: Added the 10bit support to several MKV and MP4 profiles in the Ripper and Converter modules. 
+New: Added the Scheduled Task feature to the Task Queue Manager. 
+New: Added the support for some new Java protections.
+New: Added the support to remove Cinavia watermarks as found on the Blu-ray versions of At Any Price, Elvis and Nixon, Love and Mercy, Don’t Kill It and the DVD versions of Sing, Middle School: The Worst Years of My Life. 
+Fix: Some minor fixes and improvements.
+
+_______________________
+May 24, 2017
+DVDFab 10.0.4.0 Updated!
+
+Fix: Improved the support for Cloud Decryption service for Blu-rays.
+Fix: A crash problem when opening Apple DRM videos in certain cases.
+
+_______________________
+May 16, 2017
+DVDFab 10.0.3.9 Updated!
+
+New: Added the support to open the unprotected 4K UHD Blu-ray sources. User can scan for BDInfo, but cannot copy/convert for now. 
+New: Introduced the free product BDInfo which is available under the Utilities tab. It can show detail info about the source including Cinavia, Atmos, DTS:X, HDR, etc. More Info:
+http://www.dvdfab.cn/bdinfo.htm
+
+_______________________
+April 26, 2017
+DVDFab 10.0.3.6 Updated!
+
+New: Added the support to remove Cinavia watermark on the Blu-ray version of The Edge of Seventeen, A Kind of Murder, Arrival (2016), Searching for Sugar Man and Hell or High Water (another version). 
+New: Changed the output format of videos by DRM Removal for Apple from M4V to MP4. 
+Fix: Improved the software stability.
+
+_______________________
+April 21, 2017
+DVDFab 10.0.3.5 Updated!
+
+Fix: A crash problem when encountering the read error during opening DVD/Blu-ray disc in certain cases.
+
+_______________________
+April 19, 2017
+DVDFab 10.0.3.4 Updated!
+
+New: Added the support for some new Blu-ray JAVA protections.
+New: Added the support to remove Cinavia watermarks on the Blu-ray versions of Hacksaw Ridge, Julieta, Sing, Love Is Strange, A Street Cat Named Bob, Sing and the DVD version of Now You See Me 2.
+New: Added the support for iTunes 12.6 in DRM Removal. 
+New: Added the support to remove the DRM encryptions of Audiobooks and music videos.
+New: Improved the support for DRM Removal.
+Fix: Improved the support for the Preview feature.
+Fix: Improved the support for the conversion engine.
+Fix: A problem that the video bitrate cannot be set manually in Advanced Settings if AVI XVID profile is selected. 
+Fix: Some minor changes and improvements.
+
+_______________________
+April 01, 2017
+DVDFab 10.0.3.2 Updated!
+
+Fix: A problem that the movies cannot be displayed in DRM Removal in certain cases. 
+Fix: A noise problem when playing the converted DRM-free M4A files in certain cases. 
+Fix: A noise problem when converting DVD sources to MP4 format with mp2 audio track in certain cases
+
+_______________________
+March 29, 2017
+DVDFab 10.0.3.1 Updated!
+
+New: Introduced the DVDFab DRM Removal to remove DRM encryptions from relevant Apple contents. More Info: http://www.dvdfab.cn/drm-removal.htm
+New: Added the support to remove the Cinavia as found on the Blu-ray Robot & Frank, The To Do List, Ouija: Origin of Evil, Elle and Hacksaw Ridge. 
+New: Added the support to remove the Cinavia as found on the DVD Mechanic: Resurrection, Now You See Me 2 and Hacksaw Ridge. 
+New: Added a startup guide to introduce Copy (Full Disc, Main Movie) and Ripper modules for first-time users. 
+New: Improved the support for the Blu-ray BluPath. 
+Fix: A failure problem when copying Blu-ray 3D sources to SBS 3D format in Full Disc and Main Movie modes in certain cases. 
+Fix: A failure problem when converting DVD/Blu-ray sources with AVI XVID profile. 
+Fix: A crash problem when starting DVDFab in certain cases. 
+Fix: Some minor changes and improvements.
+
+_______________________
+March 17, 2017
+DVDFab 10.0.2.9 Updated!
+
+New: Added the support to remove the Cinavia watermark found on the Blair Witch (Blu-ray version) and the Nerve (DVD version). 
+Fix: A problem that the preview engine failed to initialize in certain cases. 
+Fix: Improved the support for previewing the DVD sources.
+Fix: Some minor changes and improvements.
+
+_______________________
+March 09, 2017
+DVDFab 10.0.2.8 Updated!
+
+New: Add the support to remove the Cinavia watermarks from Blu-ray movies including Before Midnight, The Kings of Summer and Lambert & Stamp. 
+Fix: A problem that DVDFab does not display correctly after updating from the old version in certain cases.
+Fix: A problem that DVD sources could not be previewed in certain cases.
+
+_______________________
+March 07, 2017
+DVDFab 10.0.2.7 Updated!
+
+New: Improved the support for DVD PathPlayer. 
+New: Improved the support for Blu-ray BluPath.
+New: Introduced the DVD Cinavia Removal module. More Info: http://www.dvdfab.cn/dvd-cinavia-removal.htm
+New: Introduced the Blu-ray Cinavia Removal module. More Info: http://www.dvdfab.cn/blu-ray-cinavia-removal.htm
+New: Starting from this version, the former CinaviaRemoval HD is renamed as DVD & Blu-ray Cinavia Removal, a bundle package covering the newly introduced DVD Cinavia Removal and Blu-ray Cinavia Removal. However, as promised previously, all the existing CinaviaRemoval HD customers will get both DVD Cinavia Removal and Blu-ray Cinavia Removal totally for free. More Info: http://www.dvdfab.cn/dvd-blu-ray-cinavia-removal.htm
+New: Add the support to remove the Cinavia watermarks found on the DVDs including Kick Ass 2, Blair Witch, Dirty Grandpa, Everest, Hell or High Water, Jason Bourne, Jurassic World, The Last Witch Hunter, Minions (English Audio Track), The Hunger Games: Mockingjay Part 2, Popstar: Never Stop Never Stopping, The Purge: Election Year, Sicario and The Secret Life of Pets. 
+New: Improved the support for the conversion engine. 
+Fix: Improved the support for the new installer program. 
+Fix: Some minor changes and improvements.
+
+_______________________
+February 23, 2017
+DVDFab 10.0.2.5 Updated!
+
+New: Added the support for some new Java protections. 
+New: Added the support to remove the Cinavia watermarks found on Pompeii (2014) and Deepwater Horizon.
+New: Added the support for the iOS version of DVDFab Remote. 
+For iOS: https://itunes.apple.com/us/app/dvdfab-remote/id1202815221?ls=1&mt=8
+For Android: https://goo.gl/AHRyfS
+New: Introduced new setup and uninstallation programs. Note that installing this version shall automatically remove the previous installed version.
+Fix: Some minor changes and improvements.
+
+_______________________
+February 14, 2017
+DVDFab 10.0.2.2 Updated!
+
+New: Added the support for the new copy protection found on the DVD version of American Pastoral.
+New: Added the support for a new Blu-ray Java protection. 
+New: Added the support to remove the Cinavia watermark found on Mechanic: Resurrection.
+
+_______________________
+February 10, 2017
+DVDFab 10.0.2.1 Updated!
+
+New: Added the support to remove the Cinavia watermarks found on Hell or High Water, Nerve, Creative Control, Appleseed Alpha and Jodorowsky's Dune. 
+New: Added the support to the new Intel HD Graphics 7700. 
+New: Added the support to change the playback order in Blu-ray to DVD Converter module, DVD to Blu-ray Converter module and the Merge mode in the Copy module.
+New: Added the support to the command line. 
+Fix: Improved the support for 4K display. 
+Fix: A crash problem when opening DVD sources in Customize mode in certain cases. 
+Fix: A crash problem when exporting the source info of Blu-rays in certain cases. 
+Fix: A problem that the other titles cannot be previewed in DVDFab Mini. 
+Fix: Some minor changes and improvements.
+
+_______________________
+January 18, 2017
+DVDFab 10.0.2.0 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove the Cinavia watermarks found on The Meddler, The Secret Life of Pets and Norm of The North.
+Fix: A crash problem when opening DVD sources in certain cases. 
+Fix: Improved the support for 4K display. 
+Fix: A freeze problem when converting Blu-rays to MP4 videos with 2-pass encoding method in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+January 13, 2017
+DVDFab 10.0.1.9 Updated!
+
+New: Added the support to remove the fake playlists on a Blu-ray disc so that 3rd party player apps like VLC, MPC etc can pick up the correct playlist.
+New: Added two sets of skins with bright colors named Mixed Blue and Maple-Leaf Red. (NOTE: Setting the movie poster as background does not apply to these two skins.) 
+New: Improved the playback compatibility (encode to level 4) when converting Blu-ray sources to H265 profiles. 
+New: Added the support to show the disc in drive in DVDFab Mini. 
+New: Added the progress bar in DVDFab Mini task bar icon. 
+Fix: A problem that the task status is not correct when burning DVDs/Blu-rays to the blank discs in DVDFab Mini. 
+Fix: A problem that the task status is not correct when compressing Blu-ray discs to BD25 in DVDFab Mini. 
+Fix: A problem that DVDFab detects the CUDA status incorrectly with the old NVIDIA cards (CUDA 2.1) on Windows 10. 
+Fix: A problem that source size does not show up when opening DVD sources in the Split mode. 
+Fix: A problem that the result does not play back correctly after copying Blu-rays with no menu in the Customize mode. 
+Fix: Improved the support for Blu-ray module Merge feature. 
+Fix: A problem that the conversion speed is slow when converting Blu-rays in certain cases. 
+Fix: A problem that the subtitle does not display when converting DVDs/Blu-rays to MP4/MKV videos with external subtitles in certain cases. 
+Fix: A problem that the selected title is converted twice when converting Blu-rays to DVDs in certain cases. 
+Fix: Improved the support for the Merge feature in the Video Converter module. 
+Fix: A problem that the last file is rendered twice when merging file sources in the Video Converter module. 
+Fix: Some minor changes and improvements.
+
+_______________________
+December 29, 2016
+DVDFab 10.0.1.7 Updated!
+
+New: Added the support for the new copy protection found on DVD 31.
+New: Added the support to remove the Cinavia watermark found on Red Sky.
+Fix: A crash problem when opening DVD sources in certain cases.
+Fix: A problem that the data disc cannot be displayed even it is actually loaded.
+Fix: A problem that the overwrite warning dialog does not show up in the Clone module.
+Fix: A problem that the Atmos and DTS:X audios are not displayed in the available audio list.
+Fix: A problem that Blu-ray discs cannot be opened with FabProcess in certain cases.
+Fix: A problem that the tools (icons for Advanced Settings, Video Edit and Preview) cannot be displayed in certain cases.
+Fix: A problem that the Remove HD Audio feature does not work correctly when converting Blu-ray sources to MP4 videos in certain cases.
+Fix: A crash problem when converting DVD .ini files to MP4 videos.
+Fix: A crash problem when converting DVD folders to MP4/MKV videos in certain cases.
+Fix: A crash problem when changing the framerate at the Advanced Settings panel.
+Fix: A problem that the title in the Property panel of the output file cannot be specified if users rename the output file in Ripper and Video Converter modules.
+Fix: A problem that the deleted file source is still converted in DVD Creator module in certain cases.
+Fix: A problem that the preview window is missing when adding external subtitles in Creator module.
+Fix: Some minor changes and improvements.
+
+_______________________
+December 15, 2016
+DVDFab 10.0.1.6 Updated!
+
+New: Added the support to remove the Cinavia watermark found on Demolition.
+Fix: A crash problem when opening DVD discs in certain cases.
+Fix: A problem that the second task does not start when using two DVD drives  in the Copy module. 
+Fix: A problem that the remove HD audio option does not work correctly when converting Blu-ray sources to MKV videos in certain cases. 
+Fix: Some minor changes and improvements.
+
+_______________________
+December 11, 2016
+DVDFab 10.0.1.5 Updated!
+
+Fix: A crash problem when converting DVD sources to the saved profile in certain cases.
+
+_______________________
+December 09, 2016
+DVDFab 10.0.1.4 Updated!
+
+New: Added the support for the new copy protection found on miwa - 結-ゆい- limited edition DVD. 
+New: Added the support to remove the Cinavia watermarks found on Invisible Woman, The Past and Wadjda. 
+Fix: A crash problem when detecting menu playlist in Blu-ray Copy module, Customize mode. 
+Fix: A problem that no video file was exported when converting DVDs to MP4/MKV videos with Cloud Decryption Service enabled in certain cases. 
+Fix: A problem that no video file was exported when converting Blu-ray sources to MKV videos in certain cases. 
+Fix: A crash problem when saving personal profiles in Video Converter module. 
+Fix: A problem that no subtitles showed up in the final videos when converting with external subtitles in Video Converter module. 
+Fix: A problem that the output size switched to DVD-5 when creating DVDs with DVD-9 output size in certain cases. 
+Fix: A problem that the Start button was disabled when reloading the crashed tasks in the Creator module. 
+Fix: Some minor changes and improvements.
+
+_______________________
+December 02, 2016
+DVDFab 10.0.1.3 Updated!
+
+New: Improved the Cloud Decryption Service for DVDs.
+New: Improved the BluPath feature for Blu-rays.
+Fix: Improved the UI support for 4K display and high DPI (125%). 
+Fix: A problem that DVDFab failed to remove Blu-ray region code in certain cases.
+Fix: Improved the support for custom menu settings in Blu-ray to DVD Converter, DVD to Blu-ray Converter, DVD  Creator and Blu-ray Creator modules.  
+Fix: A problem that the conversion task can neither be cancelled nor finished if the user account expiry alert pops up. 
+Fix: Some minor changes and improvements.
+
+_______________________
+November 29, 2016
+DVDFab 10.0.1.2 Updated!
+
+New: Added the support for the new DVD copy protections as found on The Twilight Saga: Breaking Dawn (UK version) and The Durrells in Corfu. 
+New: Updated the language files. 
+Fix: Added the Meta Info feature back.
+Fix: Added the Video Downloader feature back. 
+Fix: Improved the software stability. 
+Fix: A problem that the task finishing dialog does not pop up in time after the conversion/copy task finishes in certain cases. 
+Fix: A problem that the “Remove HD Audio” option is missing in the Blu-ray Copy module. 
+Fix: Improved the support for the Customize and Merge modes in the Blu-ray Copy module. 
+Fix: Some minor changes and improvements.
+
+_______________________
+November 23, 2016
+DVDFab 10.0.1.1 Updated!
+
+New: Added the support to remove the Cinavia watermarks found on Monk Comes Down the Mountain, Nebraska and Midnight in Paris. 
+Fix: A crash problem when opening DVD discs in certain cases. 
+Fix: Improved the support for Task Queue Manager. 
+Fix: A problem that the source subtitle is deleted when deleting the external subtitle.
+Fix: A problem that the merge feature does not work in Ripper and Video Converter modules. 
+Fix: A problem that the output Volume Label cannot be renamed in Blu-ray to DVD Converter module. 
+Fix: A problem that the “Fit to disc” option does not work in Creator module. 
+Fix: Some minor changes and improvements.
+
+_______________________
+November 21, 2016
+DVDFab 10.0.1.0 Updated!
+
+New: Completely redesigned user interface. 
+New: Added the support to change UI skins.
+New: Added the blazing fast cloud decryption service for DVDs.
+New: Added the all-new conversion engine in Ripper and Converter modules for 64-bit systems.
+New: Added the support to set the online movie poster of the loaded DVD/Blu-ray as UI background.
+New: Introduced the all-new task manager for easier task management.
+New: Introduced the all-new DVDFab Mini that allows users to get tasks done with the least steps possible.
+New: Introduced the archived task feature to save the tasks should the program crash or quit unexpectedly. 
+New: Introduced the all-new DVDFab Remote app that allows users to check real-time task status of DVDFab on smart phones.
+New: Improved the MKV conversion process for better playback compatibility. 
+New: Completely redesigned operational logics for a better user experience.
+Fix: Tons of other minor changes and improvements.
+
+_______________________
+November 08, 2016
+DVDFab 9.3.2.1 Updated!
+
+New: Added the support for some new Java protections. 
+New: Added the support for some new copy protections as found on certain Japanese adult DVDs. 
+New: Improved the support for the DVD Cloud Decryption Service. 
+New: Added the support to remove the Cinavia watermarks found on Now You See Me 2, The Purge Election Year, Still Alice, Her (2013), Kill Your Darlings, Blue Jasmine, Popstar: Never Stop Never Stopping and Inside Llewyn Davis. 
+Fix: A crash problem when opening DVD sources in certain cases.
+
+_______________________
+October 21, 2016
+DVDFab 9.3.1.9 Updated!
+
+Fix: A problem that certain anti-virus products, like Bitdefender, give BluPath.exe false positive alert. 
+Fix: A failure problem when converting DVDs/Blu-rays to mp4 videos with CUDA enabled in certain cases. 
+Fix: A problem that the Merge feature does not work when outputing AAC audios in MP4 and MKV profiles. 
+Fix: Some minor changes and improvements.
+
+_______________________
+October 19, 2016
+DVDFab 9.3.1.8 Updated!
+
+New: Introduced the new feature "Cloud Decryption Service" to speed up DVD analysis and decryption. More Info: http://www.dvdfab.cn/cloud_decryption.htm
+New: Added the support for some new Java protections. 
+New: Improved the support for H265 conversion. 
+New: Added the support to remove the Cinavia watermarks found on Wild Tales (2014), Neighbors 2: Sorority Rising, Oldboy (2013), Pride and Prejudice and Zombies, Third Person, Kingsglaive: Final Fantasy XV, The Huntsman: Winter's War, Ghost Rider: Spirit of Vengeance, Larry Crowne, Ratchet & Clark and Mr. Turner. 
+New: Added the support to output both AAC and AC3 audio tracks when converting to mp4/mkv profiles. 
+Fix: A failure problem when converting DVD sources to mp4 videos with rendered subtitles in certain cases. 
+Fix: A problem that the converted result is not interlaced after unchecking the Deinterlacing option at Video Edit settings in Video Converter. 
+Fix: Some minor changes and improvements.
+
+_______________________
+September 19, 2016
+DVDFab 9.3.1.6 Updated!
+
+New: Added the support for some new Java protections. 
+New: Added the support to remove the Cinavia watermarks found on By the Sea, The Lobster, Wolf Totem 3D, The Boss, The Thing (2011), The Forest (2016), Sisters, Saint Laurent and Miles Ahead. 
+New: Added the conversion profiles for LG G5, Samsung Galaxy Note 7, iPhone 7 and iPhone 7 Plus. 
+Fix: A problem that DTS-HD Master 7.1 turns into AC-3/7.1 audio when opening the Blu-ray Star Trek Tng Season 7.
+Fix: A crash problem when converting Blu-ray sources to mkv.passthrough videos with PCM audio tracks. 
+Fix: A problem that the subtitles of the mp4 videos converted from Blu-rays are flickering in certain cases. 
+Fix: A noise problem when playing back the PCM audio tracks of converted .avi files in certain cases. 
+Fix: Some minor changes and improvements.
+
+_______________________
+August 17, 2016
+DVDFab 9.3.1.2 Updated!
+
+New: Added the support for some new JAVA protections. 
+New: Added the support to remove Cinavia watermarks found on movies Parkland, The Choice (2016), Criminal, Insidious: Chapter 2, The Call, Parker and The Mermaid. 
+Fix: An echo problem when playing back the copied Blu-rays with Cinavia RemovalHD enabled in certain cases. 
+Fix: An A/V sync problem when converting Blu-rays to DVDs in certain cases. 
+Fix: A problem that the converted mp4 file does not play back if CUDA acceleration is enabled for conversion in certain cases.
+
+_______________________
+July 29, 2016
+DVDFab 9.3.1.0 Updated!
+
+New: Added the support for some new Java protections. 
+New: New: Added the support for a new copy protection as found on the Criminal DVD. 
+New: Added the support to remove the Cinavia watermarks found on the Allegiant (US version), Spotlight (2015), Dope (2015), Zero Dark Thirty, The End of the Tour, Adventures in Zambezia and A Single Shot.
+New: Added more smaller font size options when adding the external subtitles. 
+New: Added the support to output PCM audio track for the FUJIFILM conversion profile. 
+Fix: An .m2ts file missing problem when compressing a Bly-ray full disc to BD25 size in certain cases. 
+Fix: A problem that the conversion speed is slowed down when converting Blu-rays to DVDs with CUDA enabled in certain cases. 
+Fix: A green screen problem when converting Blu-rays to mp4 files with IQS GPU enabled in certain cases. 
+Fix: A problem that the frame rate turns to 24 fps after converting file sources of 29.97 fps to DVD/Blu-ray in certain cases. 
+Fix: Some minor changes and improvements.
+
+_______________________
+July 13, 2016
+DVDFab 9.3.0.7 Updated!
+
+New: Added the support for some new Java protections. 
+
+New: Added the support to remove Cinavia watermarks found on the Only Lovers Left Alive, Olympus Has Fallen, Hail, Caesar!, Pride and Prejudice and Zombies, Django Unchained, Son of Saul and Insurgent (2D and 3D).
+
+New: Added the support to enable IQS H.265 hardware acceleration. More Info: http://www.dvdfab.cn/intel-quick-sync.htm  
+
+Fix: Some minor changes and improvements.
+
+_______________________
+June 17, 2016
+DVDFab 9.3.0.5 Updated!
+
+New: Added the support for some new Java protections. 
+Fix: A failure problem when converting Blu-rays/DVDs on Windows Vista system.
+
+_______________________
+June 14, 2016
+DVDFab 9.3.0.4 Updated!
+
+New: Added the support for some new Java protections. 
+New: Added the support to remove Cinavia watermarks found on the Chef (2014) and Whiplash.
+New: Improved the support for 3D Blu-ray copy and conversion.
+Fix: An OpenGL problem when starting DVDFab in certain cases.
+Fix: A crash problem when opening DVD discs in certain cases.
+Fix: A problem that the final result does not play back after compressing a full disc Blu-ray to BD25 size in certain cases.
+Fix: A failure problem when converting Blu-rays/DVDs on Windows Vista system.
+Fix: Some minor changes and improvements.
+
+_______________________
+June 07, 2016
+DVDFab 9.3.0.3 Updated!
+
+New: Added the support for new copy protections as found on the DVD "The Witch" and "The Choice".
+Fix: A black screen problem when preview the movie. 
+
+_______________________
+June 04, 2016
+DVDFab 9.3.0.2 Updated!
+
+New: Removed the support to the outdated Windows XP operating system. 
+New: Improved DVDFab's compatibility and stability.
+New: Added the support for some new Java protections.
+New: Improved the support for DVD copy protections.
+New: Added the support to choose the wanted audios only to get the better video quality in Blu-ray Copy Fulldisc mode.
+More Info: http://www.dvdfab.cn/tutorial/Maximize-the-Video-Quality-when-Compressing-a-Full-Disc-Blu-ray  
+New: Added the support to keep the original menu or add custom menu in Blu-ray Copy Customize mode.
+Fix: A freeze problem when compressing Blu-ray full disc to BD25 in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+April 21, 2016
+DVDFab 9.2.3.9 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support for more discs in the free HD Decrypter.
+New: Added the conversion profiles for iPhone SE and SAMSUNG Galaxy S7.
+New: Added the support to remove Cinavia watermarks found on The Last Witch Hunter, Ouija, Unbroken and The Hunger Games: Mockingjay Part 2 3D.
+New: Added the support to delay or position external subtitles in the Creator option.
+Fix: A crash problem when opening Blu-ray sources in certain cases.
+Fix: A problem that the Cinavia removal solution failed to work when converting a Blu-ray to DVD.
+Fix: A problem that the AC-3 audio tracks could not be set as default playback audio when converting file sources for Apple TV.
+Fix: A problem that DVDFab failed to open some .ts files in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+March 29, 2016
+DVDFab 9.2.3.7 Updated!
+
+Fix: A crash problem when opening the Blu-ray disc "The Hunger Games: Mockingjay Part 2".
+Fix: A PathPlayer problem which may result in the DVD menu being removed in certain cases.
+
+_______________________
+March 24, 2016
+DVDFab 9.2.3.5 Updated!
+
+New: Added the support for new Java protections.
+New: Added the support for a new copy protection as found on the The Hunger Games: Mockingjay Part 2 DVD.
+New: Added the support to remove Cinavia watermarks found on the Dead Man Down (length 1:57:27), Labyrinth of Lies, Steve Jobs and the 2D version of The Hunger Games: Mockingjay Part 2.
+Fix: An oversize problem when removing Cinavia watermarks in certain cases.
+Fix: A slow conversion speed problem when converting Blu-rays with DTS-HD audio tracks selected.
+Fix: Some minor changes and improvements.
+
+_______________________
+March 18, 2016
+DVDFab 9.2.3.3 Updated!
+
+New: Improved the DVD PathPlayer compatibility.
+New: Added a new feature to send feedbacks quickly.
+New: Added the support to remove Cinavia watermarks found on the movie Everest 3D, Aloha, Drive, Last Vegas, Truth 2015, London Boulevard and Hysteria.
+New: Added the support to display DTS:X and Dolby Atmos audio type in the BDInfo report and the Audio Track list.
+New: Improved the speed of opening Blu-ray sources.
+New: Added the "Web Optimized" option in Advanced Settings of mp4 profiles.
+Fix: A freeze problem when copying/converting The Peanuts Movie Blu-ray 3D. 
+Fix: The problem that creating protected Blu-ray ISO files doesn't work well if the drive/disc communication is bus encrypted.
+Fix: An oversize problem when compressing Blu-ray sources to BD25 size in certain cases.
+Fix: A failure problem when converting Blu-ray sources to mp4 files in certain cases.
+Fix: A failure problem when converting DTS/4.1 audio tracks in Blu-ray Ripper.
+Fix: Some minor changes and improvements.
+
+_______________________
+February 23, 2016
+DVDFab 9.2.3.1 Updated!
+
+New: Added the support for some new Java protections.
+New: Added the support to remove Cinavia watermark found on the movie Minions, Sicario and Everest (Blu-ray version).
+New: Improved the support for DTS-HD Master 7.1 audio tracks when CinaviaRemoval HD option is enabled.
+New: Improved the user interface on the 4K resolution display. 
+
+______________________
+February 02, 2016
+DVDFab 9.2.2.8 Updated!
+
+New: Added the support for new Java protections.
+New: Added the multi-language support to the Meta Info feature.
+New: Added the support to remove the Cinavia watermark in the Blu-ray theatrical version of Ted 2.
+New: Added the support for some new copy protections as found on some Japanese DVDs.
+New: Added the H.265 decoder support to NVIDIA GTX 950/960 video cards (driver version 361.43 is required) on Windows 10.
+Fix: A problem that the Meta Info failed to upload if a Blu-ray Volume Label contains special characters.
+Fix: Some minor changes and improvements.
+
+_______________________
+January 15, 2016
+DVDFab 9.2.2.6 Updated!
+
+New: Added the support to remove Cinavia in Blu-ray to DVD Converter option.
+New: Added the support to remove Cinavia from DTS-HD Master 7.1 audio tracks found on Fast & Furious 7, Jurassic World.
+New: Added an alert dialog when opening DVD discs containing Cinavia protection.
+New: Added the support to enable CUDA H.265 encoder when converting to mp4/mkv H.265 profiles with CRF encoding method.
+New: StealthyClone works closer with BluPath now, which means we can remove Java protection completely based on BluPath result.
+New: Added support for new Java protections.
+Fix: A problem that the Cinavia watermark was not removed when copying A Million Ways to Die in the West and The Smurfs 2 with CinaviaRemoval HD.
+Fix: A problem that CinaviaRemoval HD could not be enabled when opening the disc Fury of Region B.
+Fix: A crash problem when opening Blu-ray sources in certain cases.
+Fix: A freeze problem when compressing Blu-ray sources to BD25 size in certain cases.
+Fix: A problem that DVDFab failed to create ISO files in Blu-ray Copy (9215 Beta).
+Fix: A problem that the default output resolution was wrong in DVD Ripper.
+Fix: A problem that the output mp4 files had no sound in the left channels when converting Blu-ray/DVD sources in certain cases.
+Fix: An A/V sync problem when converting Blu-ray sources to m2ts files in certain cases.
+Fix: A problem that the conversion speed was slow when converting Blu-ray/DVD ISO files and folder sources in Ripper.
+Fix: Some minor changes and improvements.
+
+_______________________
+December 30, 2015
+DVDFab 9.2.2.4 Updated!
+
+Fix: A crash problem when opening Blu-ray sources in certain cases.
+
+_______________________
+December 30, 2015
+DVDFab 9.2.2.4 Updated!
+
+Fix: A crash problem when opening Blu-ray sources in certain cases.
+
+_______________________
+December 24, 2015
+DVDFab 9.2.2.3 Updated!
+
+New: Updated the decryption keys. 
+New: Introduced the brand new CinaviaRemoval HD option to completely and permanently remove Cinavia watermark with Blu-ray Copy and Ripper. 
+More Info: http://www.dvdfab.cn/cinaviaremoval_hd.htm 
+New: Added the support to the next generation CUDA acceleration available with NVIDIA's HEVC capable GeForce GTX 950/960/970/980/TITAN X video cards. 
+More Info: http://www.dvdfab.cn/nvidia-cuda-and-amd-app.htm 
+Fix: A failure problem when loading/uploading the Blu-ray Meta Info in certain cases. 
+Fix: A black screen problem when playing back the results copied or converted with CUDA enabled on standalone player.
+Fix: Some minor changes and improvements.
+
+_______________________
+November 25, 2015
+DVDFab 9.2.1.9 Updated!
+
+New: Added the support for new Java protections.
+New: Added new feature named "Meta Collection" in Blu-ray Ripper.
+New: Added the 3D conversion profile for Samsung Gear VR.
+
+_______________________
+November 17, 2015
+DVDFab 9.2.1.8 Updated!
+
+New: Improved PathPlayer compatibility.
+New: Added a new feature "Meta Collection" in Blu-ray Copy. More Info: http://metainfo.dvdfab.cn/
+New: Added the support to a new graphics card Intel? HD Graphics 530.
+New: Improved the user interface to make it look better on a 4K resolution display.
+New: Added the support to Hebrew language when adding external subtitles.
+Fix: A freeze problem while compressing Blu-ray full discs to BD25 size in certain cases.
+Fix: A noise problem while converting DVDs to MP4 videos with MP2 audio tracks selected in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+September 28, 2015
+DVDFab 9.2.1.5 Updated!
+
+Hi all, DVDFab US version will no longer be continued and shall be automatically updated via live update to the DVDFab international version, which includes many bug fixes and improvements. Please manually update to the latest international version in case the live update feature is disabled. Thanks! 
+
+_______________________
+September 25, 2015
+DVDFab 9.2.1.4 Updated!
+
+Adjust the network connection to DVDFab server, Please update to this version , or it will cause failure when opening Blu-ray discs.
+
+_______________________
+September 21, 2015
+DVDFab 9.2.1.2 Updated!
+
+New: Added the support for new Java protections.
+New: Added the new conversion profiles for iPhone 6s, iPhone 6s Plus, iPad mini 4, iPad Pro and Apple TV 4.
+Fix: A black screen problem when playing back the resulting video after compressing Blu-rays to BD25 size and with CUDA acceleration enabled.(NVIDIA driver version 355.60 and 355.82) 
+Fix: An oversize problem when compressing 3D Blu-rays to BD25 size in certain cases.
+Fix: A video stutter problem when converting Blu-rays/DVDs to MKV with CUDA acceleration enabled.(NVIDIA driver version 355.60 and 355.82)
+Fix: A green screen problem when converting Blu-rays to DVD in certain cases.
+Fix: A problem that some .ts files cannot be recognized by Video Converter in certain cases.
+Fix: A poor video quality problem when converting .avi files to mkv.passthrough in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+August 20, 2015
+DVDFab 9.2.1.0 Updated!
+
+New: Added the support for new Java protections.
+
+_______________________
+August 13, 2015
+DVDFab 9.2.0.9 Updated!
+
+New: Added the support for new Java protections.
+Fix: A problem that the movie title failed to display when opening DVD/Blu-ray sources in Ripper. 
+Fix: A problem that the Advanced Settings panel is corrupted after updating to DVDFab ver. 9.2.0.7/9.2.0.8 in certain cases. 
+Fix: A failure problem when ripping DVD/Blu-ray sources in certain cases.
+
+_______________________
+August 06, 2015
+DVDFab 9.2.0.8 Updated!
+
+New: Added the support for new Java protections.
+
+_______________________
+August 05, 2015
+DVDFab 9.2.0.7 Updated!
+
+New: Added support for new copy protection as found on "Child 44" DVD. 
+New: Added the support for new Java protections.
+New: Added the support to save resolution after clicking the "Set as Default Profile" in Ripper and Video Converter.
+New: Added the "Check/Uncheck All Audios/Subtitles" option in the right-click menu of the movie title.
+Fix: A sound missing problem when playing back DTS audio track in PowerDVD after compressing Blu-ray sources to BD25 size.
+Fix: An A/V sync problem when converting Blu-ray sources to AVI format in certain cases.
+Fix: A problem that the resolution at the Advanced Settings panel cannot be changed after trimming videos at the Video Effect Settings panel.
+Fix: Some minor changes and improvements.
+
+_______________________
+July 22, 2015
+DVDFab 9.2.0.5 Updated!
+
+New: Added support for new Java protections.
+Fix: A crash problem while launching DVDFab in certain cases.
+Fix: A problem that DVDFab cannot detect CUDA encoder with the latest video card driver ver. 10.18.13.5330.
+Fix: A problem that output file size is too small when compressing Blu-ray sources to BD25 in certain cases.
+Fix: A problem that the subtitle is out of sync when compressing Blu-ray 3D sources to SBS 3D format in Blu-ray copy.
+Fix: A problem that DVDFab asks for a blank Blu-ray disc when compressing Blu-ray sources to BD5/BD9 in certain cases.
+Fix: A problem that the converted m2ts.passthrough videos from Blu-rays do not display the languages of the audio tracks when playing back in a video player. 
+Fix: A problem that the subtitle is misplaced when converting DVDs to MP4/MKV in certain cases.
+Fix: A problem that the converted video plays in English in VLC even the DE/FR audio track is selected in Video Converter. 
+Fix: Some minor changes and improvements.
+
+_______________________
+June 10, 2015
+DVDFab 9.2.0.2 Updated!
+
+New: Added support for new Java protections.
+New: Added support for a new copy protection as found on BeachBody DVDs.
+New: Added support to input start/end timestamps manually in Edit -> Trim.
+New: Added new profile for Samsung Galaxy S6.
+New: Added support to output 3D effect for subtitles when compressing 3D Blu-ray sources to BD25 size.
+Fix: A problem that the subtitle is missing when compressing 3D Blu-rays to BD25 size in certain cases.
+Fix: A problem that the subtitle could not be displayed in PotPlayerwhen playing the MKV videos converted from Blu-ray sources in certain cases.
+Fix: A problem that the remuxedsubtitle is out of position when converting Blu-ray sources to SBS 3D in certain cases.
+Fix: A problem that the Aspect Ratio became 4:3 when converting 1440x1080 16:9 BDAV sources to regular DVD format.
+Fix: An oversize problem when converting BDAV sources to DVD format in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+May 20, 2015
+DVDFab 9.2.0.1 Updated!
+
+Fix: A crash problem when opening Blu-ray ISO files in certain .
+Fix: A problem that the title could not be shown when the movie has over 130 chapters.
+Fix: A problem that the auto crop function does not work correctly in Ver. 9.2.0.0.
+
+
+_______________________
+May 18, 2015
+DVDFab 9.2.0.0 Updated!
+
+New: Added the support for new Java protections.
+Fix: A crash problem when opening DVD source "Monsters University".
+Fix: A problem that the output video bitrate is 1 kbps when converting DVD sources in certain cases.
+
+_______________________
+April 28, 2015
+DVDFab 9.1.9.9 Updated!
+
+New: Added the support for new Java protections.
+Fix: Fixed the PathPlayer problem for some DVDs.
+Fix: A problem that the Video Quality setting cannot be saved if the current profile is set as default in Ripper.
+Fix: A problem that DVDFab does not remember the customized Bits/Pixel settings in Ripper.
+
+_______________________
+April 23, 2015
+DVDFab 9.1.9.8 Updated!
+
+New: Added the new profiles for Samsung Galaxy Note 4 and Lumia 930.
+New: Added the support to eject the original disc upon the conversion completion in Ripper.
+New: Improved the DVDFab Internal Preview engine.
+Fix: A compatibility problem when opening Blu-ray sources.
+Fix: A problem that the Blu-ray Copy activated version still has watermark after merging Blu-ray sources in certain cases.
+Fix: A problem that DVDFab fails to detect IQS (Intel Quick Sync) GPU with Intel? HD Graphics 6000.
+Fix: A freeze problem when compressing full disc to BD25 size with certain Blu-ray sources.
+Fix: A problem that the resulting bit rate becomes 23. 976 fps when converting DVD sources of 25 fps to Blu-ray.
+Fix: An audio decoding error when converting Blu-ray sources with DTS-HD audio tracks in certain cases.
+Fix: A crash problem when merging multiple titles mixed with ISO sources and discs sources in Ripper.
+Fix: A problem that the output video bitrate does not match users' customizations when converting Blu-ray sources for iPad Air in certain cases.
+Fix: A problem that the subtitle are not centered when converting with the external subtitles.
+Fix: A problem that DVDFab does not recognize the font parameter (e.g. <i></i>) in the .srt external subtitles.
+Fix: A problem that the output subtitles become messy codes when converting with external subtitles in certain cases.
+Fix: An audio track missing problem when opening certain file sources in Video Converter and Creator.
+Fix: A problem that DVDFab does not read the source file resolution correctly in Video Converter.
+Fix: A problem that the output aspect ratio becomes 4:3 when converting 16:9 file sources with 1440x1080 resolution to Blu-ray.
+Fix: A noisy problem when playing back the DVD Creator produced DVDs in certain cases.
+Fix: A problem when concurrently opening two folder sources with command line.
+Fix: Some minor changes and improvements.
+
+_______________________
+April 07, 2015
+DVDFab 9.1.9.6 Updated!
+
+New: Added support for new Java protection.
+
+_______________________
+March 28, 2015
+DVDFab 9.1.9.5 Updated!
+
+New: Added support for the recorded DVD video disc. 
+Fix: A problem that the copied DVD could not be playback in certain cases. 
+Fix: A failure problem when converting DVD source to mp4/mkv in certain cases.
+
+_______________________
+March 24, 2015
+DVDFab 9.1.9.4 Updated!
+
+New: Added support for new Java protection. 
+New: Added the new Blu-ray merge feature in Blu-ray Copy.
+Fix: The problem that the file sorting function in DVD Creator, Blu-ray Creator and Blu-ray Copy Merge feature does not work.
+Fix: A problem that DVDFab could not detect the blank disc when using ImgBurn engine in DVDFab V9.1.9.3 Beta. 
+Fix: A crash problem when opening Blu-ray sources in certain cases.
+Fix: A problem that the region code could not be set correctly by clicking the text of the country at the region code selection dialog.
+Fix: A problem that the region code could not be removed when copying Blu-ray full disc in certain cases.
+Fix: A freeze problem when compressing Blu-ray to BD25 size with IQS (Intel Quick Sync) GPU acceleration enabled in certain cases.
+Fix: A failure problem when converting DVD sources to Blu-ray in certain cases.
+Fix: A failure problem when converting DVD/Blu-ray sources to MP4 with 2-pass encoding method in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+March 10, 2015
+DVDFab 9.1.9.2 Updated!
+
+New: Added the support for a new copy protection as found on the "The Hunger Games: Mockingjay Part 1" DVD.
+New: Added support for new Java protection.
+
+_______________________
+February 13, 2015
+DVDFab 9.1.8.8 Updated!
+
+New: Added support for new copy protection as found on "Dear White People" DVD.
+Fix: A failure problem when compressing Blu-ray fulldisc to bd25 with CUDA GPU in certain cases.
+
+_______________________
+February 12, 2015
+DVDFab 9.1.8.7 Updated!
+
+New: Added support for new copy protection as found on "Dear White People" DVD.
+New: Added support for new Java protection.
+New: Added new profiles for devices Epson Moverio BT100 and LG G2/G3/G3 BEAT/G FLEX.
+New: Added support to audio bitrate 320/384 kbps in Advanced Settings of Ripper and Video Converter. 
+Fix: A problem that Video Downloader plug-in could not be used by Blu-ray Creator trial users. 
+Fix: A UI display problem in Live Update dialog when setting system DPI to 125%. 
+Fix: A jitter problem when compressing a Blu-ray source to BD25 with IQS (Intel Quick Sync) GPU in certain cases. 
+Fix: A failure problem when converting a DVD/Blu-ray source to a mp4 video with 2-pass encoding method in certain cases. 
+Fix: A problem that the output video file is in 4:3 when converting a 1440x1080 16:9 Blu-ray source to a mp4 video in certain cases. 
+Fix: Improved conversion process for converting interlaced file sources in Video Converter. 
+Fix: A crash problem when setting a default profile in certain cases. 
+Fix: A black screen problem when playing back the converted result on PowerDVD 14 after converting HEVC .mkv to mp4.passthrough. 
+Fix: A problem that the audio channel does not update in Advanced Settings when switching to a different audio track in Video Converter.
+Fix: A problem that the converted result has a gray bar when converting file sources to DVDs in certain cases. 
+Fix: Some minor changes and improvements.
+
+_______________________
+January 24, 2015
+DVDFab 9.1.8.5 Updated!
+
+New: Added support for new DVD copy protection as found on Japanese adult DVD discs.
+New: Improved support for DVD copy protections. 
+New: Added online video download plug-in in Video Converter and Creator.
+Fix: A crash problem when switching to Video Converter module after source is opened in Copy.
+Fix: A problem that the output size is too small when compressing Blu-ray to BD25 with CUDA Lightning-Shrink in certain cases.
+Fix: An error 1000 problem when copying the 2D source "The Maze Runner" in Blu-ray Copy main movie mode.
+Fix: Improved the playback compatibility of the Blu-rays converted from DVDs in DVDFab Media Player.
+Fix: An error 1000 problem when converting a Blu-ray to a 3D profile in certain cases. 
+Fix: A crash problem when converting Blu-ray to mkv.passthrough profile with trim selection in certain cases.
+Fix: Improved the playback compatibility of the AVI videos converted from DVD/Blu-ray sources on TV and standalone player.
+Fix: Improved the subtitle display effect when converting DVD to mkv/mp4 files with idx/sub and remuxed subtitles.
+Fix: A problem that DVDFab read the file resolution wrong in certain cases.
+Fix: A problem that the subtitle is missing the last line when converting video files with external subtitles in Video Converter.
+Fix: A problem that some .mp4 files cannot be opened in Video Converter and Creator.
+Fix: A problem that black bar is added around the resulting Blu-ray when converting 16:9 VOB files in Creator.
+Fix: Some minor changes and improvements.
+
+_______________________
+January 07, 2015
+DVDFab 9.1.8.3 Updated!
+
+Fix: A problem that the audio volume could not be changed when selecting 3D profiles in Ripper and Video Converter.
+Fix: Improved support for mkv PGS subtitle conversion. 
+Fix: A jitter problem when playing back the converted mp4 file in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+December 24, 2014
+DVDFab 9.1.8.1 Updated!
+
+Fix: A problem that DVDFab could not be updated to the latest version via auto update.
+
+_______________________
+December 23, 2014
+DVDFab 9.1.8.0 Updated!
+
+New: Improved support for DVD copy protection.
+Fix: A problem that the audio track is missing when opening DVD source in certain cases.
+
+_______________________
+December 11, 2014
+DVDFab 9.1.7.9 Updated!
+
+New: Added support to trim a video for multiple clips in Ripper and Video Converter.
+Fix: Improved playback compatibility in DVD to Blu-ray Converter and Blu-ray Creator.
+Fix: A problem that the copied result of the registered DVD to Blu-ray Converter still has the watermark in certain cases.
+Fix: A failure when converting Blu-ray to mkv.passthrough in certain cases.
+Fix: A problem that the video bitrate is different from what is set when converting to mp4/mkv H265 in certain cases.
+Fix: A subtitle display problem after converting DVD sources to mp4/mkv with remux or idx/sub subtitles in certain cases.
+Fix: A problem that DVDFab could not open some file sources in certain cases.
+Fix: An A/V sync problem when converting DVD to mkv.passthrough in certain cases.
+Fix: A problem that the frame rate is wrong when opening DVD source in certain cases.
+Fix: A problem that the converted video still retains the black bars after selecting "Auto Crop" in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+November 28, 2014
+DVDFab 9.1.7.6 Updated!
+
+New: Added support for new copy protection as found on "The Expendables 3" DVD.
+New: Added support for new Java protection.
+
+_______________________
+November 21, 2014
+DVDFab 9.1.7.5 Updated!
+
+Fix: A crash problem when converting DVD/Blu-ray with "Split by chapter".
+Fix: Improved conversion process in Ripper and Video Converter. 
+Fix: Some minor changes and improvements.
+
+_______________________
+November 12, 2014
+DVDFab 9.1.7.4 Updated!
+
+New: Improved support for DVD copy protection. 
+New: Added support to copy DVD to Blu-ray in Copy module. More info: http://www.dvdfab.cn/dvd-to-blu-ray-converter.htm
+New: Added "Merge" feature in DVD Ripper and Blu-ray Ripper.
+New: Improved H265 (HEVC) conversion in Ripper and Video Converter. 
+New: Improved file merging feature in Video Converter. 	
+New: Added support for the latest Intel? HD Graphics driver version 15.33.30.64.3958.
+New: Added new profiles for iPod Nano 7, iPad Air2 and iPad mini 3. 
+Fix: Added "Crop automatically" option back.
+Fix: A memory leak issue when opening DVD source in certain cases. 
+Fix: A problem that the HD audio could not be removed when selecting "Remove HD audio" option in Blu-ray Copy module.
+Fix: A pixelation problem when compressing Blu-ray to BD25 with IQS GPU in certain cases. 
+Fix: A crash problem when adding the external subtitle in certain cases. 
+Fix: A crash problem when ripping Blu-ray to mkv.passthrough in certain cases. 
+Fix: A black screen problem when playing back the converted .mp4 files with remux subtitles on in certain cases.
+Fix: A problem that DVDFab could not open some special .vob files in Video Converter and Creator. 
+Fix: Some minor changes and improvements.
+
+_______________________
+October 17, 2014
+DVDFab 9.1.7.1 Updated!
+
+New: Improved the Customize feature in Blu-ray Copy.
+Fix: Improved the DVD PathPlayer.
+Fix: A problem that the "DVD 9" output option cannot be displayed completely if the system DPI is set to 150%.
+Fix: A problem that all of titles cannot be displayed by default if the source is a seasonal TV shows in certain cases.
+Fix: A 1000 error problem when copying BDAV sources under full disc mode in certain cases.
+Fix: A problem that the progress bar does not display correctly when burning Blu-ray to blank disc in certain cases.
+Fix: A freeze problem when converting with Dolby Atmos audio track (Blu-ray "Transformers Age of Extinction" ). 
+Fix: A noise problem when playing back the converted FLAC audio in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+September 13, 2014
+DVDFab 9.1.6.8 Updated!
+
+New: Added support for new Java protections.
+New: Added the new profiles for iPhone 6 and iPhone 6 Plus in Ripper and Video Converter.
+Fix: A crash problem when opening DVD sources in certain cases.
+Fix: A problem that DVDFab could not detect IQS (Intel Quick Sync) GPU with Intel(R) HD Graphics driver version 10.18.10.3907.
+Fix: A problem that DVDFab could not detect IQS (Intel Quick Sync) GPU with Intel Atom Z3740 CPU.
+Fix: A problem that the main menu is gone after compressing Blu-ray full disc to BD25 in certain cases.
+Fix: A problem that the output result does not play back after compressing Blu-ray 3D full disc to BD25 in certain cases.
+Fix: An oversize problem when compressing Blu-ray sources to BD25 with CUDA lightning-shrink enabled in certain cases.
+Fix: A screen dazzling problem when playing back the converted mp4 files with VLC in certain cases.
+Fix: A freeze problem when converting DVD sources to mp4 files in certain cases.
+
+_______________________
+September 04, 2014
+DVDFab 9.1.6.6 Updated!
+
+New: Improved support for DVD copy protections.
+New: Improved support for IQS (Intel Quick Sync) GPU conversion.
+New: Added video adjust feature (Brightness, Contrast and Saturation)in Ripper and Video Converter.
+New: Added support to merge multiple video files in Video Converter.
+New: Added support to preserve file chapters in Video Converter.
+New: Added support to set "Scale Method" at Common Settings -> Conversion -> Convert. (The option will be used when the output resolution is different from the source resolution.)
+New: Add support to set "Deinterlacing Method" at Common Settings -> Conversion -> Convert.(The option will be used when converting interlaced source in Ripper and Video Converter.)
+Fix: A problem that the GUI character is messed up in certain cases. (NOTE: Please change the display method at Common Settings -> General -> Click "A" icon if you are experiencing some GUI character display problems.)
+Fix: An uncompressed problem when copying Blu-ray 3D fulldisc to BD25 with "Copy as 3D" option selected in certain cases.
+Fix: A failure problem when converting Blu-ray to mkv.h264.aac in certain cases.
+Fix: A problem that the converted mp4 (MPEG4) files are not playable in Windows Media Player.
+Fix: A failureproblem when converting to profile "Xbox 360 (WMV)" in Ripper.
+Fix: A problem that the subtitle color of the output file is not correct in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+August 21, 2014
+DVDFab 9.1.6.4 Updated!
+
+New: Added support for a new copy protection as found on "The Quiet Ones" DVD.
+Fix: A problem that DVDFab failed to start up after updating to V9163.
+
+_______________________
+August 18, 2014
+DVDFab 9.1.6.3 Updated!
+
+New: Improved support for DVD copy protections.
+New: Added the support for new Blu-ray sources.
+New: Added the supportto output HEVC (H.265) video in Ripper and Video Converter(Profile MKV.H265 or MP4.H265).More info: http://www.dvdfab.cn/h265.htm.
+New: Added the support to output 4K UHD video in Ripper and Video Converter(Profile MKV.4K or MP4.4K).More info: http://www.dvdfab.cn/about-4k.htm.
+New: Improved the CUDA hardware acceleration when converting with CUDA 3.0/3.5/5.0 NVENC Kepler devices.More info: http://forum.dvdfab.cn/showthread.php?t=25674. 
+New: Improved the External subtitle settings in Ripper and Video Converter.
+New: Improved the Crop feature in Ripper and Video Converter.
+Fix: A conversion failure problem when using 2-pass encoding methodin Ripper.
+Fix: A problem that the conversion or compression speed is slow in Ripper and Copy.
+Fix: A problem that the rendered subtitle is not correctly displayed during playback when converting DVD sources to Apple TV in certain cases.
+Fix: A noise problem when playing back the converted mp4 file by VLC in certain cases.
+Fix: An incorrect aspect ratio problem when converting Blu-ray sourcesin certain cases.
+Fix: A crash problem when converting Blu-ray to DVD in certain cases. 
+Fix: Some minor changes and improvements.
+
+_______________________
+July 25, 2014
+DVDFab 9.1.5.9 Updated!
+
+New: Added the support to create protected ISO in Blu-ray Copy Clone mode.
+New: Improved the Video Edit feature in Ripper and Video Converter.
+New: Improved the conversion speed in Ripper. More info: http://www.dvdfab.cn/video_convert_comparison.htm
+New: Improved the default conversion settings in Ripper.
+Fix: A crash problem when opening Blu-ray sources in certain cases.
+Fix: An oversize problem when compressing Blu-ray sources to BD25 size in certain cases.
+Fix: A crash problem when converting DVD, Blu-ray sources to .mp4/.mkv formats in certain cases.
+Fix: A pixelation problem when playing back the converted mp4 files in certain cases.
+Fix: A problem that DVDFab read the resolution incorrectly in Video Converter.
+Fix: Improved the conversion process in DVD Creator.
+Fix: Some minor changes and improvements.
+
+_______________________
+July 11, 2014
+DVDFab 9.1.5.7 Updated!
+
+New: Improved support for DVD copy protections.
+Fix: A problem that the sub-menu of DVD is missing when playing back the copied full disc in certain cases.
+
+_______________________
+June 27, 2014
+DVDFab 9.1.5.6 Updated!
+
+New: Improved support for DVD copy protections.
+New: Added support to add customizable watermark in Ripper and Video Converter.
+New: Improved Trim and Crop features in Ripper and Video Converter.
+Fix: A failure problem that DVDFab could not detect IQS GPU with Intel? HD Graphics driver version 3621.
+Fix: A freeze problem when compressing Blu-ray Full Disc to BD25 in certain cases.
+Fix: A bad video problem when playing back the converted mp4/m4v files in iTunes in certain cases.
+Fix: A failure problem when converting Blu-ray with DTS-HD Master Mono audio track selected in Ripper.
+Fix: A failure problem when converting with protected ISO source in Ripper.
+Fix: A failure problem when converting with 2-pass encoding method in Ripper.
+Fix: A problem that the copied movies only have menus when backing up DVD main movies with command line.
+Fix: Some minor changes and improvements.
+
+_______________________
+June 18, 2014
+DVDFab 9.1.5.3 Updated!
+
+New: Improved support for DVD copy protections.
+Fix: A read error problem when copying DVD discs in certain cases. 
+Fix: A problem that DVDFab could not recognize the correct title for some DVD discs.
+
+_______________________
+June 11, 2014
+DVDFab 9.1.5.2 Updated!
+
+New: Added support to export BDInfo in Blu-Ray Copy. (Common Settings -> Blu-ray -> Blu-ray Information. Note: This feature is available only when outputting to BD50 in Full Disc and Clone.)http://blog.dvdfab.cn/bdinfo.html
+New: Added support for CUDA 5.0 devices (e.g. NVIDIA GeForce GTX 750) and improved the performance of Lightning Shrink. Note: To get higher conversion speed, you need to update the graphics driver to version 334.89 or higher. 
+Fix: A freeze problem when compressing Blu-ray source to Full Disc BD25 in certain cases.
+Fix: A size problem when converting 3D Blu-ray full disc to SBS 3D format in certain cases.
+Fix: A subtitle output failure problem when converting with external subtitle in Ripper and Video Converter.
+Fix: A conversion failure problem when ripping Blu-rays to device profiles with "Remux subtitle output" optioned enabled in certain cases.
+Fix: Improved conversion process in Blu-ray Creator.
+
+_______________________
+May 30, 2014
+DVDFab 9.1.5.0 Updated!
+
+New: Added support to new DVD discs.
+New: Added support to convert to mkv/mp4 format without outputting chapter info in Ripper. (Advanced Settings->Unmark "Reserve Chapter Info" option).
+Fix: Afailure problem while DVDFab detecting IQS GPU on Intel? Atom? Processor Z3740. 
+Fix: A black menu problem when playing back the copied DVDs under Full Disc mode in certain cases.
+Fix: A failure problem when converting DVD folder sources in certain cases.
+Fix: A wrong timestamp problem when playing back the DVD converted mkv.passthroughfiles by VLC.
+Fix: A problem that the converted videos have sound only on left channel during playbackin certain cases.
+Fix: A freeze problem when converting file sourceswith mkv.passthrough profile in certain cases.
+Fix: A crash problem when using command line in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+May 22, 2014
+DVDFab 9.1.4.6 Updated!
+
+Fix: Some minor changes and improvements.
+
+_______________________
+May 14, 2014
+DVDFab 9.1.4.5 Updated!
+
+New: Improved the conversion process. 
+Fix: A freeze problem when copying Blu-ray to BD50 with "Remove HD Audio" option selected. 
+Fix: A read error problem when reading DVDs in certain cases.
+Fix: A read error problem when copying DVDs in certain cases. 
+Fix: A crash problem when converting DVDs/Blu-rays with trim feature in certain cases.
+Fix: A problem that the audio bitrate does not switch automatically when switching audio channel in Ripper. 
+Fix: A black video problem when playing back the converted mp4 passthrough files in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+April 29, 2014
+DVDFab 9.1.4.2 Updated!
+
+New: Added support to rotate video in DVD Ripper, Blu-ray Ripper and Video converter (Video Effect Settings -> Crop).
+New: Added support to add multiple sources in Copy and Ripper tools.
+New: Added support to output multiple audio and subtitle tracks for some profiles under Device column. (Note: Not all device preinstalled media players support to play back multiple audio and subtitle tracks, we recommend VidOn player for Android and iOS, which are available at http://vidon.me).
+New: Added mp4/MKVpassthrough profiles in Video Converter. (NOTE: Not all video and audio codec's support passthrough).
+Fix: A crash problem when switching copy mode in certain cases.
+Fix: A problem that the preset subtitle settings are reversed back to default value when doing other settings at Advanced Settings panel.
+Fix: A wrong chapter info problem when converting DVDswith MKV profiles.
+Fix: A conversion failure problem with Xbox One profile.
+Fix: Some minor changes and improvements.
+
+_______________________
+April 17, 2014
+DVDFab 9.1.4.0 Updated!
+
+New: Added support to delete source in Ripper. 
+Fix: A problem that cannot detect CUDA GPU acceleration in Windows XP. 
+Fix: A freeze problem when copying Blu-ray disc to BD50 in certain cases.
+Fix: An output size problem when converting Blu-ray disc to avi xvid/divx profiles with setting video bitrate over 10000 kbps. 
+Fix: A freeze problem when converting DVD to mkv.passthrough with the external subtitle.
+Fix: Some minor changes and improvements.
+
+_______________________
+April 08, 2014
+DVDFab 9.1.3.8 Updated!
+
+New: Updated languages files.
+New: Added support to a new DVD copy protection as found on "Fifth Estate" R2.
+New: Added support to a new DVD copy protection as found on "Ender's Game" R2 (currently for Main Moviemode only ).
+New: Added support to output two subtitle tracks (forced only and normal) from one normal subtitle track for Blu-ray Ripper.
+Fix: A freeze problem at splash screen when running DVDFab in certain cases.
+Fix: A problem that cannot detect IQS GPU after updating the driver of Intel(R) HD Graphics Card to 10.18.10.3496.
+Fix: An A/V sync problem when converting Blu-ray with m2ts.passthrough profile in certain cases.
+Fix: A problem that the file title does not match with file name in Converter. 
+Fix: A crash problem when closing DVDFab after conversion is done in Blu-ray Creator.
+Fix: Aproblem that the DVD video created by DVD Creator will play with no audio by default in PowerDVD.
+Fix: A problem when running command line in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+March 20, 2014
+DVDFab 9.1.3.6 Updated!
+
+As our marketing strategy adjusts, the two brands, DVDFab and BluFab, will coexist simultaneously, starting from this minor update 9.1.3.6. All the existing customers performing updates shall get DVDFab 9 back again, with identical capacities as you always have, although we will not sell DVDFab 9 to new customers any more. This means, we will continue updating DVDFab 9 to existing customers in the future. Your lifetime licenses shall never expire!
+
+_______________________
+March 12, 2014
+DVDFab 9.1.3.3 Updated!
+
+DVDFab.com was temporarily blocked by some third party organizations. However, we promise to work this out as soon as we can, in these days, please refer "www.dvdfab.cn" instead. Thank you.
+
+_______________________
+March 11, 2014
+DVDFab 9.1.3.2 Updated!
+
+DVDFab.com was temporarily blocked by some third party organizations. However, we promise to work this out as soon as we can, in these days, please refer "en.dvdfab.jp" instead. Thank you.
+
+_______________________
+March 07, 2014
+DVDFab 9.1.3.1 Updated!
+
+New: Updated language files. 
+New: Added support for a new DVD copy protection as found on "The Hunger Games: Catching Fire".
+New: Added support for new java protection as found on The Hunger Games: Catching Fire Blu-ray disc.
+New: Added "Trim" feature for DVD Ripper, Blu-ray Ripper and Video Converter.
+New: Added support to set output file size in main interface for DVD Ripper, Blu-ray Ripper and Video Converter.
+New: Added Nokia Lumia 1520 and Sony Xperia A profiles.
+New: Added support to show output size in Blu-ray Creator.
+New: Added "Fit to disc" feature for Blu-ray Creator.
+New: Some minor changes and improvements.
+Fix: A problem that cannot detect the better graphics card when PC have more than 2 graphics cards in certain cases. 
+Fix: A missing ssif file problem when copying Blu-ray 3D disc in certain cases, such as: Cloudy with a Chance of Meatballs 2.
+Fix: A problem that cannot open the file source in certain cases.
+Fix: A problem that failed to rip with avi.audiocopy profiles in certain cases.
+Fix: A problem that the Volume Level option cannot work.
+Fix: A freeze problem when converting with Intel Quick Sync hardware acceleration in certain cases.
+Fix: A problem that DVDFab main page cannot display completely in certain cases.
+
+_______________________
+February 19, 2014
+DVDFab 9.1.2.8 Updated!
+
+New: Added support for new Java protections.
+Fix: Improved the compatibility with third party application like CursorFX and PangoBright.
+Fix: A problem that cannot start-up in certain cases.
+Fix: A crash problem when copying Blu-ray 3D to Blu-ray SBS in certain cases.
+Fix: A no sound problem when playing back the ripped .m4a audio file in Apple devices.
+Fix: A channel problem when ripping DVD to mp4 in certain cases.
+Fix: A crash problem when copying Blu-ray to DVD with "No menu" selected.
+Fix: A problem that the chapters are wrong when copying Blu-ray to DVD.
+Fix: A frame rate problem for video file source in certain cases.
+Fix: Some minor changes and improvements.
+
+_______________________
+January 22, 2014
+DVDFab 9.1.2.5 Updated!
+
+New: Updated language files.
+New: Added support to display the DVDFab history in task bar.
+Fix: A layout problem when setting the display DPI up to 200.
+Fix: A crash problem when opening Blu-ray or DVD disc in certain cases.
+Fix: A problem that cannot preview by chapter in Blu-ray ripper.
+Fix: A noise problem when ripping DVD discs containing PCM audio track in certain cases.
+
+_______________________
+January 08, 2014
+DVDFab 9.1.2.2 Updated!
+
+New: Updated languages files.
+Fix: A problem when previewing in certain cases.
+Fix: A problem when running command line in certain cases.
+Fix: A noise problem when ripping Blu-ray disc which contains DTS-HD 6.1 channels.
+Fix: A problem that failed to rip Blu-ray disc to Apple TV in certain cases.
+
+_______________________
+December 18, 2013
+DVDFab 9.1.1.9 Updated!
+
+New: Added support for new Java protection as found on "Percy Jackson Sea of Monsters".
+New: Added user experience improvement program.
+Fix: A bug in PathPlayer which causes not playable problem for certain discs.
+Fix: A bug in PathPlayer for certain version of 'World War Z' DVD.
+Fix: A problem that the ripped file is not playable with avi.divx and avi.xvid profiles.
+Fix: A problem that the ripped files audio bitrate down to 16bit from 24bit in certain cases.
+Fix: A problem that cannot change the profile in Converter in certain cases.
+Fix: A problem that bad video quality of ripped flv files.
+Fix: Some minor changes and improvement.
+
+_______________________
+December 07, 2013
+DVDFab 9.1.1.5 Updated!
+
+New: Removed some options from Common Settings, since they will be remembered in main interface when user change them.
+Fix: Improved user experience of DVD Split.
+Fix: A problem that cannot set the subtitle and chapter in Merge mode of DVD Copy.
+Fix: A problem that no subtitle ripped when ripping with VOB.Passthrough profile.
+Fix: A freeze problem when ripping to .MKV profiles with "Display the forced subtitle only" enabled.
+Fix: A problem that FPS (frames per second) is analyzed wrongly, when reading .VOB and .mpeg files.
+Fix: A problem that the resolution is wrong when converting .VOB files in certain cases.
+
+_______________________
+November 29, 2013
+DVDFab 9.1.1.1 Updated!
+
+New: Added support for a new DVD copy protection as found on "Red 2".
+
+_______________________
+November 28, 2013
+DVDFab 9.1.1.0 Updated!
+
+New: Updated decryption keys.
+New: Added support to hibernate when all tasks are done.
+New: Added support to display the file name when creating menu of DVD or Blu-ray disc.
+New: Improved the user experience for DVD Split, by dragging title to adjust the order.
+Fix: User interface freeze problem in certain cases.
+Fix: A crash problem when resizing the DVDFab window in certain cases.
+Fix: A crash problem when creating DVD or Blu-ray disc in certain cases.
+Fix: A freeze problem when creating Blu-ray with Intel Quick Sync enabled.
+Fix: A crash problem when viewing source info in Creator.
+Fix: A problem that cannot preview by chapter in DVD Ripper.
+Fix: A problem that cannot convert different sources with different profiles.
+Fix: A problem that cannot play the ripped files on Kindle Fire.
+Fix: A problem that cannot set the default audio track for MP4 and MKV profiles.
+
+_______________________
+November 15, 2013
+DVDFab 9.1.0.6 Updated!
+
+Fix: A crash problem when ripping to .WMV files in certain cases.
+Fix: An out of memory problem when ripping to .AVI files.
+
+_______________________
+November 13, 2013
+DVDFab 9.1.0.5 Updated!
+
+New: Brand new User Interface and User Experience. 
+New: Updated FFmpeg. 
+New: Added support for VC-1 interleaved video. 
+New: Added support to create customized menu in Blu-ray to DVD. 
+New: Added support for new DVD protection. 
+New: Added Lightning-Shrink support for hardware acceleration. 
+New: Added support to delete source in Copy. 
+New: Added new "Fit to disc" option in DVD Creator. 
+New: Some minor changes and improvements. 
+New: Updated language files. 
+Fix: A title removed problem when PathPlayer is enabled, if the disc has authoring error. 
+Fix: A problem that cannot enable Intel Quick Sync hardware acceleration in Blu-ray to DVD. 
+Fix: A problem that cannot enable Intel Quick Sync hardware acceleration when using remote desktop. 
+Fix: A problem that cannot start fabcheck.exe in certain cases. 
+Fix: A no sound problem when playback in iPod.Classic. 
+Fix: Improved playback compatibility for MP4 output. 
+Fix: A problem that no output file name in Video Converter. 
+
+_______________________
+October 18, 2013
+DVDFab 9.0.7.2 Updated!
+
+New: Added support to rip different sources with different profiles. 
+New: Improved GPU acceleration.
+New: Added audio copy profiles for Converter.
+New: Added support to duplicate a task with right-click on the title in Ripper.
+Fix: A problem that cannot pause when copying DVD and Blu-ray.
+Fix: A 304 problem in Ripper.
+Fix: A problem that cannot distinguish different angles of the title.
+Fix: A problem that wrong audio track selected in certain cases in Ripper.
+Fix: A problem that missing Remove HD feature for passthough and audio copy profiles in Ripper.
+Fix: A customized background picture problem in Creator.
+
+_______________________
+October 04, 2013
+DVDFab 9.0.7.0 Updated!
+
+New: Improved the user interface and user experience for Ripper.
+New: Improved the performance of CUDA and Intel Quick Sync hardware acceleration.
+New: Added support for PGS subtitle output for MKV profile.
+New: Added support for H.264 CRF encoding for Ripper and Converter.
+Fix: Jitters and pixelated problems when playing back the copied Blu-ray 3D discs in stand-alone player.
+Fix: A problem that cannot preview by chapter.
+Fix: A problem that cannot pause when copying or ripping.
+Fix: Some localization problems.
+Fix: Some minor changes and improvements.
+Fix: A jitters problem when playing back the ripped avi.h264.mp3 files with VLC player.
+Fix: An A/V sync problem when ripping DVD in certain cases.
+Fix: A pixelated screen problem when playing back the ripped mpeg4 files, and seeking them.
+Fix: A crash problem when running command line in certain cases.
+Fix: A freeze at 99% problem when copying Blu-ray discs in certain cases.
+
+_______________________
+September 09, 2013
+DVDFab 9.0.6.3 Updated!
+
+New: Added support for a new copy protection as found on "Iron Man 3" DVD. 
+New: Added support for a new copy protection as found on "Star Trek Into Darkness" DVD. 
+
+_______________________
+August 21, 2013
+DVDFab 9.0.6.0 Updated!
+
+New: Added avi.divx profiles for DVD and Blu-ray Ripper. 
+New: Improved the startup speed.
+New: Some improvements for command line. 
+Fix: A problem that cannot enable acceleration for AMD in windows 8.
+Fix: A problem that cannot seek with the backup disc in certain cases.
+Fix: A problem that cannot show the subtitle during the preview in certain cases. 
+Fix: A 1000 error when copying DVD or Blu-ray and the volume label contains the space.
+Fix: A process failed problem when copying Blu-ray to DVD in certain cases.
+Fix: An A/V sync problem when converting DVD to iPad and the DVD is 29.97 FPS or contains PCM audio track. 
+Fix: A crash problem when ripping DVD to 3D profiles in certain cases, such as: Avatar_JP.
+Fix: A problem that cannot playback the ripped file with iPod.classic profile.
+Fix: A no sound problem when playback the ripped 3d.htc.evo.h264.aac files. 
+Fix: A crash problem when opening mkv files in certain cases.
+
+_______________________
+July 26, 2013
+DVDFab 9.0.5.5 Updated!
+
+New: Added support for new Java protections.
+New: Added support for a new copy protection as found on "Tyler Perry's Temptation: Confessions of a Marriage Counselor".
+New: Added support for multiple audio track output for m2ts profiles.
+New: Added support customize image of menu for Blu-ray and DVD Creator.
+New: Added support Live Update and show the update log.
+New: Some minor changes and improvements.
+Fix: A freeze problem when opening source and then click cancel button in certain cases.
+Fix: A problem that missing task process number when burning and creating, such as: Task 1/2.
+Fix: Some localization issues for JA-JP.
+Fix: A crash problem when opening DVD source in certain cases.
+Fix: A crash problem when opening Blu-ray source after a DVD source was opened in certain cases.
+Fix: A problem thatcannot recognize the BD-ROM drive in Windows 8 in certain cases.
+Fix: A problem that cannot enable CUDA and DXVA accelerations in certain cases.
+Fix: A crash problem when deleting the profile which was downloaded from Profile Editor Official website.
+Fix: A crash problem after navigating from Burn mode to Customize mode.
+Fix: Localization problems.
+Fix: A problem that should not display the disc in source list after it was ejected.
+Fix: A pixilated problem when playing back the copied Blu-ray 3D disc with Blu-ray 3D Stand-alone player, such as: Wreck_It_Ralph_3D.
+Fix: A problem that cannot open physics Blu-ray disc in certain cases, such as: Fantastic4_2.
+Fix: A freeze problem when copying Blu-ray with both Lightning-Recoding and "Convert DTS/LPCM to AC3" option are enabled.
+Fix: A freeze problem when copying Blu-ray 3D disc to Blu-ray SBS 3D in certain cases, such as: Cars_2_3D and Puss_in_Boots_3D.
+Fix: A problem that failed to rip Blu-ray disc to Galaxy Note II in certain cases.
+Fix: A problem that cannot eject disc after burned in certain cases.
+Fix: A crash problem when ripping DVD to vob.passthrough and the option "Display the forced subtitle only" is enabled.
+Fix: A freeze problem when ripping Blu-ray to mkv.h264.audiocopy in certain cases, such as: Rio.
+Fix: A problem that failed to rip Blu-ray disc to avi.h264.audiocopy, such as: "Cars_USA.iso".
+Fix: A problem that "Display the forced subtitle only" option does not work for in certain cases.
+Fix: A work 1 failed error problem when ripping DVD disc to WMV AC3/1 audio track. 
+Fix: A crash problem when ripping Blu-ray disc in certain cases, such as: Mariah_Carey_The_Adventures_of_Mimi.
+Fix: A crash problem when converting or creating with mkv files in certain cases.
+Fix: A problem that converting failed when switching the language of DVDFab to ZH-TW.
+Fix: A crash problem when previewing file source in certain cases.
+Fix: A crash problem when converting .avi file in certain cases.
+Fix: A freeze problem when converting 2D file source to 3D format.
+Fix: A freeze problem when creating to Blu-ray in certain cases.
+Fix: A problem that the ripped mpeg4 and mp4 files, which were created by DVDFab, cannot be opened in Video Converter and DVD/Blu-ray Creator.
+Fix: A problem that the created DVD disc cannot be played on PS3, Panasonic 3D stand-alone player and Samsung stand-alone player. 
+Fix: A problem that cannot create DVD with external subtitle.
+
+_______________________
+June 26, 2013
+DVDFab 9.0.4.7 Updated!
+
+Fix: A decryption problem in certain cases.
+Fix: Cannot open older BD+ discs in certain cases.
+Fix: A crash problem when clicking "X" button to close the dialog in the process of Blu-ray disc analyzing.
+Fix: A crash problem when copying Blu-ray disc "Prometheus" to DVD.
+Fix: A crash problem when ripping DVD with vob.passthrough profile, and the option "Display the forced subtitle only" is enabled.
+Fix: A freeze problem when ripping to PS3 profile with PAL DVD source.
+Fix: An A/V sync problem when ripping DVD with iPhone4.mp4.multichannel profile and CUDA is enabled, such as: Prometheus.
+Fix: A subtitle/audio out of sync problem when ripping DVD, with vob.passthrough or mp4.h264.ac3 or mp4.h264.audiocopy profiles.
+Fix: A problem that the human voice channel is wrong when ripping with mp4.h264.aac 5.1 channels profile.
+Fix: A crash problem when converting with m2ts.ac3.normal profile and CUDA is enabled.
+Fix: A freeze at the beginning problem when creating and CoreAVC decoder is enabled.
+Fix: A problem that process failed when creating DVD, and the source file contains aac/1 audio track.
+Fix: A freeze problem when creating .avi files to DVD/Blu-ray and DXVA is enabled.
+
+_______________________
+June 07, 2013
+DVDFab 9.0.4.5 Updated!
+
+New: Added support to rip Blu-ray and DVD with DTS audio to mp4 file.
+Fix: A messy code displays problem when installing DVDFab in Swedish.
+Fix: Some localization problems.
+Fix: A problem that FabRegOp.exe pops up twice when launching DVDFab and UAC is open.
+Fix: A crash problem when previewing with DirectShow engine and DXVA decoder is enabled.
+Fix: A crash problem when previewing with Internal engine in certain cases.
+Fix: A problem that DVDFab should not read and analyze blank Blu-ray or DVD disc when user insert a blank disc to driver.
+Fix: A problem that should not save the settings after clicked cancel button on Common Settings page.
+Fix: A problem that should not allow user drop & drag source in home page.
+Fix: A problem that cannot delete task when cancelling burning task in Copy and Creator.
+Fix: A problem that cannot play back the ripped files by QuickTime.
+Fix: An error 1010/1000 problem when copying Blu-ray 3D disc in certain cases.
+Fix: A crash problem when ripping Blu-ray with 3d.mkv.h264.audiocopy profile, such as: HUGO_3D.iso.
+Fix: Improved the accuracy of calculation for copying Blu-ray video output bitrate.
+Fix: An oversize problem when copying Blu-ray 3d disc to BD25 in certain cases.
+Fix: A crash problem when copying Blu-ray 3D disc to BD25 in certain cases, such as: Megamind_3D, Life of Pi_3D, Adventures of Tintin_3D and Ice Age Continental Drift_3D.
+Fix: A freeze at beginning problem when ripping and Intel Quick Sync decoder and encoder are enabled.
+Fix: A problem that the language of subtitle is "Null" when playing the ripped mkv file, if the subtitle output mode is set to "Remux into file".
+Fix: A problem that slight electric sound in the left audio channel when playing back the ripped file which is made for Galaxy Note II profile.
+Fix: A problem that the ripped mp4.h264.aac files cannot be opened by DVDFab.
+
+_______________________
+May 27, 2013
+DVDFab 9.0.4.2 Updated!
+
+New: Added support for new Java protection as found on "The Last Stand".
+Fix: A problem that should not reset the burn engine when launching DVDFab without internet connected.
+Fix: A problem that cannot cancel process when clicking "X" in Task Queue.
+Fix: A problem that cannot uninstall DVDFab 9 when it is running.
+Fix: A compatibility problem for external BD-ROM, such as: ASUS BW-12D1S-U E102.
+Fix: A problem that cannot change the order in Task Queue.
+Fix: A crash problem when changing source in Burn mode in certain cases.
+Fix: A problem that the "Overwrite rewritable media automatically" feature cannot work when writing Blu-ray disc.
+Fix: A problem that should not upmix 2.0 audio to 5.1 when ripping Blu-ray with multichannel audio tracks.
+Fix: A problem that human voice is small in left channel when ripping DVD to Apple TV.
+Fix: A problem that wrong channel output when ripping Blu-ay and DVD with Mono or Dolby ProLogic.
+Fix: A no sound problem when playing the ripped file created with mp4.h264.mp3 profile in Blu-ray Ripper. 
+Fix: A problem that no video and audio when playing the ripped file created with mkv.passthrough profile when the Blu-ray video format is VC1.
+Fix: A problem that cannot create output folder if it contains east Asia character like Japanese. 
+Fix: A problem that cannot read multi audio tracks in Creator and Converter.
+
+_______________________
+May 16, 2013
+DVDFab 9.0.4.0 Updated!
+
+New: Updated decryption keys.
+New: Added support for new Java protections.
+New: Added support for no menu mode in DVD Creator, and added new template for it.
+New: Some minor changes and improvements.
+Fix: Virtual drive of DAEMON Tools doesn't work.
+Fix: A problem that profiles uses too much memory.
+Fix: A crash problem at start-up in certain cases.
+Fix: A problem that cannot reset DMA.
+Fix: A crash problem when installing in certain cases.
+Fix: A problem that the setting of CPU cores is wrong in certain cases.
+Fix: A problem that the copy speed is very slow in DVD Copy.
+Fix: A crash problem when copying Blu-ray 3D disc to BD25 in certain cases, such as: "The Twilight Saga Breaking Dawn Part 2".
+Fix: A problem that cannot switch the auido tracks when playing the ripped .mp4 file in Apple TV.
+
+_______________________
+April 29, 2013
+DVDFab 9.0.3.8 Updated!
+
+New: Added support for a new copy protection as found on "Jack Reacher".
+New: Added support to create Top Menu for DVD creator.
+New: Added support to output both 5.1 AC3 and 2.0 AAC audio tracks for AppleTV profile.
+Fix: A crash problem when connecting power for laptop computer.
+Fix: A crash problem when installer finished in certain cases.
+Fix: An oversize problem when copying Blu-ray disc to Full Disc BD25 in certain cases.
+Fix: A freeze problem when creating mp4/m2ts/ts file sources to DVD and Blu-ray.
+
+_______________________
+April 23, 2013
+DVDFab 9.0.3.6 Updated!
+
+New: DVDFab Blu-ray Ripper and DVDFab Blu-ray 3D Ripper merged into one option, and renamed to Blu-ray Ripper (3D Plus).
+New: DVDFab File Transfer is for free now.
+New: Added support for task queue.
+New: Added support to clone BDAV discs.
+New: Added support to decode the source which contains AC3-Plus (E-AC3) audio track.
+New: Added support to remember the user operation on user interface.
+New: Added support for WMV 10 output with 5.1 audio tracks.
+New: Added support for some special DVD discs.
+New: Added support to modify volume label for Blu-ray/DVD creator.
+New: Improved "Remove annoying PGCs (like FBI warning)".
+New: Updated VSO burning engine.
+New: Updated language files.
+New: Updated profiles for new device.
+New: Some user interface and user experience improvements.
+Fix: A layout problem when set the display DPI to 125 or 150.
+Fix: A crash problem when copying with DBCS external subtitle in certain cases.
+Fix: A crash problem when selecting ASCII as Character sets in certain cases.
+Fix: A problem that cannot set the Audio track, Subtitle and Chapter settings for multiple angles Blu-ray source.
+Fix: A problem that cannot burn data source in Clone/Burn mode.
+Fix: A crash problem opening data source in Split mode.
+Fix: A problem that cannot create dvdfab.miniso file in certain cases.
+Fix: A crash problem when burn DVD with VSO burning engine in certain cases.
+Fix: A problem that cannot select region code for DVD automatically.
+Fix: A freeze problem when copying Blu-ray disc to BD25, such as: Led Zeppelin Celebration Day.
+Fix: A problem that should not enable "Convert DTS/PCM to AC3" when copying Blu-ray to BD50/BD25.
+Fix: A crash problem when converting Blu-ray to DVD in certain cases, such as: Bad teacher, Battleship, Prometheus, Chris_Botti.iso.
+Fix: A problem that cannot copy Blu-ray to DVD after DVDFab warns user whether overwrite the existing folder, and user select "No".
+Fix: A freeze problem when ripping DVD to 3d.iphone4.h264.aac.
+Fix: A crash problem when ripping with mpeg4 profiles in 2-pass mode.
+Fix: A freeze problem when playing the converted result in PS3.
+Fix: An A/V sync problem when ripping DVD to mkv.remux in certain cases.
+Fix: A static audio problem when playing file converted by DVD Ripper on Windows Media Player and VLC Player.
+Fix: A noise problem when ripping to Apple TV3.
+Fix: A crash problem when ripping to mkv.audiocopy profile with multiple audio tracks.
+Fix: A crash problem after selected "Deinterlacing" option during the ripping process.
+Fix: A problem that the converted .mp4 and .m4v files cannot be played on iTunes and QuickTime.
+Fix: A graph 0 error problem when ripping Blu-ray to mp4 profiles.
+Fix: A crash problem when ripping to Apple profiles with special DVD source, such as: TOM_AND_JERRY_VOL1.
+Fix: A freeze problem when ripping Blu-ray to mkv.audiocopy with DTS-HD audio track. 
+Fix: A problem that should not only have "Mono" audio selection for DVD PCM-2 audio source in advanced settings dialog.
+Fix: An A/V sync problem when ripping Blu-ray "The Adventures of Tintin" with mkv.remux profile.
+Fix: Improved the accuracy of calculation for user customized video output bitrate.
+Fix: A problem that the location of idx/sub subtitle is not suitable in DVD and Blu-ray Ripper mode.
+Fix: An A/V sync problem when converting vob file to ipad.1080p.mp4.
+Fix: A crash problem when creating DVD in certain cases.
+Fix: A crash problem when deleting source in Convert and Creator in certain cases.
+Fix: A filter failed problem when converting with .mov files as source.
+Fix: A problem when setting the color of subtitle, it does not work in DVD Creator.
+Fix: A problem that cannot create chapter for DVD creator.
+Fix: A problem that cannot change the Volume Label for Blu-ray Creator.
+Fix: A problem that the created disc cannot be played by stand-alone player in certain cases.
+
+_______________________
+February 28, 2013
+DVDFab 9.0.2.8 Updated!
+
+New: Added support for a new Java protection as found on "The Twilight Saga: Breaking Dawn - Part 2".
+New: Added support to delete profile which was downloaded or created by user.
+Fix: Some localization problems for pt-BR, it-IT, ja-JP, de-DE, zh-TW, fr-FR and es-ES.
+Fix: Some crash problems which caused by CUDA encoder.
+Copy
+Fix: A 1000 error problem when copying Blu-ray with external subtitle.
+Ripper
+Fix: A wrong resolution problem with special Blu-ray disc which has the black bar in the left and right side, such as: 007_Dr.No.
+Fix: A freeze problem when ripping Blu-ray with external subtitle at the second time.
+Fix: A wrong multiple angles info in Summary when ripping Blu-ray in certain cases.
+Fix: A 500 error when remux one internal subtitle or two external subtitles.
+Fix: A problem that cannot split file for vob.passthrough in DVD Ripper.
+Fix: An A/V sync problem when ripping with CoreAVC decoder in certain cases.
+Creator
+Fix: An aspect ratio problem when creating DVD disc.
+Fix: A freeze problem when creating DVD or Blu-ray in certain cases.
+Fix: A problem that the created DVD cannot be played by DVDFab Media Player.
+
+_______________________
+February 06, 2013
+DVDFab 9.0.2.6 Updated!
+
+New: Updated decryption keys.
+DVD Copy:
+New: Added support for a new copy protection as found on "Flight" (US).
+
+_______________________
+February 05, 2013
+DVDFab 9.0.2.5 Updated!
+
+New: Updated language files.
+New: Some minor changes and improvements.
+New: Added support to create menu and other features for Blu-ray Creator. 
+New: Improved PathPlayer to support some special discs.
+New: Added support for full uninstall mode which allows user to choose whether remove personal data and customizations.
+New: Added support for "Save as Default Profile" feature in Advanced Settings dialog.
+Fix: A problem that Video Effect dialog should be opened only once.
+Fix: A problem that editing feature for multiple titles selection is wrong.
+Fix: A problem that cannot save the setting of "Default output type" in Common Settings dialog.
+Fix: A problem that cannot update summary info in certain cases.
+Fix: A crash problem when clicking "Save" button of profile editor in certain cases.
+Fix: A freeze problem when copying Blu-ray 3D disc with external subtitle in certain cases.
+Fix: A problem that response is slow when navigating form Main Movie to Full Disc mode with Blu-ray folder source.
+Fix: A crash problem when opening some Blu-ray 3D sources in certain cases.
+Fix: A crash problem of analysis process after cancel the conversion in certain cases.
+Fix: A problem that cannot close DVDFab while ripping process failed in command-line mode.
+Fix: A problem that cannot save the option "Default output type" to DVD Writer in Common Settings dialog.
+Fix: A crash problem when clicking "OK" button of open external subtitle dialog in Blu-ray Copy in certain cases.
+Fix: A problem that the external subtitle of copied Blu-ray 3D cannot be displayed using PowerDVD.
+Fix: A problem that missing "Convert DTS/LPCM audio to AC3" option in certain cases.
+Fix: A problem that no warning message when copying Blu-ray to ISO file when ImgBurn burning engine is selected but not installed.
+Fix: A 500 problem when copying Blu-ray source twice in certain cases.
+Fix: A problem that missing "Convert DTS/LPCM to AC-3" option when opening source which only has one title.
+Fix: A crash problem when opening compressed Blu-ray BD25 in certain cases, such as: Dark Knight Rises.
+Fix: A problem that cannot convert using ipod.audio.mp3 profile in DVD Ripper.
+Fix: A problem that cannot enable deinterlacing in DVD Ripper.
+Fix: A problem that no Base View info in Blu-ray 3D Ripper.
+Fix: A freeze problem when customizing source aspect ratio in certain cases.
+Fix: A crash problem clicking the "OK" button in advanced settings page in certain cases.
+Fix: A problem that no limit of the audio volume range when changing it in advanced settings dialog of Ripper mode.
+Fix: A problem that 3d.mp4.passthrough profile should not be shown in Ripper mode.
+Fix: A problem that wrong profile name of iPad.h264.multichannel and wmv.wma9.3D in Ripper mode.
+Fix: A problem that missing audio copy profiles in Video Converter.
+Fix: A problem that cannot rip Blu-ray 3D disc to 3d.avi.h264.audiocopy in 2-pass mode.
+Fix: A freeze problem when ripping Blu-ray 3D disc to 3d.mkv.h264.aac file in 2-pass mode.
+Fix: A problem that cannot render external subtitle in the left picture of 3D SBS movie in Blu-ray 3D Ripper mode.
+Fix: A problem that cannot save resolution when editing profile in Ripper mode.
+Fix: A 500 problem when ripping to NOKIA Lumia device in Blu-ray Ripper mode.
+Fix: A freeze problem when ripping to mkv.h264.ac3 with PAL source in DVD ripper.
+Fix: A 504 problem when ripping to mp4.h264.aac with mono channel in Blu-ray Ripper.
+Fix: A problem that cannot delete customized profile in Ripper mode.
+Fix: A problem that should not convert AC3 True-HD to AC3 with m2ts.audiocopy profile.
+Fix: An external subtitle problem when ripping Blu-ray title which contains multiple m2ts files.
+Fix: A freeze problem when creating Blu-ray in certain cases.
+Fix: A crackle problem when creating m2ts.passthrough.h264.dts.hd.7.1 to DVD9.
+Fix: An A/V sync problem when creating m2ts.passthrough.h264.dts.hd.7.1 to DVD5.
+Fix: A problem that cannot create a menu for Blu-ray in command-line mode.
+Fix: A problem that only first source is created to Blu-ray in Blu-ray creator.
+Fix: A problem that the created Blu-ray cannot be played on PowerDVD and TMT5 in Blu-ray creator.
+Fix: An A/V sync problem when converting m4v/mp4/m2ts files to DVD9 in certain cases.
+Fix: A 504 problem when converting mkv files to Blu-ray with CUDA encoder in Blu-ray Creator.
+Fix: A wrong default audio channel problem in Video Converter.
+Fix: A crash problem when selecting "Customized size" on Video Effect dialog in Video Converter.
+Fix: A problem that should not set Mono channel for all profiles in Video Converter.
+Fix: A problem that cannot back to menu after played the last title of created Blu-ray.
+Fix: A freeze problem when using command-line in DVD Creator which was introduced in DVDFab9022.
+Fix: A problem of command-line for ripper and converter which was introduced in DVDFab9022.
+
+_______________________
+January 17, 2013
+DVDFab 9.0.2.2 Updated!
+
+New: Added support to share edited profiles in Blu-ray/DVD Ripper and Video Converter.
+Fix: A crash problem at startup in certain cases.
+Fix: A wrong chapter problem when copying Blu-ray to DVD.
+Fix: A freeze problem when copying Blu-ray 3D disc with external subtitle in certain cases.
+Fix: A problem that cannot display the external subtitle in Blu-ray Copy mode.
+Fix: A problem that cannot display the external subtitle in DVD Creator mode.
+
+_______________________
+January 08, 2013
+DVDFab 9.0.2.0 Updated!
+
+New: Added support to add external subtitle for Main Movie mode in Blu-ray Copy.
+New: Added fully featured profile editor.
+New: Added support to create menu and other features for DVD Creator.
+New: Added brand new internal preview engine.
+New: Improved the user experience for Video Effect feature.
+New: Improved command line support for DVDFab 9.
+New: Added workaround for CUDA decoder/encoder error. DVDFab can switch to Software mode automatically to complete the task.
+New: Added support to add external subtitle for DVD Ripper, Blu-ray Ripper and Video Converter.
+New: Added chapter support for .mp4 file for Blu-ray Ripper.
+New: Added mp4.passthrough profile for Blu-ray Ripper.
+New: Added subpicture remux into file support for .mp4 file for Blu-ray Ripper.
+New: Added new 39 profiles for Blu-ray Ripper and DVD Ripper.
+New: Added support 10 bit depth decoder for Video Converter and Blu-ray/DVD Creator.
+Fix: A problem that wrong information for DVDFab Gold user in Summary.
+Fix: A problem that cannot support Split feature for DVDFab Gold user.
+Fix: A crash problem when ejecting the physical disc in certain cases.
+Fix: A 700 error problem when copying Full Disc in certain cases.
+Fix: A problem that the added subtitle is truncated in certain cases.
+Fix: A problem that cannot remux the subtitle into .mp4 file in Blu-ray Ripper.
+Fix: An A/V sync problem when copying Blu-ray to DVD in certain cases.
+Fix: A 504 error when ripping with 2-pass profiles in Blu-ray and DVD Ripper mode.
+Fix: A problem that cannot open mp4.h264.aac.mp4 file source in Blu-ray Creator mode.
+Fix: An aspect ratio problem in Blu-ray to DVD Converter.
+Fix: A display problem for double line subtitles in DVD Creator.
+Fix: A problem that cannot add external subtitle for Blu-ray Creator. 
+
+_______________________
+December 14, 2012
+DVDFab 9.0.1.6 Updated!
+
+New: Added support for a new BD+ protection as found on "The Expendables 2" England version.
+Fix: A black screen problem when playback the copied Blu-ray 3D discs on standalone player in certain cases. 
+Fix: A black screen problem when playback the copied Blu-ray 3D discs on TMT and PowerDVD players in certain cases. Note: This issue only reproduces in Full Disc mode and using the Blu-ray ISO files as source.
+Fix: A 1000 error problem when copying Blu-ray discs to Blu-ray SBS 3D in certain cases.
+Fix: A freeze problem when copying vc1 Blu-ray discs in certain cases.
+
+_______________________
+December 08, 2012
+DVDFab 9.0.1.5 Updated!
+
+New: Improved user interface for main window and common settings window.
+Fix: A problem that cannot show full user interface at resolution 800x600.
+Fix: A no subtitle problem when copying DVD in Full Disc mode.
+Fix: A crash problem when changing language in common settings page in certain cases.
+Fix: A problem that thumbnail was lost when launch DVDFab without showing the option selection window.
+Fix: A problem that opened source was lost when DVDFab is minimized. 
+Fix: A problem that should not show BD9 and BD5 output in Full Disc mode.
+Fix: A problem that cannot change mode back to Main Movie after set output type as Blu-ray to DVD in Customize mode.
+Fix: A problem that cannot burn BD9 and BD5 on DVD disc in Blu-ray Copy Main Movie mode.
+
+_______________________
+November 30, 2012
+DVDFab 9.0.1.2 Updated!
+
+New: Added "Version" and "Serial Number" in Settings->Drives.
+New: Added "Prevent standby/hibernation/screensaver when processing" feature.
+New: Added "Burn again" feature.
+Fix: A problem that the temp files are not deleted after burning.
+Fix: A problem that cannot display the progress at task bar.
+Fix: Some external subtitle problems in Blu-ray Copy and Bu-ray Ripper mode.
+Fix: A problem that the volume name is wrong in task queue.
+Fix: A problem that "Always display only forced subpicture" feature cannot work. 
+Fix: A problem that the summary info cannot be refreshed in certain cases.
+Fix: A glitter problem of preview in certain cases.
+Fix: A wrong link problem for renew.
+Fix: A problem that DVDFab crashed when turn off subtitle in Preview.
+Fix: A problem that cannot launch DVDFab in certain cases while an usb drive is connecting.
+Fix: A crash problem when copying or ripping with a movie without any subtitle.
+Fix: A problem that should not enable "Remove HD Audio" when the audio is not HD.
+Fix: A problem that main window cannot be maximized in certain cases.
+Fix: A truncation problem in Summary when the volume label is too long.
+Fix: A problem that should not recognize blank DVD disc as a source.
+Fix: A problem that cannot recognize blank disc for copying in certain cases.
+Fix: A problem that cannot navigate to Full Disc mode from Split mode in certain cases.
+Fix: A crash problem when opening with 2 channels PCM DVD in Ripper mode.
+Fix: Added warning information when using "Copy as 3D" feature.
+Fix: A problem that cannot create miniso file for folder source. 
+Fix: A crash problem when eject Blu-ray disc in Full disc mode.
+Fix: A problem that missing "Copy as Blu-ray 3D","Copy as Blu-ray 2D" and "Convert to Blu-ray SBS 3D" in certain cases.
+Fix: A problem that cannot distinguish "Fake title" by different color.
+Fix: A no sound problem when ripping with some profiles, the bitrate of audio is too high. Should reduce the audio bitrate form "main" level to "lc". 
+Fix: A problem that the progress bar of task queue display wrong in Video Converter mode. 
+Fix: A queue problem when creating multiple files to a DVD or Blu-ray.
+Fix: A crash problem when opening a broken file source.
+
+_______________________
+November 24, 2012
+DVDFab 9.0.1.1 Updated!
+
+New: Updated language files.
+New: Improved the navigation layout of main window.
+New: Set the DVDFab burning engine as the default Blu-ray burning engine.
+New: Added "Burn again" feature.
+New: Added "Do not show again" for the option selection window.
+Fix: An update problem when set auto update to "Never". 
+
+_______________________
+November 21, 2012
+DVDFab 9.0.1.0 Updated!
+
+New: Updated language files.
+Fix: A crash problem when changing from Ripper mode to Copy mode in certain cases.
+Fix: A burning problem that should not burn a more than 25GB movie to 25GB blank blu-ray disc.
+Fix: Added "Split by chapter" for encoding method of profile settings.
+Fix: Added arrow mark for main title for Blu-ray Ripper.
+Fix: A crash problem when left clicking in profile list page. 
+
+_______________________
+November 20, 2012
+DVDFab 9.0.0.9 Updated!
+
+Fix: A crash problem when clicking the Finish button in certain cases.
+Fix: A problem that "Deinterlacing" cannot be selected automatically.
+Fix: A no video problem when converting mkv file to mp4 file.
+Fix: A freeze problem when ripping to vob.passthrough in DVD Ripper mode.
+Fix: A crash problem when clicking ISO icon of "Save to" in DVD Merge mode.
+Fix: A crash problem when clicking the Finish button in DVD Merge mode.
+Fix: A problem that wrong subtitle preset for mkv.h264.ac3 profile.
+Fix: A no subtitle problem when ripping to mkv.passthrough and mkv.h264.audiocopy profiles in DVD Ripper mode.
+Fix: A freeze problem when ripping to m2ts.psssthrough in certain cases.
+Fix: A 504 problem when ripping to audio.wav with DTS-HD audio track in Blu-ray Ripper mode.
+Fix: A 504 problem when creating DVD.
+Fix: A freeze problem when clicking the OK button in FileMover.

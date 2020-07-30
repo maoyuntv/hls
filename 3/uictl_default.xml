@@ -1,0 +1,111 @@
+<dvdfab version="180">
+<pane name="dvd2dvd">
+<task name="fulldisc" image_idx="0" show_task="1" used_times="0"/>
+<task name="mainmovie" image_idx="1" show_task="1" used_times="0"/>
+<task name="split" image_idx="2" show_task="1" used_times="0"/>
+<task name="custom" image_idx="3" show_task="1" used_times="0"/>
+<task name="customsplit" image_idx="4" show_task="1" used_times="0"/>
+<task name="clone" image_idx="5" show_task="1" used_times="0"/>
+<task name="merge" image_idx="6" show_task="1" used_times="0"/>
+<task name="writedata" image_idx="7" show_task="1" used_times="0"/>
+</pane>
+<pane name="dvd2mobile">
+<task name="generic" image_idx="18" show_task="1" used_times="0" device="generic" show_text="Generic" tip="Convert DVD title to PC MPEG-4/DivX/XVID/H.264 AVI/MP4 file."/>
+<task name="ipod" image_idx="36" show_task="1" used_times="0" device="ipod" show_text="iPod" tip="Convert DVD title to Apple iPod MPEG-4/H.264 MP4 file."/>
+<task name="iphone" image_idx="37" show_task="1" used_times="0" device="iphone" show_text="iPhone" tip="Convert DVD title to Apple iPhone MPEG-4/H.264 MP4 file."/>
+<task name="ipad" image_idx="32" show_task="1" used_times="0" device="ipad" show_text="iPad" tip="Convert DVD title to Apple iPad H.264 MP4 file."/>
+<task name="fabmp5" image_idx="38" show_task="1" used_times="0" device="fabmp5" show_text="DVDFab Player" tip="Convert DVD title to video file, which can be played on DVDFab HD Video MP3 Player."/>
+<task name="android" image_idx="41" show_task="1" used_times="0" device="android" show_text="Android" tip="Convert DVD title to video file, which can be played on Android Device."/>
+<task name="3D device" image_idx="34" show_task="1" used_times="0" device="3D device" show_text="3D device" tip="Convert DVD title to 3D video file for 3D devive."/>
+<task name="3D format" image_idx="35" show_task="1" used_times="0" device="3D format" show_text="3D format" tip="Convert DVD title to 3D video file for 3D format."/>
+<task name="psp" image_idx="20" show_task="1" used_times="0" device="psp" show_text="PSP" tip="Convert DVD title to Sony PSP MPEG-4/H.264 MP4 file."/>
+<task name="zune" image_idx="24" show_task="1" used_times="0" device="zune" show_text="ZUNE" tip="Convert DVD title to WMV file, which can be played on Microsoft ZUNE."/>
+<task name="nds" image_idx="26" show_task="1" used_times="0" device="nds" show_text="NDS" tip="Convert DVD title to DPG file, which can be played on Nintendo DS."/>
+<task name="xbox360" image_idx="25" show_task="1" used_times="0" device="xbox360" show_text="Xbox 360" tip="Convert DVD title to WMV file, which can be played on Microsoft Xbox 360."/>
+<task name="ps3" image_idx="27" show_task="1" used_times="0" device="ps3" show_text="PS3" tip="Convert DVD title to MPEG-4/H.264 MP4 file, which can be played on Sony PlayStation 3."/>
+<task name="appletv" image_idx="30" show_task="1" used_times="0" device="appletv" show_text="appletv" tip="Convert DVD title to MP4 file, which can be played on Apple TV."/>
+<task name="cellphone" image_idx="21" show_task="1" used_times="0" device="cellphone" show_text="Cell Phone" tip="Convert DVD title to media file, which can be played on Cell Phone."/>
+<task name="pvp" image_idx="22" show_task="1" used_times="0" device="pvp" show_text="PVP" tip="Convert DVD title to media file, which can be played on Portable Video Player."/>
+<task name="pda" image_idx="23" show_task="1" used_times="0" device="pda" show_text="PDA" tip="Convert DVD title to media file, which can be played on Personal Digital Assistant."/>
+<task name="vob" image_idx="29" show_task="1" used_times="0" device="vob" show_text="vob" tip="vob"/>
+<task name="avi" image_idx="12" show_task="1" used_times="0" device="avi" show_text="AVI" tip="Convert DVD title to AVI file."/>
+<task name="mp4" image_idx="13" show_task="1" used_times="0" device="mp4" show_text="MP4" tip="Convert DVD title to MP4 file."/>
+<task name="wmv" image_idx="14" show_task="1" used_times="0" device="wmv" show_text="WMV" tip="Convert DVD title to WMV file."/>
+<task name="mkv" image_idx="15" show_task="1" used_times="0" device="mkv" show_text="MKV" tip="Convert DVD title to MKV file."/>
+<task name="flv" image_idx="16" show_task="1" used_times="0" device="flv" show_text="FLV" tip="Convert DVD title to FLV file."/>
+<task name="3gp" image_idx="17" show_task="1" used_times="0" device="3gp" show_text="3GP" tip="Convert DVD title to 3GP file."/>
+<task name="ts" image_idx="18" show_task="1" used_times="0" device="ts" show_text="TS" tip="Convert DVD title to TS file."/>
+<task name="m2ts" image_idx="18" show_task="1" used_times="0" device="m2ts" show_text="M2TS" tip="Convert DVD title to M2TS file."/>
+<task name="audio" image_idx="31" show_task="1" used_times="0" device="audio" show_text="Audio" tip="Convert DVD title to audio file."/>
+</pane>
+<pane name="blu-ray2blu-ray">
+<task name="fulldisc" image_idx="8" show_task="1" used_times="0"/>
+<task name="mainmovie" image_idx="9" show_task="1" used_times="0"/>
+<task name="clone" image_idx="10" show_task="1" used_times="0"/>
+<task name="writedata" image_idx="11" show_task="1" used_times="0"/>
+</pane>
+<pane name="blu-ray2mobile">
+<task name="generic" image_idx="18" show_task="0" used_times="0" device="generic" show_text="Generic" tip="Convert Blu-ray title to PC MPEG-4/DivX/XVID/H.264 AVI/MP4 file."/>
+<task name="xbox360" image_idx="25" show_task="1" used_times="0" device="xbox360" show_text="Xbox 360" tip="Convert Blu-ray title to WMV file, which can be played on Microsoft Xbox 360."/>
+<task name="ps3" image_idx="27" show_task="1" used_times="0" device="ps3" show_text="PS3" tip="Convert Blu-ray title to MPEG-4/H.264 MP4 file, which can be played on Sony PlayStation 3."/>
+<task name="ipod" image_idx="36" show_task="1" used_times="0" device="ipod" show_text="iPhone" tip="Convert DVD title to Apple iPod MPEG-4/H.264 MP4 file."/>
+<task name="iphone" image_idx="37" show_task="1" used_times="0" device="iphone" show_text="iPhone" tip="Convert DVD title to Apple iPhone MPEG-4/H.264 MP4 file."/>
+<task name="ipad" image_idx="32" show_task="1" used_times="0" device="ipad" show_text="iPad" tip="Convert Blu-ray title to Apple iPad H.264 MP4 file."/>
+<task name="fabmp5" image_idx="38" show_task="1" used_times="0" device="fabmp5" show_text="DVDFab Player" tip="Convert Blu-ray title to video file, which can be played on DVDFab HD Video MP3 Player."/>
+<task name="android" image_idx="41" show_task="1" used_times="0" device="android" show_text="Android" tip="Convert Blu-ray title to video file, which can be played on Android Device."/>
+<task name="3D device" image_idx="34" show_task="1" used_times="0" device="3D device" show_text="3D device" tip="Convert Blu-ray title to 3D video file for 3D devive."/>
+<task name="3D format" image_idx="35" show_task="1" used_times="0" device="3D format" show_text="3D format" tip="Convert Blu-ray title to 3D video file for 3D format."/>
+<task name="mkv" image_idx="15" show_task="1" used_times="0" device="mkv" show_text="MKV" tip="Convert Blu-ray title to MKV file."/>
+<task name="avi" image_idx="12" show_task="1" used_times="0" device="avi" show_text="AVI" tip="Convert Blu-ray title to AVI file."/>
+<task name="mp4" image_idx="13" show_task="1" used_times="0" device="mp4" show_text="MP4" tip="Convert Blu-ray title to MP4 file."/>
+<task name="ts" image_idx="18" show_task="1" used_times="0" device="ts" show_text="TS" tip="Convert Blu-ray title to TS file."/>
+<task name="m2ts" image_idx="18" show_task="1" used_times="0" device="m2ts" show_text="M2TS" tip="Convert Blu-ray title to M2TS file."/>
+<task name="audio" image_idx="31" show_task="1" used_times="0" device="audio" show_text="Audio" tip="Convert Blu-ray title to audio file."/>
+</pane>
+<pane name="blu-ray23d">
+<task name="3D device" image_idx="34" show_task="1" used_times="0" device="3D device" show_text="3D device" tip="Convert Blu-ray 3D title to 3D video file for 3D devive."/>
+<task name="mkv" image_idx="15" show_task="1" used_times="0" device="mkv" show_text="MKV" tip="Convert Blu-ray 3D title to MKV file."/>
+<task name="avi" image_idx="12" show_task="1" used_times="0" device="avi" show_text="AVI" tip="Convert Blu-ray 3D title to AVI file."/>
+<task name="mp4" image_idx="13" show_task="1" used_times="0" device="mp4" show_text="MP4" tip="Convert Blu-ray 3D title to MP4 file."/>
+<task name="wmv" image_idx="14" show_task="1" used_times="0" device="wmv" show_text="WMV" tip="Convert Blu-ray 3D title to WMV file."/>
+<task name="m2ts" image_idx="18" show_task="1" used_times="0" device="m2ts" show_text="M2TS" tip="Convert Blu-ray 3D title to M2TS file."/>
+<task name="ts" image_idx="18" show_task="1" used_times="0" device="ts" show_text="TS" tip="Convert Blu-ray 3D title to TS file."/>
+</pane>
+<pane name="blu-ray2dvd">
+<task name="vob" image_idx="33" show_task="1" used_times="0" device="vob" show_text="vob" tip="Convert Blu-ray title to DVD-Video."/>
+</pane>
+<pane name="file2mobile">
+<task name="generic" image_idx="18" show_task="1" used_times="0" device="generic" show_text="Generic" tip="Convert video file to PC MPEG-4/DivX/XVID/H.264 AVI/MP4 file."/>
+<task name="ipod" image_idx="36" show_task="1" used_times="0" device="ipod" show_text="iPod" tip="Convert video file to Apple iPod MPEG-4/H.264 MP4 file."/>
+<task name="iphone" image_idx="37" show_task="1" used_times="0" device="iphone" show_text="iPhone" tip="Convert video file to Apple iPhone MPEG-4/H.264 MP4 file."/>
+<task name="ipad" image_idx="32" show_task="1" used_times="0" device="ipad" show_text="iPad" tip="Convert video file to Apple iPad H.264 MP4 file."/>
+<task name="fabmp5" image_idx="38" show_task="1" used_times="0" device="fabmp5" show_text="DVDFab Player" tip="Convert video file to specific file, which can be played on DVDFab HD Video MP3 Player."/>
+<task name="android" image_idx="41" show_task="1" used_times="0" device="android" show_text="Android" tip="Convert video file to specific file, which can be played on Android Device."/>
+<task name="3D device" image_idx="34" show_task="1" used_times="0" device="3D device" show_text="3D device" tip="Convert video file to 3D video file for 3D devive."/>
+<task name="3D format" image_idx="35" show_task="1" used_times="0" device="3D format" show_text="3D format" tip="Convert video file to 3D video file for 3D format."/>
+<task name="psp" image_idx="20" show_task="1" used_times="0" device="psp" show_text="PSP" tip="Convert video file to Sony PSP MPEG-4/H.264 MP4 file."/>
+<task name="zune" image_idx="24" show_task="1" used_times="0" device="zune" show_text="ZUNE" tip="Convert video file to WMV file, which can be played on Microsoft ZUNE."/>
+<task name="nds" image_idx="26" show_task="1" used_times="0" device="nds" show_text="NDS" tip="Convert video file to DPG file, which can be played on Nintendo DS."/>
+<task name="xbox360" image_idx="25" show_task="1" used_times="0" device="xbox360" show_text="Xbox 360" tip="Convert video file to WMV file, which can be played on Microsoft Xbox 360."/>
+<task name="ps3" image_idx="27" show_task="1" used_times="0" device="ps3" show_text="PS3" tip="Convert video file to MPEG-4/H.264 MP4 file, which can be played on Sony PlayStation 3."/>
+<task name="appletv" image_idx="30" show_task="1" used_times="0" device="appletv" show_text="appletv" tip="Convert video file to MP4 file, which can be played on Apple TV."/>
+<task name="cellphone" image_idx="21" show_task="1" used_times="0" device="cellphone" show_text="Cell Phone" tip="Convert video file to specific file, which can be played on Cell Phone."/>
+<task name="pvp" image_idx="22" show_task="1" used_times="0" device="pvp" show_text="PVP" tip="Convert video file to specific file, which can be played on Portable Video Player."/>
+<task name="pda" image_idx="23" show_task="1" used_times="0" device="pda" show_text="PDA" tip="Convert video file to specific file, which can be played on Personal Digital Assistant."/>
+<task name="avi" image_idx="12" show_task="1" used_times="0" device="avi" show_text="AVI" tip="Convert video file to AVI file."/>
+<task name="mp4" image_idx="13" show_task="1" used_times="0" device="mp4" show_text="MP4" tip="Convert video file to MP4 file."/>
+<task name="wmv" image_idx="14" show_task="1" used_times="0" device="wmv" show_text="WMV" tip="Convert video file to WMV file."/>
+<task name="mkv" image_idx="15" show_task="1" used_times="0" device="mkv" show_text="MKV" tip="Convert video file to MKV file."/>
+<task name="flv" image_idx="16" show_task="1" used_times="0" device="flv" show_text="FLV" tip="Convert video file to FLV file."/>
+<task name="3gp" image_idx="17" show_task="1" used_times="0" device="3gp" show_text="3GP" tip="Convert video file to 3GP file."/>
+<task name="ts" image_idx="18" show_task="1" used_times="0" device="ts" show_text="TS" tip="Convert video file to TS file."/>
+<task name="m2ts" image_idx="18" show_task="1" used_times="0" device="m2ts" show_text="M2TS" tip="Convert Video to M2TS file."/>
+<task name="audio" image_idx="31" show_task="1" used_times="0" device="audio" show_text="Audio" tip="Extract audio from video file."/>
+</pane>
+<pane name="file2dvd">
+<task name="vob" image_idx="39" show_task="1" used_times="0" device="vob" show_text="vob" tip="Convert video file to DVD-Video."/>
+</pane>
+<pane name="file2bluray">
+<task name="bdmv" image_idx="40" show_task="1" used_times="0" device="bdmv" show_text="m2ts" tip="Convert video file to Blu-ray."/>
+</pane>
+</dvdfab>
